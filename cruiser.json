@@ -1,4 +1,74 @@
 {
+    "PASC002_Chester_1908": {
+        "AP": {
+            "bulletAirDrag": 0.3, 
+            "bulletDiametr": 0.127, 
+            "bulletKrupp": 1350.0, 
+            "bulletMass": 22.7, 
+            "bulletName": "PAPA021_Shell_127mm_AP_AP", 
+            "bulletSpeed": 914.0
+        }
+    }, 
+    "PASC004_St_Louis_1906": {
+        "AP": {
+            "bulletAirDrag": 0.4036, 
+            "bulletDiametr": 0.152, 
+            "bulletKrupp": 1830.0, 
+            "bulletMass": 47.7, 
+            "bulletName": "PAPA027_Shell_152mm_AP_AP_105lbs", 
+            "bulletSpeed": 853.0
+        }
+    }, 
+    "PASC005_Omaha_1923": {
+        "AP": {
+            "bulletAirDrag": 0.3164, 
+            "bulletDiametr": 0.152, 
+            "bulletKrupp": 1772.0, 
+            "bulletMass": 47.6, 
+            "bulletName": "PAPA061_SHELL_152MM_AP_SC_MK_27_MOD_5", 
+            "bulletSpeed": 914.0
+        }
+    }, 
+    "PASC007_Cleveland_1945": {
+        "AP": {
+            "bulletAirDrag": 0.322, 
+            "bulletDiametr": 0.152, 
+            "bulletKrupp": 2445.0, 
+            "bulletMass": 59.0, 
+            "bulletName": "PAPA019_Shell_152mm_AP_AP_Mk_35", 
+            "bulletSpeed": 762.0
+        }
+    }, 
+    "PASC012_Pensacola_1944": {
+        "AP": {
+            "bulletAirDrag": 0.321, 
+            "bulletDiametr": 0.203, 
+            "bulletKrupp": 2846.0, 
+            "bulletMass": 118.0, 
+            "bulletName": "PAPA037_Shell_203mm_AP_AP_260lbs", 
+            "bulletSpeed": 792.0
+        }
+    }, 
+    "PASC014_New_Orlean_1944": {
+        "AP": {
+            "bulletAirDrag": 0.321, 
+            "bulletDiametr": 0.203, 
+            "bulletKrupp": 2846.0, 
+            "bulletMass": 118.0, 
+            "bulletName": "PAPA001_Shell_203mm_AP_AP_Mk_19", 
+            "bulletSpeed": 853.0
+        }
+    }, 
+    "PASC017_Baltimore_1944": {
+        "AP": {
+            "bulletAirDrag": 0.321, 
+            "bulletDiametr": 0.203, 
+            "bulletKrupp": 2846.0, 
+            "bulletMass": 118.0, 
+            "bulletName": "PAPA001_Shell_203mm_AP_AP_Mk_19", 
+            "bulletSpeed": 853.0
+        }
+    }, 
     "PASC020_Des_Moines_1948": {
         "AP": {
             "bulletAirDrag": 0.356, 
@@ -9,7 +79,67 @@
             "bulletSpeed": 762.0
         }
     }, 
+    "PASC024_Phoenix_1917": {
+        "AP": {
+            "bulletAirDrag": 0.4036, 
+            "bulletDiametr": 0.152, 
+            "bulletKrupp": 1830.0, 
+            "bulletMass": 47.7, 
+            "bulletName": "PAPA027_Shell_152mm_AP_AP_105lbs", 
+            "bulletSpeed": 853.0
+        }
+    }, 
+    "PBSC102_Weymouth": {
+        "AP": {
+            "bulletAirDrag": 0.4461, 
+            "bulletDiametr": 0.152, 
+            "bulletKrupp": 2152.0, 
+            "bulletMass": 45.36, 
+            "bulletName": "PBPA009_152MM_AP_100LBS", 
+            "bulletSpeed": 773.0
+        }
+    }, 
+    "PBSC103_Caledon": {
+        "AP": {
+            "bulletAirDrag": 0.4194, 
+            "bulletDiametr": 0.152, 
+            "bulletKrupp": 2045.0, 
+            "bulletMass": 45.36, 
+            "bulletName": "PBPA011_152MM_AP_4CRH", 
+            "bulletSpeed": 853.0
+        }
+    }, 
+    "PBSC104_Danae": {
+        "AP": {
+            "bulletAirDrag": 0.4194, 
+            "bulletDiametr": 0.152, 
+            "bulletKrupp": 2045.0, 
+            "bulletMass": 45.36, 
+            "bulletName": "PBPA011_152MM_AP_4CRH", 
+            "bulletSpeed": 853.0
+        }
+    }, 
+    "PBSC105_Emerald": {
+        "AP": {
+            "bulletAirDrag": 0.3786, 
+            "bulletDiametr": 0.152, 
+            "bulletKrupp": 2045.0, 
+            "bulletMass": 45.36, 
+            "bulletName": "PBPA013_152MM_AP_4CRH_SC", 
+            "bulletSpeed": 936.0
+        }
+    }, 
     "PBSC106_Leander": {
+        "AP": {
+            "bulletAirDrag": 0.3297, 
+            "bulletDiametr": 0.152, 
+            "bulletKrupp": 2609.0, 
+            "bulletMass": 50.8, 
+            "bulletName": "PBPA016_152MM_AP_6CRH_MK4", 
+            "bulletSpeed": 841.0
+        }
+    }, 
+    "PBSC107_Fiji": {
         "AP": {
             "bulletAirDrag": 0.3297, 
             "bulletDiametr": 0.152, 
@@ -27,6 +157,16 @@
             "bulletMass": 50.8, 
             "bulletName": "PBPA016_152MM_AP_6CRH_MK4", 
             "bulletSpeed": 841.0
+        }
+    }, 
+    "PBSC109_Neptune": {
+        "AP": {
+            "bulletAirDrag": 0.3475, 
+            "bulletDiametr": 0.152, 
+            "bulletKrupp": 2672.0, 
+            "bulletMass": 58.85, 
+            "bulletName": "PBPA017_152MM_AP_MK5", 
+            "bulletSpeed": 768.0
         }
     }, 
     "PBSC110_Minotaur": {
@@ -49,14 +189,54 @@
             "bulletSpeed": 770.0
         }
     }, 
+    "PFSC103_Friant": {
+        "AP": {
+            "bulletAirDrag": 0.3916, 
+            "bulletDiametr": 0.139, 
+            "bulletKrupp": 2041.0, 
+            "bulletMass": 39.5, 
+            "bulletName": "PFPA008_139MM_55_1923_AP", 
+            "bulletSpeed": 790.0
+        }
+    }, 
+    "PFSC104_Duguay_Trouin": {
+        "AP": {
+            "bulletAirDrag": 0.3401, 
+            "bulletDiametr": 0.155, 
+            "bulletKrupp": 2214.0, 
+            "bulletMass": 56.5, 
+            "bulletName": "PFPA011_155MM_50_1920_AP", 
+            "bulletSpeed": 870.0
+        }
+    }, 
     "PFSC105_Emile_Bertin": {
         "AP": {
             "bulletAirDrag": 0.3226, 
             "bulletDiametr": 0.152, 
-            "bulletKrupp": 2184.0, 
-            "bulletMass": 56.0, 
-            "bulletName": "PFPA013_152MM_55_1930_AP_1931", 
+            "bulletKrupp": 2225.0, 
+            "bulletMass": 57.1, 
+            "bulletName": "PFPA015_152MM_55_1930_AP_1937", 
             "bulletSpeed": 870.0
+        }
+    }, 
+    "PFSC106_La_Galissonniere": {
+        "AP": {
+            "bulletAirDrag": 0.3226, 
+            "bulletDiametr": 0.152, 
+            "bulletKrupp": 2225.0, 
+            "bulletMass": 57.1, 
+            "bulletName": "PFPA015_152MM_55_1930_AP_1937", 
+            "bulletSpeed": 870.0
+        }
+    }, 
+    "PFSC107_Algerie": {
+        "AP": {
+            "bulletAirDrag": 0.33, 
+            "bulletDiametr": 0.203, 
+            "bulletKrupp": 2434.0, 
+            "bulletMass": 134.0, 
+            "bulletName": "PFPA019_203MM_50_1924_AP", 
+            "bulletSpeed": 820.0
         }
     }, 
     "PFSC108_Charles_Martel": {
@@ -67,6 +247,16 @@
             "bulletMass": 134.0, 
             "bulletName": "PFPA019_203MM_50_1924_AP", 
             "bulletSpeed": 820.0
+        }
+    }, 
+    "PFSC109_Saint_Louis": {
+        "AP": {
+            "bulletAirDrag": 0.33, 
+            "bulletDiametr": 0.203, 
+            "bulletKrupp": 2434.0, 
+            "bulletMass": 134.0, 
+            "bulletName": "PFPA021_203MM_55_1931_AP", 
+            "bulletSpeed": 845.0
         }
     }, 
     "PFSC110_Henri_IV": {
@@ -119,6 +309,16 @@
             "bulletSpeed": 960.0
         }
     }, 
+    "PGSC106_Nurnberg": {
+        "AP": {
+            "bulletAirDrag": 0.3307, 
+            "bulletDiametr": 0.15, 
+            "bulletKrupp": 1862.0, 
+            "bulletMass": 45.5, 
+            "bulletName": "PGPA020_150MM_AP_PSGR_L3_7_C25", 
+            "bulletSpeed": 960.0
+        }
+    }, 
     "PGSC108_Hipper": {
         "AP": {
             "bulletAirDrag": 0.2974, 
@@ -149,6 +349,26 @@
             "bulletSpeed": 925.0
         }
     }, 
+    "PJSC005_Furutaka_1926": {
+        "AP": {
+            "bulletAirDrag": 0.317, 
+            "bulletDiametr": 0.2, 
+            "bulletKrupp": 2377.0, 
+            "bulletMass": 110.0, 
+            "bulletName": "PJPA048_200mm_AP_APC_Type_5", 
+            "bulletSpeed": 870.0
+        }
+    }, 
+    "PJSC007_Aoba_1943": {
+        "AP": {
+            "bulletAirDrag": 0.337, 
+            "bulletDiametr": 0.203, 
+            "bulletKrupp": 2468.0, 
+            "bulletMass": 125.85, 
+            "bulletName": "PJPA008_Shell_203mm_AP_AP_Type_91", 
+            "bulletSpeed": 840.0
+        }
+    }, 
     "PJSC008_Myoko_1945": {
         "AP": {
             "bulletAirDrag": 0.337, 
@@ -167,6 +387,16 @@
             "bulletMass": 125.85, 
             "bulletName": "PJPA008_Shell_203mm_AP_AP_Type_91", 
             "bulletSpeed": 840.0
+        }
+    }, 
+    "PJSC013_Kuma_1938": {
+        "AP": {
+            "bulletAirDrag": 0.3696, 
+            "bulletDiametr": 0.14, 
+            "bulletKrupp": 1794.0, 
+            "bulletMass": 38.0, 
+            "bulletName": "PJPA013_Shell_140mm_AP_C_capped", 
+            "bulletSpeed": 850.0
         }
     }, 
     "PJSC015_Tatsuta_1919": {
@@ -189,6 +419,16 @@
             "bulletSpeed": 920.0
         }
     }, 
+    "PJSC035_Chikuma_1912": {
+        "AP": {
+            "bulletAirDrag": 0.3693, 
+            "bulletDiametr": 0.152, 
+            "bulletKrupp": 1450.0, 
+            "bulletMass": 45.4, 
+            "bulletName": "PJPA043_Shell_152mm_AP_C_Type_4", 
+            "bulletSpeed": 825.0
+        }
+    }, 
     "PRSC102_Novik": {
         "AP": {
             "bulletAirDrag": 0.496, 
@@ -207,6 +447,16 @@
             "bulletMass": 41.4, 
             "bulletName": "PRPA042_152_AP_C", 
             "bulletSpeed": 792.5
+        }
+    }, 
+    "PRSC104_Svetlana": {
+        "AP": {
+            "bulletAirDrag": 0.4143, 
+            "bulletDiametr": 0.13, 
+            "bulletKrupp": 1450.0, 
+            "bulletMass": 36.86, 
+            "bulletName": "PRPA040_130_AP_P_1911", 
+            "bulletSpeed": 823.0
         }
     }, 
     "PRSC105_Kirov": {
@@ -247,6 +497,16 @@
             "bulletMass": 55.0, 
             "bulletName": "PRPA035_152MM_B35", 
             "bulletSpeed": 950.0
+        }
+    }, 
+    "PRSC109_Dmitry_Donskoy": {
+        "AP": {
+            "bulletAirDrag": 0.2778, 
+            "bulletDiametr": 0.18, 
+            "bulletKrupp": 2370.0, 
+            "bulletMass": 97.5, 
+            "bulletName": "PRPA038_180_AP_B_32_F", 
+            "bulletSpeed": 920.0
         }
     }, 
     "PRSC110_Pr_66_Moskva": {
