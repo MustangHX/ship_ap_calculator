@@ -1,0 +1,112 @@
+<html>
+
+<meta charset="UTF-8">
+
+<head>
+  <!-- 下面这一行引入jQuery库，不要更改 -->
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+<h1>这是标题</h1>
+
+<p>这是一行文字</p>
+
+<p>这是一个输入框: <input id="my_input_1" value="默认内容"/></p>
+
+<p>这是一个下拉列表：
+  <select>
+    <option value="myoption1">选项1</option>
+    <option value="myoption2">选项2</option>
+    <option value="myoption3">选项3</option>
+    <option value="myoption4">选项4</option>
+  </select>
+</p>
+
+<script>
+  function mybuttonclick(){
+    alert("你点我了！");
+  }
+</script>
+<p>这是一个按钮： <button onclick="mybuttonclick();">点我点我点我</button></p>
+
+<!-- ============================ 华丽的分割线 =============================== -->
+
+<h1>下面是一个简单的加法计算器</h1>
+
+<p><input id="value1" value="1010101"/>+<input id="value2" value="0101010"/>
+结果为:<input id="result" value="0" readonly/></p>
+
+<script>
+  function compute_plus(){
+    value1 = parseFloat($("#value1")[0].value);
+    value2 = parseFloat($("#value2")[0].value);
+    result = value1+value2;
+    $("#result")[0].value = result.toString();
+  }
+</script>
+
+<p><button onclick="compute_plus();">计算</button></p>
+
+<!-- ============================ 华丽的分割线 =============================== -->
+
+<h1>下面根据下拉列表的选择实时显示文件的内容</h1>
+
+<p>读取存在文件中的myvariable变量的值</p>
+
+<p>选择文件：
+<select id="file_to_read" onchange="load_value();">
+  <option value="file1">文件1</option>
+  <option value="file2">文件2</option>
+</select>
+</p>
+
+<p><textarea id="value_loaded"></textarea></p>
+
+<script>
+  function load_value() {
+    file_selector = $("#file_to_read")[0];
+    selected_filename = file_selector.options[file_selector.selectedIndex].value;
+    $.ajax({
+      url: selected_filename+".json",
+      type: "GET",
+      dataType: "json",
+      success: function (data) {
+          $("#value_loaded")[0].innerHTML = data["myvariable"];
+      }
+    });
+  }
+
+  load_value();  // 在页面载入的时候读取默认的文件中的内容
+</script>
+
+<!-- ============================ 华丽的分割线 =============================== -->
+
+<h1>下面显示一个动态的下拉列表</h1>
+
+<p>输入你希望看到的下拉列表的内容：</p>
+
+<p><textarea id="select_list">
+第一行
+第二行
+第三行
+</textarea></p>
+
+<p>这是你想要的下拉列表：<select id="myselect"></select></p>
+
+<p><button onclick="update_select();">更新下拉列表</button></p>
+
+<script>
+  function update_select() {
+    lines = $("#select_list")[0].value.trim().split(/\r?\n/);
+    $("#myselect").replaceWith("<select id=\"myselect\"></select>");  // replace the old select with a new empty select
+    for(var i in lines) {
+      $("#myselect")[0].innerHTML += "<option value=\"" + lines[i] + "\">" + lines[i] + "</options>";  // append option
+    }
+  }
+</script>
+
+</body>
+
+</html>
