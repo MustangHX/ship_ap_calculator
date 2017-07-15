@@ -5,10 +5,11 @@
 <head>
   <!-- 下面这一行引入jQuery库，不要更改 -->
   <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
-  <!--[if lt IE 9]><script language="javascript" type="text/javascript" src="excanvas.js"></script><![endif]-->
-  <script language="javascript" type="text/javascript" src="jquery.jqplot.js"></script>
+  <link href="c3.min.css" rel="stylesheet">
+  <script src="https://d3js.org/d3.v3.min.js"></script>
+  <script src="c3.min.js"></script>
   <script src="calculator.js"></script>
-  <link rel="stylesheet" type="text/css" href="jquery.jqplot.css" />
+  <script src="c3_chart.js"></script>
 </head>
 
 <body>
@@ -36,7 +37,8 @@ Mass <div  id="ammo_selected_mass"></div>
 Krupp <div id="ammo_selected_krupp"></div>
 Muzzle Velocity: <div id="ammo_selected_speed"></div></p>
 
-<div id="chartdiv" style="height:400px;width:600px; "></div>
+<div id="chart"></div>
+
 <script>
 
 var ship_info;
@@ -71,6 +73,7 @@ var ship_info;
     }
 
     function ammo_properties(){
+      // display ammo information
       ship_selector = $("#shiplist")[0];
       ship_name = ship_selector.options[ship_selector.selectedIndex].value;
       selected_ship=ship_info[ship_name]
@@ -87,31 +90,10 @@ var ship_info;
       $("#ammo_selected_mass")[0].innerHTML = selected_ship.AP.bulletMass;
       $("#ammo_selected_krupp")[0].innerHTML = selected_ship.AP.bulletKrupp;
       $("#ammo_selected_speed")[0].innerHTML = selected_ship.AP.bulletSpeed;
-      pen_dict= calculator(mass,Dia,c_D,v_0,krupp);
-      var armor_vert = [];
-      var armor_hori = [];
-      for(var i=0; i<pen_dict.distance.length; i++){
-          armor_vert.push([pen_dict.distance[i], pen_dict.armor_vert[i]]);
-          armor_hori.push([pen_dict.distance[i], pen_dict.armor_hori[i]]);
-        }
-      console.log(armor_vert);
-      //div id="chartdiv" style="height:400px;width:600px; "></div>
-      $("#chartdiv").replaceWith("<div id=\"chartdiv\" style=\"height:400px;width:600px; \" onchange=\"ammo_properties();\"></div>");
-      $.jqplot('chartdiv', [armor_vert,armor_hori],{
-      series:[{showMarker:false},{showMarker:false}],
-      axes:{
-        xaxis:{
-          label:'Range (m)',
-          min: 0
-        },
-        yaxis:{
-          label:'Penetration (mm)',
-          min:0
-        }
-      }
-  });
 
-      //console.log(pen_dict.armor_abs);
+      // draw ammo penetration curve
+      pen_dict= calculator(mass,Dia,c_D,v_0,krupp);
+      update_chart(pen_dict);
     }
 
 </script>
