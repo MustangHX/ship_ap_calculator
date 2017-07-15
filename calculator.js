@@ -33,7 +33,7 @@ cw_2 = 100+1000/3*D; //LINEAR DRAG COEFFICIENT
 C_pen = C * K/2400; //KRUPP INCLUSION
 k = 0.5 * c_D * (D/2)*(D/2) * Math.PI / m;// CONSTANTS TERMS OF DRAG
 
-n_angle=100
+n_angle=200
 step_angle=30*Math.PI/180./n_angle //ELEV. ANGLES 0-30 deg, at launch
 console.log(Math.PI)
 var alpha=[];
@@ -49,7 +49,7 @@ for (i=0;i<n_angle;i++){
   distance.push(0.);
 }
 //console.log(alpha)
-dt = 0.1; //TIME STEP
+dt = 0.05; //TIME STEP
 t=0.
 
 for(i=0;i<n_angle;i++){
@@ -98,18 +98,69 @@ for(i=0;i<n_angle;i++){
 
 	distance[i]=x
 }
-var data_dict={};
-data_dict.distance=distance;
-data_dict.armor_abs=armor_abs;
-data_dict.armor_vert=armor_vert;
-data_dict.armor_hori=armor_hori;
 
-//console.log(armor_vert);
+interp_tuple=[];
+interp_num=Math.floor((distance[n_angle-1]-distance[0])/100)+1;
+offset_num=Math.floor((distance[0])/100);
+console.log(interp_num);
+for (i=0;i<n_angle;i++){
+  interp_tuple.push([distance[i],armor_abs[i],armor_vert[i],armor_hori[i]]);
+}
+for (i=n_angle;i<n_angle+interp_num;i++){
+  interp_tuple.push([(i-n_angle+offset_num+1)*100.0,-1.0,-1.0,-1.0]);
+}
+
+interp_tuple.sort(function(a, b) {
+    a = a[0];
+    b = b[0];
+    return a-b;
+    //return a < b ? -1 : (a > b ? 1 : 0);
+});
+
+var inter_armor_abs=[];
+var inter_armor_vert=[];
+var inter_armor_hori=[];
+var inter_distance=[];
+
+ind_before=0;
+j=0;
+
+//for (i=1;i<n_angle+interp_num;i++){
+for (var i in interp_tuple){
+console.log(interp_tuple[i][0]);
+    if(interp_tuple[i][1]>0.){
+      for(;j<inter_distance.length;j++){
+        x1=interp_tuple[ind_before][0];
+        x2=interp_tuple[i][0];
+        abs_inter=interp_tuple[ind_before][1]+(interp_tuple[i][1]-interp_tuple[ind_before][1])*(inter_distance[j]-x1)/(x2-x1);
+        vert_inter=interp_tuple[ind_before][2]+(interp_tuple[i][2]-interp_tuple[ind_before][2])*(inter_distance[j]-x1)/(x2-x1);
+        hori_inter=interp_tuple[ind_before][3]+(interp_tuple[i][3]-interp_tuple[ind_before][3])*(inter_distance[j]-x1)/(x2-x1);
+        inter_armor_abs.push(abs_inter);
+        inter_armor_vert.push(vert_inter);
+        inter_armor_hori.push(hori_inter);
+      }
+      ind_before=i;
+    }
+    else if(interp_tuple[i][1]<0.){
+      inter_distance.push(interp_tuple[i][0]);
+    }
+
+}
+
+//console.log(inter_armor_vert);
 //pen_curve_abs=interp1d(distance,armor_abs,kind='cubic')
 //pen_curve_vert=interp1d(distance,armor_vert,kind='cubic')
 //pen_curve_hori=interp1d(distance,armor_hori,kind='cubic')
 
 dist=[5000,10000,15000,20000]
+for(var i in inter_distance){
+	inter_distance[i]/=1000.;
+}
+var data_dict={};
+data_dict.distance=inter_distance;
+data_dict.armor_abs=inter_armor_abs;
+data_dict.armor_vert=inter_armor_vert;
+data_dict.armor_hori=inter_armor_hori;
 return data_dict;
 
 }
