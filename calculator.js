@@ -31,7 +31,7 @@ cw_1 = 1; //QUADRATIC DRAG COEFFICIENT
 cw_2 = 100+1000/3*D; //LINEAR DRAG COEFFICIENT
 
 C_pen = C * K/2400; //KRUPP INCLUSION
-k = 0.5 * c_D * (D/2)**2 * Math.PI / m;// CONSTANTS TERMS OF DRAG
+k = 0.5 * c_D * (D/2)*(D/2) * Math.PI / m;// CONSTANTS TERMS OF DRAG
 
 n_angle=100
 step_angle=30*Math.PI/180./n_angle //ELEV. ANGLES 0-30 deg, at launch
