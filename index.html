@@ -5,11 +5,15 @@
 <head>
   <!-- 下面这一行引入jQuery库，不要更改 -->
   <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+  <!--[if lt IE 9]><script language="javascript" type="text/javascript" src="excanvas.js"></script><![endif]-->
+  <script language="javascript" type="text/javascript" src="jquery.jqplot.js"></script>
+  <script src="calculator.js"></script>
+  <link rel="stylesheet" type="text/css" href="jquery.jqplot.css" />
 </head>
 
 <body>
 
-<h1>World of Warships AP penetration calculator alpha 0.12</h1>
+<h1>World of Warships AP penetration calculator alpha 0.21</h1>
 
 <p>This is a test version based on US NAVY penetration formula and game file data mining.</p>
 
@@ -32,8 +36,9 @@ Mass <div  id="ammo_selected_mass"></div>
 Krupp <div id="ammo_selected_krupp"></div>
 Muzzle Velocity: <div id="ammo_selected_speed"></div></p>
 
-
+<div id="chartdiv" style="height:400px;width:600px; "></div>
 <script>
+
 var ship_info;
   function load_value() {
     file_selector = $("#file_to_read")[0];
@@ -48,12 +53,15 @@ var ship_info;
           //alert(Object.keys(data))
           console.log(Object.keys(data))
           $("#value_loaded")[0].innerHTML = Object.keys(data)
+          ammo_properties();
+          //console.log(pen_dict.distance);
+
       }
     });
   }
 
   load_value();  // 在页面载入的时候读取默认的文件中的内容
-  ammo_properties();
+
     function select_from_keys(data) {
 
       $("#shiplist").replaceWith("<select id=\"shiplist\" onchange=\"ammo_properties();\"></select>");  // replace the old select with a new empty select
@@ -67,12 +75,43 @@ var ship_info;
       ship_name = ship_selector.options[ship_selector.selectedIndex].value;
       selected_ship=ship_info[ship_name]
       console.log(selected_ship.AP.bulletAirDrag)
+      var c_D,Dia,mass,krupp,v_0;
+      c_D=selected_ship.AP.bulletAirDrag;
+      Dia=selected_ship.AP.bulletDiametr;
+      mass=selected_ship.AP.bulletMass;
+      krupp=selected_ship.AP.bulletKrupp;
+      v_0=selected_ship.AP.bulletSpeed;
       $("#ammo_selected_name")[0].innerHTML = selected_ship.AP.bulletName;
       $("#ammo_selected_airdrag")[0].innerHTML = selected_ship.AP.bulletAirDrag;
       $("#ammo_selected_diametr")[0].innerHTML = selected_ship.AP.bulletDiametr;
       $("#ammo_selected_mass")[0].innerHTML = selected_ship.AP.bulletMass;
       $("#ammo_selected_krupp")[0].innerHTML = selected_ship.AP.bulletKrupp;
       $("#ammo_selected_speed")[0].innerHTML = selected_ship.AP.bulletSpeed;
+      pen_dict= calculator(mass,Dia,c_D,v_0,krupp);
+      var armor_vert = [];
+      var armor_hori = [];
+      for(var i=0; i<pen_dict.distance.length; i++){
+          armor_vert.push([pen_dict.distance[i], pen_dict.armor_vert[i]]);
+          armor_hori.push([pen_dict.distance[i], pen_dict.armor_hori[i]]);
+        }
+      console.log(armor_vert);
+      //div id="chartdiv" style="height:400px;width:600px; "></div>
+      $("#chartdiv").replaceWith("<div id=\"chartdiv\" style=\"height:400px;width:600px; \" onchange=\"ammo_properties();\"></div>");
+      $.jqplot('chartdiv', [armor_vert,armor_hori],{
+      series:[{showMarker:false},{showMarker:false}],
+      axes:{
+        xaxis:{
+          label:'Range (m)',
+          min: 0
+        },
+        yaxis:{
+          label:'Penetration (mm)',
+          min:0
+        }
+      }
+  });
 
+      //console.log(pen_dict.armor_abs);
     }
+
 </script>
