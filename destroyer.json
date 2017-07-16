@@ -539,6 +539,16 @@
             "bulletSpeed": 870.0
         }
     }, 
+    "PRSD107_Pr_35_Udaloy": {
+        "AP": {
+            "bulletAirDrag": 0.2549, 
+            "bulletDiametr": 0.13, 
+            "bulletKrupp": 1720.0, 
+            "bulletMass": 33.5, 
+            "bulletName": "PRPA011_130MM_AP_PB_46_B2U", 
+            "bulletSpeed": 900.0
+        }
+    }, 
     "PRSD108_Pr_20i_Tashkent": {
         "AP": {
             "bulletAirDrag": 0.2857, 

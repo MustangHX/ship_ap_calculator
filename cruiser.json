@@ -1,4 +1,14 @@
 {
+    "PASC001_Erie_1936": {
+        "AP": {
+            "bulletAirDrag": 0.315, 
+            "bulletDiametr": 0.152, 
+            "bulletKrupp": 320.0, 
+            "bulletMass": 47.6, 
+            "bulletName": "PAPA047_Shell_152mm_HE_HC_Mk_34", 
+            "bulletSpeed": 853.0
+        }
+    }, 
     "PASC002_Chester_1908": {
         "AP": {
             "bulletAirDrag": 0.3, 
@@ -65,8 +75,8 @@
             "bulletDiametr": 0.203, 
             "bulletKrupp": 2846.0, 
             "bulletMass": 118.0, 
-            "bulletName": "PAPA037_Shell_203mm_AP_AP_260lbs", 
-            "bulletSpeed": 792.0
+            "bulletName": "PAPA001_Shell_203mm_AP_AP_Mk_19", 
+            "bulletSpeed": 853.0
         }
     }, 
     "PASC014_New_Orlean_1944": {
@@ -121,12 +131,12 @@
     }, 
     "PASC024_Phoenix_1917": {
         "AP": {
-            "bulletAirDrag": 0.4036, 
+            "bulletAirDrag": 0.3164, 
             "bulletDiametr": 0.152, 
-            "bulletKrupp": 1830.0, 
-            "bulletMass": 47.7, 
-            "bulletName": "PAPA027_Shell_152mm_AP_AP_105lbs", 
-            "bulletSpeed": 853.0
+            "bulletKrupp": 1772.0, 
+            "bulletMass": 47.6, 
+            "bulletName": "PAPA061_SHELL_152MM_AP_SC_MK_27_MOD_5", 
+            "bulletSpeed": 914.0
         }
     }, 
     "PASC044_Marblehead_1924": {
@@ -389,6 +399,16 @@
             "bulletSpeed": 870.0
         }
     }, 
+    "PGSC001_Hermelin_1940": {
+        "AP": {
+            "bulletAirDrag": 0.3128, 
+            "bulletDiametr": 0.128, 
+            "bulletKrupp": 1.0, 
+            "bulletMass": 26.0, 
+            "bulletName": "PGPA006_128MM_HE_SPRGR", 
+            "bulletSpeed": 900.0
+        }
+    }, 
     "PGSC002_Drezden_1908": {
         "AP": {
             "bulletAirDrag": 0.4125, 
@@ -571,12 +591,12 @@
     }, 
     "PJSC009_Mogami_1935": {
         "AP": {
-            "bulletAirDrag": 0.335, 
-            "bulletDiametr": 0.155, 
-            "bulletKrupp": 2429.0, 
-            "bulletMass": 55.87, 
-            "bulletName": "PJPA025_Shell_155mm_AP_APC_Type_91", 
-            "bulletSpeed": 925.0
+            "bulletAirDrag": 0.337, 
+            "bulletDiametr": 0.203, 
+            "bulletKrupp": 2468.0, 
+            "bulletMass": 125.85, 
+            "bulletName": "PJPA008_Shell_203mm_AP_AP_Type_91", 
+            "bulletSpeed": 840.0
         }
     }, 
     "PJSC012_Ibuki_1944": {
@@ -656,6 +676,16 @@
             "bulletKrupp": 1450.0, 
             "bulletMass": 45.4, 
             "bulletName": "PJPA043_Shell_152mm_AP_C_Type_4", 
+            "bulletSpeed": 825.0
+        }
+    }, 
+    "PJSC037_Hashidate_1940": {
+        "AP": {
+            "bulletAirDrag": 0.331, 
+            "bulletDiametr": 0.12, 
+            "bulletKrupp": 480.0, 
+            "bulletMass": 20.3, 
+            "bulletName": "PJPA044_Shell_127mm_HE_Type_1", 
             "bulletSpeed": 825.0
         }
     }, 
@@ -821,12 +851,12 @@
     }, 
     "PRSC104_Svetlana": {
         "AP": {
-            "bulletAirDrag": 0.4143, 
+            "bulletAirDrag": 0.291, 
             "bulletDiametr": 0.13, 
-            "bulletKrupp": 1450.0, 
-            "bulletMass": 36.86, 
-            "bulletName": "PRPA040_130_AP_P_1911", 
-            "bulletSpeed": 823.0
+            "bulletKrupp": 1652.0, 
+            "bulletMass": 33.5, 
+            "bulletName": "PRPA048_130_AP_P_1917", 
+            "bulletSpeed": 861.0
         }
     }, 
     "PRSC105_Kirov": {

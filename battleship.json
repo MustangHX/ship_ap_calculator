@@ -229,6 +229,16 @@
             "bulletSpeed": 855.0
         }
     }, 
+    "PGSB104_Kaiser": {
+        "AP": {
+            "bulletAirDrag": 0.3093, 
+            "bulletDiametr": 0.305, 
+            "bulletKrupp": 2289.0, 
+            "bulletMass": 415.0, 
+            "bulletName": "PGPA045_305MM_AP_PZ_GR_L4_9", 
+            "bulletSpeed": 850.0
+        }
+    }, 
     "PGSB105_Koenig": {
         "AP": {
             "bulletAirDrag": 0.3093, 
@@ -339,6 +349,16 @@
             "bulletSpeed": 775.0
         }
     }, 
+    "PJSB007_Kongo_1942": {
+        "AP": {
+            "bulletAirDrag": 0.331, 
+            "bulletDiametr": 0.356, 
+            "bulletKrupp": 2657.0, 
+            "bulletMass": 673.5, 
+            "bulletName": "PJPA001_Shell_356mm_AP_APC_Type_91", 
+            "bulletSpeed": 775.0
+        }
+    }, 
     "PJSB008_Ishizuchi_1921": {
         "AP": {
             "bulletAirDrag": 0.58, 
@@ -407,6 +427,46 @@
             "bulletMass": 1000.0, 
             "bulletName": "PJPA069_410MM_AP_MUTSU", 
             "bulletSpeed": 790.0
+        }
+    }, 
+    "PJSB705_Kongou": {
+        "AP": {
+            "bulletAirDrag": 0.331, 
+            "bulletDiametr": 0.356, 
+            "bulletKrupp": 2657.0, 
+            "bulletMass": 673.5, 
+            "bulletName": "PJPA001_Shell_356mm_AP_APC_Type_91", 
+            "bulletSpeed": 775.0
+        }
+    }, 
+    "PJSB706_Kirishima": {
+        "AP": {
+            "bulletAirDrag": 0.331, 
+            "bulletDiametr": 0.356, 
+            "bulletKrupp": 2657.0, 
+            "bulletMass": 673.5, 
+            "bulletName": "PJPA001_Shell_356mm_AP_APC_Type_91", 
+            "bulletSpeed": 775.0
+        }
+    }, 
+    "PJSB707_Haruna": {
+        "AP": {
+            "bulletAirDrag": 0.331, 
+            "bulletDiametr": 0.356, 
+            "bulletKrupp": 2657.0, 
+            "bulletMass": 673.5, 
+            "bulletName": "PJPA001_Shell_356mm_AP_APC_Type_91", 
+            "bulletSpeed": 775.0
+        }
+    }, 
+    "PJSB708_Hiei_Arpeggio": {
+        "AP": {
+            "bulletAirDrag": 0.331, 
+            "bulletDiametr": 0.356, 
+            "bulletKrupp": 2657.0, 
+            "bulletMass": 673.5, 
+            "bulletName": "PJPA001_Shell_356mm_AP_APC_Type_91", 
+            "bulletSpeed": 775.0
         }
     }, 
     "PRSB001_Nikolay_I": {
