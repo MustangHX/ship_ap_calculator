@@ -3,6 +3,10 @@ function update_chart(pen_dict) {
   xmax=Math.ceil(xmax0/5.)*5;
   console.log(xmax);
   xcount=xmax/5+1;
+  xtick=[];
+  for (i=0;i<xcount;i++){
+    xtick.push(i*5);
+  }
   c3.generate({
     bindto: '#chart',
     data: {
@@ -33,7 +37,8 @@ function update_chart(pen_dict) {
         tick: {
               //  fit: true
                 format: d3.format('.2f'),
-                count: xcount
+                //count: xcount
+                values:xtick
 
             }
       },
