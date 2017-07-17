@@ -1,0 +1,14 @@
+{
+    "PFSB506_Dunkerque_1940": {
+        "AP": {
+            "bulletAirDrag": 0.2801, 
+            "bulletDiametr": 0.33, 
+            "bulletKrupp": 2428.0, 
+            "bulletMass": 560.0, 
+            "bulletName": "PFPA001_330MM_AP_D", 
+            "bulletSpeed": 870.0
+        }, 
+        "Nation": "France", 
+        "Tier": 6
+    }
+}

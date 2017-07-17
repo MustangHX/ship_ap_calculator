@@ -1,0 +1,26 @@
+{
+    "PZSD506_Anshan": {
+        "AP": {
+            "bulletAirDrag": 0.2857, 
+            "bulletDiametr": 0.13, 
+            "bulletKrupp": 1700.0, 
+            "bulletMass": 33.5, 
+            "bulletName": "PZPA002_130_AP_ANSHAN", 
+            "bulletSpeed": 870.0
+        }, 
+        "Nation": "Pan_Asia", 
+        "Tier": 6
+    }, 
+    "PZSD508_LoYang": {
+        "AP": {
+            "bulletAirDrag": 0.347, 
+            "bulletDiametr": 0.127, 
+            "bulletKrupp": 2598.0, 
+            "bulletMass": 25.0, 
+            "bulletName": "PZPA004_127_AP_LO_YANG", 
+            "bulletSpeed": 792.0
+        }, 
+        "Nation": "Pan_Asia", 
+        "Tier": 8
+    }
+}

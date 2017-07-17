@@ -1,7 +1,7 @@
 function update_chart(pen_dict) {
   xmax0=Math.max(...pen_dict.distance);
   xmax=Math.ceil(xmax0/5.)*5;
-  console.log(xmax);
+  console.log(pen_dict.fly_time);
   xcount=xmax/5+1;
   xtick=[];
   for (i=0;i<xcount;i++){
@@ -14,10 +14,16 @@ function update_chart(pen_dict) {
       columns: [
         ['distance'].concat(pen_dict.distance),
         ['vertical armor'].concat(pen_dict.armor_vert),
-        ['deck armor'].concat(pen_dict.armor_hori)
+        ['deck armor'].concat(pen_dict.armor_hori),
+        ['fly_time'].concat(pen_dict.fly_time)
       ],
       //type:"spline",
-      style:"dashed"
+      //style:"dashed"
+    axes: {
+    'vertical armor': 'y',
+    'deck armor': 'y',
+    fly_time:'y2'
+  }
     },
     axis: {
       y: {
@@ -25,6 +31,10 @@ function update_chart(pen_dict) {
           text: 'Penetration (mm)',
           position: 'outer-middle'
         }
+      },
+      y2: {
+        //max:30,
+        show: true
       },
       x: {
         max: xmax*1.0,

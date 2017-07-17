@@ -1,0 +1,134 @@
+{
+    "PGSB002_Tirpiz_1942": {
+        "AP": {
+            "bulletAirDrag": 0.2763, 
+            "bulletDiametr": 0.38, 
+            "bulletKrupp": 2450.0, 
+            "bulletMass": 800.0, 
+            "bulletName": "PGPA001_380mm_AP_APC_L_4_4", 
+            "bulletSpeed": 820.0
+        }, 
+        "Nation": "Germany", 
+        "Tier": 8
+    }, 
+    "PGSB103_Nassau": {
+        "AP": {
+            "bulletAirDrag": 0.5337, 
+            "bulletDiametr": 0.283, 
+            "bulletKrupp": 2789.0, 
+            "bulletMass": 302.0, 
+            "bulletName": "PGPA056_283MM_AP_PZ_GR_L3_2", 
+            "bulletSpeed": 855.0
+        }, 
+        "Nation": "Germany", 
+        "Tier": 3
+    }, 
+    "PGSB104_Kaiser": {
+        "AP": {
+            "bulletAirDrag": 0.3093, 
+            "bulletDiametr": 0.305, 
+            "bulletKrupp": 2289.0, 
+            "bulletMass": 415.0, 
+            "bulletName": "PGPA045_305MM_AP_PZ_GR_L4_9", 
+            "bulletSpeed": 850.0
+        }, 
+        "Nation": "Germany", 
+        "Tier": 4
+    }, 
+    "PGSB105_Koenig": {
+        "AP": {
+            "bulletAirDrag": 0.3093, 
+            "bulletDiametr": 0.305, 
+            "bulletKrupp": 2289.0, 
+            "bulletMass": 415.0, 
+            "bulletName": "PGPA045_305MM_AP_PZ_GR_L4_9", 
+            "bulletSpeed": 850.0
+        }, 
+        "Nation": "Germany", 
+        "Tier": 5
+    }, 
+    "PGSB106_Bayern": {
+        "AP": {
+            "bulletAirDrag": 0.4092, 
+            "bulletDiametr": 0.38, 
+            "bulletKrupp": 2454.0, 
+            "bulletMass": 750.0, 
+            "bulletName": "PGPA036_380MM_AP_PZ_GR_L3_5", 
+            "bulletSpeed": 800.0
+        }, 
+        "Nation": "Germany", 
+        "Tier": 6
+    }, 
+    "PGSB107_Gneisenau": {
+        "AP": {
+            "bulletAirDrag": 0.2763, 
+            "bulletDiametr": 0.38, 
+            "bulletKrupp": 2450.0, 
+            "bulletMass": 800.0, 
+            "bulletName": "PGPA048_380MM_AP_APC_L_4_4_B", 
+            "bulletSpeed": 820.0
+        }, 
+        "Nation": "Germany", 
+        "Tier": 7
+    }, 
+    "PGSB108_Bismarck": {
+        "AP": {
+            "bulletAirDrag": 0.2763, 
+            "bulletDiametr": 0.38, 
+            "bulletKrupp": 2450.0, 
+            "bulletMass": 800.0, 
+            "bulletName": "PGPA048_380MM_AP_APC_L_4_4_B", 
+            "bulletSpeed": 820.0
+        }, 
+        "Nation": "Germany", 
+        "Tier": 8
+    }, 
+    "PGSB109_Friedrich_der_Grosse": {
+        "AP": {
+            "bulletAirDrag": 0.2994, 
+            "bulletDiametr": 0.406, 
+            "bulletKrupp": 2527.0, 
+            "bulletMass": 1030.0, 
+            "bulletName": "PGPA038_406MM_AP_PZ_GR_L4_4", 
+            "bulletSpeed": 810.0
+        }, 
+        "Nation": "Germany", 
+        "Tier": 9
+    }, 
+    "PGSB110_Grossdeutschland": {
+        "AP": {
+            "bulletAirDrag": 0.2994, 
+            "bulletDiametr": 0.42, 
+            "bulletKrupp": 2415.0, 
+            "bulletMass": 1220.0, 
+            "bulletName": "PGPA052_420MM_AP_APC_L_4_6", 
+            "bulletSpeed": 800.0
+        }, 
+        "Nation": "Germany", 
+        "Tier": 10
+    }, 
+    "PGSB503_Koenig_Albert": {
+        "AP": {
+            "bulletAirDrag": 0.4195, 
+            "bulletDiametr": 0.305, 
+            "bulletKrupp": 2311.0, 
+            "bulletMass": 405.0, 
+            "bulletName": "PGPA061_305MM_AP_KA", 
+            "bulletSpeed": 855.0
+        }, 
+        "Nation": "Germany", 
+        "Tier": 3
+    }, 
+    "PGSB507_Scharnhorst": {
+        "AP": {
+            "bulletAirDrag": 0.2827, 
+            "bulletDiametr": 0.283, 
+            "bulletKrupp": 2312.0, 
+            "bulletMass": 330.0, 
+            "bulletName": "PGPA054_283MM_AP_SCHARNHORST", 
+            "bulletSpeed": 890.0
+        }, 
+        "Nation": "Germany", 
+        "Tier": 7
+    }
+}

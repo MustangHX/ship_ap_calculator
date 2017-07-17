@@ -1,0 +1,110 @@
+{
+    "PGSD102_V_25": {
+        "AP": {
+            "bulletAirDrag": 0.4125, 
+            "bulletDiametr": 0.105, 
+            "bulletKrupp": 1870.0, 
+            "bulletMass": 18.2, 
+            "bulletName": "PGPA007_105MM_AP_PSGR", 
+            "bulletSpeed": 715.0
+        }, 
+        "Nation": "Germany", 
+        "Tier": 2
+    }, 
+    "PGSD103_G_101": {
+        "AP": {
+            "bulletAirDrag": 0.4125, 
+            "bulletDiametr": 0.105, 
+            "bulletKrupp": 1870.0, 
+            "bulletMass": 18.2, 
+            "bulletName": "PGPA007_105MM_AP_PSGR", 
+            "bulletSpeed": 715.0
+        }, 
+        "Nation": "Germany", 
+        "Tier": 3
+    }, 
+    "PGSD104_V_170": {
+        "AP": {
+            "bulletAirDrag": 0.4125, 
+            "bulletDiametr": 0.105, 
+            "bulletKrupp": 1870.0, 
+            "bulletMass": 18.2, 
+            "bulletName": "PGPA007_105MM_AP_PSGR", 
+            "bulletSpeed": 715.0
+        }, 
+        "Nation": "Germany", 
+        "Tier": 4
+    }, 
+    "PGSD105_T_22": {
+        "AP": {
+            "bulletAirDrag": 0.3392, 
+            "bulletDiametr": 0.105, 
+            "bulletKrupp": 2040.0, 
+            "bulletMass": 15.1, 
+            "bulletName": "PGPA069_105MM_AP_SK_C32", 
+            "bulletSpeed": 780.0
+        }, 
+        "Nation": "Germany", 
+        "Tier": 5
+    }, 
+    "PGSD106_Ernst_Gaede": {
+        "AP": {
+            "bulletAirDrag": 0.3059, 
+            "bulletDiametr": 0.15, 
+            "bulletKrupp": 1933.0, 
+            "bulletMass": 45.3, 
+            "bulletName": "PGPA067_150MM_AP_PSGR_L4_5", 
+            "bulletSpeed": 835.0
+        }, 
+        "Nation": "Germany", 
+        "Tier": 6
+    }, 
+    "PGSD107_Leberecht_Maass": {
+        "AP": {
+            "bulletAirDrag": 0.3447, 
+            "bulletDiametr": 0.128, 
+            "bulletKrupp": 1640.0, 
+            "bulletMass": 28.0, 
+            "bulletName": "PGPA065_128MM_AP_SK_C34", 
+            "bulletSpeed": 830.0
+        }, 
+        "Nation": "Germany", 
+        "Tier": 7
+    }, 
+    "PGSD108_Z_23": {
+        "AP": {
+            "bulletAirDrag": 0.3059, 
+            "bulletDiametr": 0.15, 
+            "bulletKrupp": 1933.0, 
+            "bulletMass": 45.3, 
+            "bulletName": "PGPA067_150MM_AP_PSGR_L4_5", 
+            "bulletSpeed": 835.0
+        }, 
+        "Nation": "Germany", 
+        "Tier": 8
+    }, 
+    "PGSD109_Z_46": {
+        "AP": {
+            "bulletAirDrag": 0.2752, 
+            "bulletDiametr": 0.128, 
+            "bulletKrupp": 1647.0, 
+            "bulletMass": 28.0, 
+            "bulletName": "PGPA071_128MM_AP_C41", 
+            "bulletSpeed": 830.0
+        }, 
+        "Nation": "Germany", 
+        "Tier": 9
+    }, 
+    "PGSD110_Z_52": {
+        "AP": {
+            "bulletAirDrag": 0.2752, 
+            "bulletDiametr": 0.128, 
+            "bulletKrupp": 1647.0, 
+            "bulletMass": 28.0, 
+            "bulletName": "PGPA071_128MM_AP_C41", 
+            "bulletSpeed": 830.0
+        }, 
+        "Nation": "Germany", 
+        "Tier": 10
+    }
+}

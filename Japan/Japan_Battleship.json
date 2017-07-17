@@ -1,0 +1,182 @@
+{
+    "PJSB001_Kawachi_1912": {
+        "AP": {
+            "bulletAirDrag": 0.437, 
+            "bulletDiametr": 0.305, 
+            "bulletKrupp": 2028.0, 
+            "bulletMass": 386.0, 
+            "bulletName": "PJPA030_Shell_305mm_AP_APC_41_year_Type", 
+            "bulletSpeed": 869.0
+        }, 
+        "Nation": "Japan", 
+        "Tier": 3
+    }, 
+    "PJSB003_Myogi_1912": {
+        "AP": {
+            "bulletAirDrag": 0.41, 
+            "bulletDiametr": 0.356, 
+            "bulletKrupp": 2300.0, 
+            "bulletMass": 635.5, 
+            "bulletName": "PJPA035_Shell_356mm_AP_AP_Type_5", 
+            "bulletSpeed": 790.0
+        }, 
+        "Nation": "Japan", 
+        "Tier": 4
+    }, 
+    "PJSB006_Fuso_1943": {
+        "AP": {
+            "bulletAirDrag": 0.331, 
+            "bulletDiametr": 0.356, 
+            "bulletKrupp": 2657.0, 
+            "bulletMass": 673.5, 
+            "bulletName": "PJPA001_Shell_356mm_AP_APC_Type_91", 
+            "bulletSpeed": 775.0
+        }, 
+        "Nation": "Japan", 
+        "Tier": 6
+    }, 
+    "PJSB007_Kongo_1942": {
+        "AP": {
+            "bulletAirDrag": 0.331, 
+            "bulletDiametr": 0.356, 
+            "bulletKrupp": 2657.0, 
+            "bulletMass": 673.5, 
+            "bulletName": "PJPA001_Shell_356mm_AP_APC_Type_91", 
+            "bulletSpeed": 775.0
+        }, 
+        "Nation": "Japan", 
+        "Tier": 5
+    }, 
+    "PJSB008_Ishizuchi_1921": {
+        "AP": {
+            "bulletAirDrag": 0.58, 
+            "bulletDiametr": 0.305, 
+            "bulletKrupp": 2327.0, 
+            "bulletMass": 386.0, 
+            "bulletName": "PJPA050_305mm_AP_APC_Mark_VI", 
+            "bulletSpeed": 831.0
+        }, 
+        "Nation": "Japan", 
+        "Tier": 4
+    }, 
+    "PJSB010_Nagato_1944": {
+        "AP": {
+            "bulletAirDrag": 0.355, 
+            "bulletDiametr": 0.41, 
+            "bulletKrupp": 2711.0, 
+            "bulletMass": 1020.0, 
+            "bulletName": "PJPA005_Shell_410mm_AP_APC_Type_91", 
+            "bulletSpeed": 806.0
+        }, 
+        "Nation": "Japan", 
+        "Tier": 7
+    }, 
+    "PJSB011_Mikasa_1905": {
+        "AP": {
+            "bulletAirDrag": 0.5962, 
+            "bulletDiametr": 0.305, 
+            "bulletKrupp": 1373.0, 
+            "bulletMass": 386.0, 
+            "bulletName": "PJPA060_SHELL_305MM_AP_850LBS", 
+            "bulletSpeed": 732.0
+        }, 
+        "Nation": "Japan", 
+        "Tier": 2
+    }, 
+    "PJSB013_Amagi_1942": {
+        "AP": {
+            "bulletAirDrag": 0.355, 
+            "bulletDiametr": 0.41, 
+            "bulletKrupp": 2711.0, 
+            "bulletMass": 1020.0, 
+            "bulletName": "PJPA005_Shell_410mm_AP_APC_Type_91", 
+            "bulletSpeed": 806.0
+        }, 
+        "Nation": "Japan", 
+        "Tier": 8
+    }, 
+    "PJSB018_Yamato_1944": {
+        "AP": {
+            "bulletAirDrag": 0.292, 
+            "bulletDiametr": 0.46, 
+            "bulletKrupp": 2574.0, 
+            "bulletMass": 1460.0, 
+            "bulletName": "PJPA017_Shell_460mm_AP_APC_Type_91", 
+            "bulletSpeed": 780.0
+        }, 
+        "Nation": "Japan", 
+        "Tier": 10
+    }, 
+    "PJSB021_Izumo_1938": {
+        "AP": {
+            "bulletAirDrag": 0.355, 
+            "bulletDiametr": 0.41, 
+            "bulletKrupp": 2711.0, 
+            "bulletMass": 1020.0, 
+            "bulletName": "PJPA053_410mm_AP_APC_Type_91", 
+            "bulletSpeed": 870.0
+        }, 
+        "Nation": "Japan", 
+        "Tier": 9
+    }, 
+    "PJSB506_Mutsu": {
+        "AP": {
+            "bulletAirDrag": 0.41, 
+            "bulletDiametr": 0.41, 
+            "bulletKrupp": 2200.0, 
+            "bulletMass": 1000.0, 
+            "bulletName": "PJPA069_410MM_AP_MUTSU", 
+            "bulletSpeed": 790.0
+        }, 
+        "Nation": "Japan", 
+        "Tier": 6
+    }, 
+    "PJSB705_Kongou": {
+        "AP": {
+            "bulletAirDrag": 0.331, 
+            "bulletDiametr": 0.356, 
+            "bulletKrupp": 2657.0, 
+            "bulletMass": 673.5, 
+            "bulletName": "PJPA001_Shell_356mm_AP_APC_Type_91", 
+            "bulletSpeed": 775.0
+        }, 
+        "Nation": "Japan", 
+        "Tier": 5
+    }, 
+    "PJSB706_Kirishima": {
+        "AP": {
+            "bulletAirDrag": 0.331, 
+            "bulletDiametr": 0.356, 
+            "bulletKrupp": 2657.0, 
+            "bulletMass": 673.5, 
+            "bulletName": "PJPA001_Shell_356mm_AP_APC_Type_91", 
+            "bulletSpeed": 775.0
+        }, 
+        "Nation": "Japan", 
+        "Tier": 5
+    }, 
+    "PJSB707_Haruna": {
+        "AP": {
+            "bulletAirDrag": 0.331, 
+            "bulletDiametr": 0.356, 
+            "bulletKrupp": 2657.0, 
+            "bulletMass": 673.5, 
+            "bulletName": "PJPA001_Shell_356mm_AP_APC_Type_91", 
+            "bulletSpeed": 775.0
+        }, 
+        "Nation": "Japan", 
+        "Tier": 5
+    }, 
+    "PJSB708_Hiei_Arpeggio": {
+        "AP": {
+            "bulletAirDrag": 0.331, 
+            "bulletDiametr": 0.356, 
+            "bulletKrupp": 2657.0, 
+            "bulletMass": 673.5, 
+            "bulletName": "PJPA001_Shell_356mm_AP_APC_Type_91", 
+            "bulletSpeed": 775.0
+        }, 
+        "Nation": "Japan", 
+        "Tier": 5
+    }
+}

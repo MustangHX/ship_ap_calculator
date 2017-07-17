@@ -1,0 +1,158 @@
+{
+    "PASD002_Sampson_1917": {
+        "AP": {
+            "bulletAirDrag": 0.33, 
+            "bulletDiametr": 0.102, 
+            "bulletKrupp": 1451.0, 
+            "bulletMass": 14.97, 
+            "bulletName": "PAPA033_Shell_102mm_AP_SC_Mk_16", 
+            "bulletSpeed": 884.0
+        }, 
+        "Nation": "USA", 
+        "Tier": 2
+    }, 
+    "PASD005_Farragut_1944": {
+        "AP": {
+            "bulletAirDrag": 0.347, 
+            "bulletDiametr": 0.127, 
+            "bulletKrupp": 2598.0, 
+            "bulletMass": 25.0, 
+            "bulletName": "PAPA004_Shell_127mm_AP_SC_Mk_38", 
+            "bulletSpeed": 792.0
+        }, 
+        "Nation": "USA", 
+        "Tier": 6
+    }, 
+    "PASD006_Mahan_1936": {
+        "AP": {
+            "bulletAirDrag": 0.347, 
+            "bulletDiametr": 0.127, 
+            "bulletKrupp": 2598.0, 
+            "bulletMass": 25.0, 
+            "bulletName": "PAPA004_Shell_127mm_AP_SC_Mk_38", 
+            "bulletSpeed": 792.0
+        }, 
+        "Nation": "USA", 
+        "Tier": 7
+    }, 
+    "PASD008_Benson_1945": {
+        "AP": {
+            "bulletAirDrag": 0.347, 
+            "bulletDiametr": 0.127, 
+            "bulletKrupp": 2598.0, 
+            "bulletMass": 25.0, 
+            "bulletName": "PAPA004_Shell_127mm_AP_SC_Mk_38", 
+            "bulletSpeed": 792.0
+        }, 
+        "Nation": "USA", 
+        "Tier": 8
+    }, 
+    "PASD013_Gearing_1945": {
+        "AP": {
+            "bulletAirDrag": 0.347, 
+            "bulletDiametr": 0.127, 
+            "bulletKrupp": 2598.0, 
+            "bulletMass": 25.0, 
+            "bulletName": "PAPA004_Shell_127mm_AP_SC_Mk_38", 
+            "bulletSpeed": 792.0
+        }, 
+        "Nation": "USA", 
+        "Tier": 10
+    }, 
+    "PASD014_Leader_1919": {
+        "AP": {
+            "bulletAirDrag": 0.347, 
+            "bulletDiametr": 0.127, 
+            "bulletKrupp": 2598.0, 
+            "bulletMass": 25.0, 
+            "bulletName": "PAPA004_Shell_127mm_AP_SC_Mk_38", 
+            "bulletSpeed": 792.0
+        }, 
+        "Nation": "USA", 
+        "Tier": 5
+    }, 
+    "PASD019_Clemson_1920": {
+        "AP": {
+            "bulletAirDrag": 0.33, 
+            "bulletDiametr": 0.102, 
+            "bulletKrupp": 1451.0, 
+            "bulletMass": 14.97, 
+            "bulletName": "PAPA033_Shell_102mm_AP_SC_Mk_16", 
+            "bulletSpeed": 884.0
+        }, 
+        "Nation": "USA", 
+        "Tier": 4
+    }, 
+    "PASD021_Fletcher_1943": {
+        "AP": {
+            "bulletAirDrag": 0.347, 
+            "bulletDiametr": 0.127, 
+            "bulletKrupp": 2598.0, 
+            "bulletMass": 25.0, 
+            "bulletName": "PAPA004_Shell_127mm_AP_SC_Mk_38", 
+            "bulletSpeed": 792.0
+        }, 
+        "Nation": "USA", 
+        "Tier": 9
+    }, 
+    "PASD027_Wickes_1918": {
+        "AP": {
+            "bulletAirDrag": 0.33, 
+            "bulletDiametr": 0.102, 
+            "bulletKrupp": 1451.0, 
+            "bulletMass": 14.97, 
+            "bulletName": "PAPA033_Shell_102mm_AP_SC_Mk_16", 
+            "bulletSpeed": 884.0
+        }, 
+        "Nation": "USA", 
+        "Tier": 3
+    }, 
+    "PASD029_Sims_1941": {
+        "AP": {
+            "bulletAirDrag": 0.347, 
+            "bulletDiametr": 0.127, 
+            "bulletKrupp": 2598.0, 
+            "bulletMass": 25.0, 
+            "bulletName": "PAPA004_Shell_127mm_AP_SC_Mk_38", 
+            "bulletSpeed": 792.0
+        }, 
+        "Nation": "USA", 
+        "Tier": 7
+    }, 
+    "PASD502_Smith": {
+        "AP": {
+            "bulletAirDrag": 0.47, 
+            "bulletDiametr": 0.076, 
+            "bulletKrupp": 2480.0, 
+            "bulletMass": 5.9, 
+            "bulletName": "PAPA023_Shell_76mm_AP_AP_Mk_29", 
+            "bulletSpeed": 823.0
+        }, 
+        "Nation": "USA", 
+        "Tier": 2
+    }, 
+    "PASD508_Kidd": {
+        "AP": {
+            "bulletAirDrag": 0.347, 
+            "bulletDiametr": 0.127, 
+            "bulletKrupp": 2598.0, 
+            "bulletMass": 25.0, 
+            "bulletName": "PAPA078_127MM_AP_KIDD", 
+            "bulletSpeed": 792.0
+        }, 
+        "Nation": "USA", 
+        "Tier": 8
+    }, 
+    "PASD709_Black": {
+        "AP": {
+            "bulletAirDrag": 0.347, 
+            "bulletDiametr": 0.127, 
+            "bulletKrupp": 2598.0, 
+            "bulletMass": 25.0, 
+            "bulletName": "PAPA070_127MM_AP_BLACK", 
+            "bulletSpeed": 792.0
+        }, 
+        "Nation": "USA", 
+        "Tier": 9
+    }
+}

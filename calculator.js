@@ -35,12 +35,14 @@ k = 0.5 * c_D * (D/2)*(D/2) * Math.PI / m;// CONSTANTS TERMS OF DRAG
 
 n_angle=200
 step_angle=30*Math.PI/180./n_angle //ELEV. ANGLES 0-30 deg, at launch
-console.log(Math.PI)
+
 var alpha=[];
 var armor_abs=[];
 var armor_vert=[];
 var armor_hori=[];
 var distance=[];
+var v_impact=[];
+var fly_time=[];
 for (i=0;i<n_angle;i++){
   alpha.push(i*step_angle);
   armor_abs.push(0.);
@@ -50,15 +52,14 @@ for (i=0;i<n_angle;i++){
 }
 //console.log(alpha)
 dt = 0.05; //TIME STEP
-t=0.
 
 for(i=0;i<n_angle;i++){
 	v_x = v_0*Math.cos(alpha[i]);
 	v_y = v_0*Math.sin(alpha[i]);
 	y=0.0
 	x=0.0
-
-	while (y>=0.0){
+  t=0.
+	while (y>=-10.0){
 		x=x+dt*v_x
 		y=y+dt*v_y
 
@@ -95,19 +96,21 @@ for(i=0;i<n_angle;i++){
 	armor_abs[i]=pen_abs
 	armor_vert[i]=pen_abs*Math.cos(IA_vert_armor)
 	armor_hori[i]=pen_abs*Math.sin(IA_hori_armor)
-
+  v_impact.push(v_imp)
+	fly_time.push(t)
+	console.log(t)
 	distance[i]=x
 }
-
+console.log(fly_time)
 interp_tuple=[];
 interp_num=Math.floor((distance[n_angle-1]-distance[0])/100)+1;
 offset_num=Math.floor((distance[0])/100);
-console.log(interp_num);
+//console.log(interp_num);
 for (i=0;i<n_angle;i++){
-  interp_tuple.push([distance[i],armor_abs[i],armor_vert[i],armor_hori[i]]);
+  interp_tuple.push([distance[i],armor_abs[i],armor_vert[i],armor_hori[i],v_impact[i],fly_time[i]]);
 }
 for (i=n_angle;i<n_angle+interp_num;i++){
-  interp_tuple.push([(i-n_angle+offset_num+1)*100.0,-1.0,-1.0,-1.0]);
+  interp_tuple.push([(i-n_angle+offset_num+1)*100.0,-1.0,-1.0,-1.0,-1.0,-1.0]);
 }
 
 interp_tuple.sort(function(a, b) {
@@ -116,7 +119,8 @@ interp_tuple.sort(function(a, b) {
     return a-b;
     //return a < b ? -1 : (a > b ? 1 : 0);
 });
-
+var inter_v_impact=[];
+var inter_fly_time=[];
 var inter_armor_abs=[];
 var inter_armor_vert=[];
 var inter_armor_hori=[];
@@ -127,7 +131,7 @@ j=0;
 
 //for (i=1;i<n_angle+interp_num;i++){
 for (var i in interp_tuple){
-console.log(interp_tuple[i][0]);
+console.log(interp_tuple[i][5]);
     if(interp_tuple[i][1]>0.){
       for(;j<inter_distance.length;j++){
         x1=interp_tuple[ind_before][0];
@@ -135,9 +139,16 @@ console.log(interp_tuple[i][0]);
         abs_inter=interp_tuple[ind_before][1]+(interp_tuple[i][1]-interp_tuple[ind_before][1])*(inter_distance[j]-x1)/(x2-x1);
         vert_inter=interp_tuple[ind_before][2]+(interp_tuple[i][2]-interp_tuple[ind_before][2])*(inter_distance[j]-x1)/(x2-x1);
         hori_inter=interp_tuple[ind_before][3]+(interp_tuple[i][3]-interp_tuple[ind_before][3])*(inter_distance[j]-x1)/(x2-x1);
-        inter_armor_abs.push(abs_inter);
-        inter_armor_vert.push(vert_inter);
-        inter_armor_hori.push(hori_inter);
+				imp_inter=interp_tuple[ind_before][4]+(interp_tuple[i][4]-interp_tuple[ind_before][4])*(inter_distance[j]-x1)/(x2-x1);
+				time_inter=interp_tuple[ind_before][5]+(interp_tuple[i][5]-interp_tuple[ind_before][5])*(inter_distance[j]-x1)/(x2-x1);
+				function my_round(x){
+					return Math.round(x*100)/100.0
+				}
+				inter_armor_abs.push(my_round(abs_inter));
+        inter_armor_vert.push(my_round(vert_inter));
+        inter_armor_hori.push(my_round(hori_inter));
+				inter_v_impact.push(my_round(imp_inter));
+				inter_fly_time.push(my_round(time_inter/3.1));//https://www.reddit.com/r/WorldOfWarships/comments/5l071u/shell_travel_time_charts/
       }
       ind_before=i;
     }
@@ -156,11 +167,14 @@ dist=[5000,10000,15000,20000]
 for(var i in inter_distance){
 	inter_distance[i]/=1000.;
 }
+console.log(inter_fly_time)
 var data_dict={};
 data_dict.distance=inter_distance;
 data_dict.armor_abs=inter_armor_abs;
 data_dict.armor_vert=inter_armor_vert;
 data_dict.armor_hori=inter_armor_hori;
+data_dict.v_impact=inter_v_impact;
+data_dict.fly_time=inter_fly_time;
 return data_dict;
 
 }
