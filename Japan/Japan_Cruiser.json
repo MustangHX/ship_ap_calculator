@@ -155,18 +155,6 @@
         "Nation": "Japan", 
         "Tier": 2
     }, 
-    "PJSC037_Hashidate_1940": {
-        "AP": {
-            "bulletAirDrag": 0.331, 
-            "bulletDiametr": 0.12, 
-            "bulletKrupp": 480.0, 
-            "bulletMass": 20.3, 
-            "bulletName": "PJPA044_Shell_127mm_HE_Type_1", 
-            "bulletSpeed": 825.0
-        }, 
-        "Nation": "Japan", 
-        "Tier": 1
-    }, 
     "PJSC038_Atago_1944": {
         "AP": {
             "bulletAirDrag": 0.337, 

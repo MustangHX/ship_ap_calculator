@@ -1,122 +1,122 @@
 {
     "PFSC102_Jurien": {
         "AP": {
-            "bulletAirDrag": 0.42,
-            "bulletDiametr": 0.165,
-            "bulletKrupp": 1883.0,
-            "bulletMass": 54.2,
-            "bulletName": "PFPA006_165MM_45_1893_AP",
+            "bulletAirDrag": 0.42, 
+            "bulletDiametr": 0.165, 
+            "bulletKrupp": 1883.0, 
+            "bulletMass": 54.2, 
+            "bulletName": "PFPA006_165MM_45_1893_AP", 
             "bulletSpeed": 770.0
-        },
-        "Nation": "France",
+        }, 
+        "Nation": "France", 
         "Tier": 2
-    },
+    }, 
     "PFSC103_Friant": {
         "AP": {
-            "bulletAirDrag": 0.3916,
-            "bulletDiametr": 0.139,
-            "bulletKrupp": 2041.0,
-            "bulletMass": 39.5,
-            "bulletName": "PFPA008_139MM_55_1923_AP",
+            "bulletAirDrag": 0.3916, 
+            "bulletDiametr": 0.139, 
+            "bulletKrupp": 2041.0, 
+            "bulletMass": 39.5, 
+            "bulletName": "PFPA008_139MM_55_1923_AP", 
             "bulletSpeed": 790.0
-        },
-        "Nation": "France",
+        }, 
+        "Nation": "France", 
         "Tier": 3
-    },
+    }, 
     "PFSC104_Duguay_Trouin": {
         "AP": {
-            "bulletAirDrag": 0.3401,
-            "bulletDiametr": 0.155,
-            "bulletKrupp": 2214.0,
-            "bulletMass": 56.5,
-            "bulletName": "PFPA011_155MM_50_1920_AP",
+            "bulletAirDrag": 0.3401, 
+            "bulletDiametr": 0.155, 
+            "bulletKrupp": 2214.0, 
+            "bulletMass": 56.5, 
+            "bulletName": "PFPA011_155MM_50_1920_AP", 
             "bulletSpeed": 870.0
-        },
-        "Nation": "France",
+        }, 
+        "Nation": "France", 
         "Tier": 4
-    },
+    }, 
     "PFSC105_Emile_Bertin": {
         "AP": {
-            "bulletAirDrag": 0.3226,
-            "bulletDiametr": 0.152,
-            "bulletKrupp": 2225.0,
-            "bulletMass": 57.1,
-            "bulletName": "PFPA015_152MM_55_1930_AP_1937",
+            "bulletAirDrag": 0.3226, 
+            "bulletDiametr": 0.152, 
+            "bulletKrupp": 2225.0, 
+            "bulletMass": 57.1, 
+            "bulletName": "PFPA015_152MM_55_1930_AP_1937", 
             "bulletSpeed": 870.0
-        },
-        "Nation": "France",
+        }, 
+        "Nation": "France", 
         "Tier": 5
-    },
+    }, 
     "PFSC106_La_Galissonniere": {
         "AP": {
-            "bulletAirDrag": 0.3226,
-            "bulletDiametr": 0.152,
-            "bulletKrupp": 2225.0,
-            "bulletMass": 57.1,
-            "bulletName": "PFPA015_152MM_55_1930_AP_1937",
+            "bulletAirDrag": 0.3226, 
+            "bulletDiametr": 0.152, 
+            "bulletKrupp": 2225.0, 
+            "bulletMass": 57.1, 
+            "bulletName": "PFPA015_152MM_55_1930_AP_1937", 
             "bulletSpeed": 870.0
-        },
-        "Nation": "France",
+        }, 
+        "Nation": "France", 
         "Tier": 6
-    },
+    }, 
     "PFSC107_Algerie": {
         "AP": {
-            "bulletAirDrag": 0.33,
-            "bulletDiametr": 0.203,
-            "bulletKrupp": 2434.0,
-            "bulletMass": 134.0,
-            "bulletName": "PFPA019_203MM_50_1924_AP",
+            "bulletAirDrag": 0.33, 
+            "bulletDiametr": 0.203, 
+            "bulletKrupp": 2434.0, 
+            "bulletMass": 134.0, 
+            "bulletName": "PFPA019_203MM_50_1924_AP", 
             "bulletSpeed": 820.0
-        },
-        "Nation": "France",
+        }, 
+        "Nation": "France", 
         "Tier": 7
-    },
+    }, 
     "PFSC108_Charles_Martel": {
         "AP": {
-            "bulletAirDrag": 0.33,
-            "bulletDiametr": 0.203,
-            "bulletKrupp": 2434.0,
-            "bulletMass": 134.0,
-            "bulletName": "PFPA019_203MM_50_1924_AP",
+            "bulletAirDrag": 0.33, 
+            "bulletDiametr": 0.203, 
+            "bulletKrupp": 2434.0, 
+            "bulletMass": 134.0, 
+            "bulletName": "PFPA019_203MM_50_1924_AP", 
             "bulletSpeed": 820.0
-        },
-        "Nation": "France",
+        }, 
+        "Nation": "France", 
         "Tier": 8
-    },
+    }, 
     "PFSC109_Saint_Louis": {
         "AP": {
-            "bulletAirDrag": 0.33,
-            "bulletDiametr": 0.203,
-            "bulletKrupp": 2434.0,
-            "bulletMass": 134.0,
-            "bulletName": "PFPA021_203MM_55_1931_AP",
+            "bulletAirDrag": 0.33, 
+            "bulletDiametr": 0.203, 
+            "bulletKrupp": 2434.0, 
+            "bulletMass": 134.0, 
+            "bulletName": "PFPA021_203MM_55_1931_AP", 
             "bulletSpeed": 845.0
-        },
-        "Nation": "France",
+        }, 
+        "Nation": "France", 
         "Tier": 9
-    },
+    }, 
     "PFSC110_Henri_IV": {
         "AP": {
-            "bulletAirDrag": 0.2764,
-            "bulletDiametr": 0.24,
-            "bulletKrupp": 2882.0,
-            "bulletMass": 220.0,
-            "bulletName": "PFPA023_240MM_55_AP",
+            "bulletAirDrag": 0.2764, 
+            "bulletDiametr": 0.24, 
+            "bulletKrupp": 2882.0, 
+            "bulletMass": 220.0, 
+            "bulletName": "PFPA023_240MM_55_AP", 
             "bulletSpeed": 845.0
-        },
-        "Nation": "France",
+        }, 
+        "Nation": "France", 
         "Tier": 10
-    },
+    }, 
     "PFSC506_De_Grasse": {
         "AP": {
-            "bulletAirDrag": 0.3226,
-            "bulletDiametr": 0.152,
-            "bulletKrupp": 2225.0,
-            "bulletMass": 57.1,
-            "bulletName": "PFPA027_152MM_GRASSE_AP",
+            "bulletAirDrag": 0.3226, 
+            "bulletDiametr": 0.152, 
+            "bulletKrupp": 2225.0, 
+            "bulletMass": 57.1, 
+            "bulletName": "PFPA027_152MM_GRASSE_AP", 
             "bulletSpeed": 870.0
-        },
-        "Nation": "France",
+        }, 
+        "Nation": "France", 
         "Tier": 6
     }
 }

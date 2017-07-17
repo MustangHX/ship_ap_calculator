@@ -33,7 +33,11 @@ function update_chart(pen_dict) {
       },
       y2: {
         //max:30,
-        show: true
+        show: true,
+        label: { // ADD
+          text: 'Shell Fly Time (s)',
+          position: 'outer-middle'
+        }
       },
       x: {
         max: xmax*1.0,

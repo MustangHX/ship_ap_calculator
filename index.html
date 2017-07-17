@@ -15,7 +15,7 @@
 
 <body>
 
-<h1>World of Warships AP penetration calculator alpha 0.41</h1>
+<h1>World of Warships AP penetration calculator alpha 0.42</h1>
 
 <p>This is a test version based on US NAVY penetration formula and game file data mining.</p>
 
@@ -147,10 +147,21 @@ function load_value(nation) {
   //load_value();  // 在页面载入的时候读取默认的文件中的内容
 
     function select_from_keys(data) {
+      console.log(Object.keys(data).length)
       datakey=Object.keys(data);
+      ship_tuple=[];
+      for(var i in datakey){
+        ship_tuple.push([[data[datakey[i]].Tier],[datakey[i]]]);
+      }
+      ship_tuple.sort(function(a, b) {
+          a = a[0];
+          b = b[0];
+          return a-b;
+          //return a < b ? -1 : (a > b ? 1 : 0);
+      });
       $("#shiplist").replaceWith("<select id=\"shiplist\" onchange=\"ammo_properties();\"></select>");  // replace the old select with a new empty select
-      for(var i in datakey) {
-        $("#shiplist")[0].innerHTML += "<option value=\"" + datakey[i] + "\">" + "Tier "+data[datakey[i]].Tier+" "+datakey[i] + "</options>";  // append option
+      for(var i in ship_tuple) {
+        $("#shiplist")[0].innerHTML += "<option value=\"" + ship_tuple[i][1] + "\">" + "Tier "+ship_tuple[i][0]+" "+ship_tuple[i][1] + "</options>";  // append option
       }
     }
 

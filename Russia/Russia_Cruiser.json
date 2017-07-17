@@ -47,18 +47,6 @@
         "Nation": "Russia", 
         "Tier": 2
     }, 
-    "PRSC101_Orlan": {
-        "AP": {
-            "bulletAirDrag": 0.2857, 
-            "bulletDiametr": 0.13, 
-            "bulletKrupp": 52.0, 
-            "bulletMass": 33.4, 
-            "bulletName": "PRPA018_130MM_HE_OF_46_ORLAN", 
-            "bulletSpeed": 870.0
-        }, 
-        "Nation": "Russia", 
-        "Tier": 1
-    }, 
     "PRSC102_Novik": {
         "AP": {
             "bulletAirDrag": 0.496, 

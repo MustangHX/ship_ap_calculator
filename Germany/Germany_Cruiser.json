@@ -1,16 +1,4 @@
 {
-    "PGSC001_Hermelin_1940": {
-        "AP": {
-            "bulletAirDrag": 0.3128, 
-            "bulletDiametr": 0.128, 
-            "bulletKrupp": 1.0, 
-            "bulletMass": 26.0, 
-            "bulletName": "PGPA006_128MM_HE_SPRGR", 
-            "bulletSpeed": 900.0
-        }, 
-        "Nation": "Germany", 
-        "Tier": 1
-    }, 
     "PGSC002_Drezden_1908": {
         "AP": {
             "bulletAirDrag": 0.4125, 

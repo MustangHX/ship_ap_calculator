@@ -1,16 +1,4 @@
 {
-    "PASC001_Erie_1936": {
-        "AP": {
-            "bulletAirDrag": 0.315, 
-            "bulletDiametr": 0.152, 
-            "bulletKrupp": 320.0, 
-            "bulletMass": 47.6, 
-            "bulletName": "PAPA047_Shell_152mm_HE_HC_Mk_34", 
-            "bulletSpeed": 853.0
-        }, 
-        "Nation": "USA", 
-        "Tier": 1
-    }, 
     "PASC002_Chester_1908": {
         "AP": {
             "bulletAirDrag": 0.3, 
