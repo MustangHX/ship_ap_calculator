@@ -7,7 +7,9 @@
             "bulletMass": 14.97, 
             "bulletName": "PAPA033_Shell_102mm_AP_SC_Mk_16", 
             "bulletSpeed": 884.0
-        }
+        }, 
+        "Nation": "USA", 
+        "Tier": 2
     }, 
     "PASD005_Farragut_1944": {
         "AP": {
@@ -17,7 +19,9 @@
             "bulletMass": 25.0, 
             "bulletName": "PAPA004_Shell_127mm_AP_SC_Mk_38", 
             "bulletSpeed": 792.0
-        }
+        }, 
+        "Nation": "USA", 
+        "Tier": 6
     }, 
     "PASD006_Mahan_1936": {
         "AP": {
@@ -27,7 +31,9 @@
             "bulletMass": 25.0, 
             "bulletName": "PAPA004_Shell_127mm_AP_SC_Mk_38", 
             "bulletSpeed": 792.0
-        }
+        }, 
+        "Nation": "USA", 
+        "Tier": 7
     }, 
     "PASD008_Benson_1945": {
         "AP": {
@@ -37,7 +43,9 @@
             "bulletMass": 25.0, 
             "bulletName": "PAPA004_Shell_127mm_AP_SC_Mk_38", 
             "bulletSpeed": 792.0
-        }
+        }, 
+        "Nation": "USA", 
+        "Tier": 8
     }, 
     "PASD013_Gearing_1945": {
         "AP": {
@@ -47,7 +55,9 @@
             "bulletMass": 25.0, 
             "bulletName": "PAPA004_Shell_127mm_AP_SC_Mk_38", 
             "bulletSpeed": 792.0
-        }
+        }, 
+        "Nation": "USA", 
+        "Tier": 10
     }, 
     "PASD014_Leader_1919": {
         "AP": {
@@ -57,7 +67,9 @@
             "bulletMass": 25.0, 
             "bulletName": "PAPA004_Shell_127mm_AP_SC_Mk_38", 
             "bulletSpeed": 792.0
-        }
+        }, 
+        "Nation": "USA", 
+        "Tier": 5
     }, 
     "PASD019_Clemson_1920": {
         "AP": {
@@ -67,7 +79,9 @@
             "bulletMass": 14.97, 
             "bulletName": "PAPA033_Shell_102mm_AP_SC_Mk_16", 
             "bulletSpeed": 884.0
-        }
+        }, 
+        "Nation": "USA", 
+        "Tier": 4
     }, 
     "PASD021_Fletcher_1943": {
         "AP": {
@@ -77,7 +91,9 @@
             "bulletMass": 25.0, 
             "bulletName": "PAPA004_Shell_127mm_AP_SC_Mk_38", 
             "bulletSpeed": 792.0
-        }
+        }, 
+        "Nation": "USA", 
+        "Tier": 9
     }, 
     "PASD027_Wickes_1918": {
         "AP": {
@@ -87,7 +103,9 @@
             "bulletMass": 14.97, 
             "bulletName": "PAPA033_Shell_102mm_AP_SC_Mk_16", 
             "bulletSpeed": 884.0
-        }
+        }, 
+        "Nation": "USA", 
+        "Tier": 3
     }, 
     "PASD029_Sims_1941": {
         "AP": {
@@ -97,7 +115,9 @@
             "bulletMass": 25.0, 
             "bulletName": "PAPA004_Shell_127mm_AP_SC_Mk_38", 
             "bulletSpeed": 792.0
-        }
+        }, 
+        "Nation": "USA", 
+        "Tier": 7
     }, 
     "PASD502_Smith": {
         "AP": {
@@ -107,7 +127,9 @@
             "bulletMass": 5.9, 
             "bulletName": "PAPA023_Shell_76mm_AP_AP_Mk_29", 
             "bulletSpeed": 823.0
-        }
+        }, 
+        "Nation": "USA", 
+        "Tier": 2
     }, 
     "PASD508_Kidd": {
         "AP": {
@@ -117,7 +139,9 @@
             "bulletMass": 25.0, 
             "bulletName": "PAPA078_127MM_AP_KIDD", 
             "bulletSpeed": 792.0
-        }
+        }, 
+        "Nation": "USA", 
+        "Tier": 8
     }, 
     "PASD709_Black": {
         "AP": {
@@ -127,7 +151,9 @@
             "bulletMass": 25.0, 
             "bulletName": "PAPA070_127MM_AP_BLACK", 
             "bulletSpeed": 792.0
-        }
+        }, 
+        "Nation": "USA", 
+        "Tier": 9
     }, 
     "PBSD503_Campbeltown_1941": {
         "AP": {
@@ -137,7 +163,9 @@
             "bulletMass": 14.97, 
             "bulletName": "PBPA005_102MM_AP_CAMPBELTOWN", 
             "bulletSpeed": 884.0
-        }
+        }, 
+        "Nation": "United_Kingdom", 
+        "Tier": 3
     }, 
     "PBSD506_Gallant": {
         "AP": {
@@ -147,7 +175,9 @@
             "bulletMass": 22.68, 
             "bulletName": "PBPA048_120MM_QFMIX_AP_G", 
             "bulletSpeed": 808.0
-        }
+        }, 
+        "Nation": "United_Kingdom", 
+        "Tier": 6
     }, 
     "PGSD102_V_25": {
         "AP": {
@@ -157,7 +187,9 @@
             "bulletMass": 18.2, 
             "bulletName": "PGPA007_105MM_AP_PSGR", 
             "bulletSpeed": 715.0
-        }
+        }, 
+        "Nation": "Germany", 
+        "Tier": 2
     }, 
     "PGSD103_G_101": {
         "AP": {
@@ -167,7 +199,9 @@
             "bulletMass": 18.2, 
             "bulletName": "PGPA007_105MM_AP_PSGR", 
             "bulletSpeed": 715.0
-        }
+        }, 
+        "Nation": "Germany", 
+        "Tier": 3
     }, 
     "PGSD104_V_170": {
         "AP": {
@@ -177,7 +211,9 @@
             "bulletMass": 18.2, 
             "bulletName": "PGPA007_105MM_AP_PSGR", 
             "bulletSpeed": 715.0
-        }
+        }, 
+        "Nation": "Germany", 
+        "Tier": 4
     }, 
     "PGSD105_T_22": {
         "AP": {
@@ -187,7 +223,9 @@
             "bulletMass": 15.1, 
             "bulletName": "PGPA069_105MM_AP_SK_C32", 
             "bulletSpeed": 780.0
-        }
+        }, 
+        "Nation": "Germany", 
+        "Tier": 5
     }, 
     "PGSD106_Ernst_Gaede": {
         "AP": {
@@ -197,7 +235,9 @@
             "bulletMass": 45.3, 
             "bulletName": "PGPA067_150MM_AP_PSGR_L4_5", 
             "bulletSpeed": 835.0
-        }
+        }, 
+        "Nation": "Germany", 
+        "Tier": 6
     }, 
     "PGSD107_Leberecht_Maass": {
         "AP": {
@@ -207,7 +247,9 @@
             "bulletMass": 28.0, 
             "bulletName": "PGPA065_128MM_AP_SK_C34", 
             "bulletSpeed": 830.0
-        }
+        }, 
+        "Nation": "Germany", 
+        "Tier": 7
     }, 
     "PGSD108_Z_23": {
         "AP": {
@@ -217,7 +259,9 @@
             "bulletMass": 45.3, 
             "bulletName": "PGPA067_150MM_AP_PSGR_L4_5", 
             "bulletSpeed": 835.0
-        }
+        }, 
+        "Nation": "Germany", 
+        "Tier": 8
     }, 
     "PGSD109_Z_46": {
         "AP": {
@@ -227,7 +271,9 @@
             "bulletMass": 28.0, 
             "bulletName": "PGPA071_128MM_AP_C41", 
             "bulletSpeed": 830.0
-        }
+        }, 
+        "Nation": "Germany", 
+        "Tier": 9
     }, 
     "PGSD110_Z_52": {
         "AP": {
@@ -237,7 +283,9 @@
             "bulletMass": 28.0, 
             "bulletName": "PGPA071_128MM_AP_C41", 
             "bulletSpeed": 830.0
-        }
+        }, 
+        "Nation": "Germany", 
+        "Tier": 10
     }, 
     "PJSD001_Tachibana_1912": {
         "AP": {
@@ -247,7 +295,9 @@
             "bulletMass": 6.5, 
             "bulletName": "PJPA041_76mm_AP_Type_0", 
             "bulletSpeed": 690.0
-        }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 2
     }, 
     "PJSD002_Umikaze_1925": {
         "AP": {
@@ -257,7 +307,9 @@
             "bulletMass": 20.3, 
             "bulletName": "PJPA027_Shell_120mm_AP_C", 
             "bulletSpeed": 660.0
-        }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 2
     }, 
     "PJSD003_Isokaze_1917": {
         "AP": {
@@ -267,7 +319,9 @@
             "bulletMass": 20.3, 
             "bulletName": "PJPA027_Shell_120mm_AP_C", 
             "bulletSpeed": 660.0
-        }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 4
     }, 
     "PJSD004_Minekadze_1920": {
         "AP": {
@@ -277,7 +331,9 @@
             "bulletMass": 20.3, 
             "bulletName": "PJPA023_Shell_120mm_AP_C_Type_0", 
             "bulletSpeed": 825.0
-        }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 5
     }, 
     "PJSD005_Mutsuki_1926": {
         "AP": {
@@ -287,7 +343,9 @@
             "bulletMass": 20.3, 
             "bulletName": "PJPA023_Shell_120mm_AP_C_Type_0", 
             "bulletSpeed": 825.0
-        }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 6
     }, 
     "PJSD006_Hatsuharu_1945": {
         "AP": {
@@ -297,7 +355,9 @@
             "bulletMass": 23.0, 
             "bulletName": "PJPA011_Shell_127mm_AP_Type_0", 
             "bulletSpeed": 915.0
-        }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 7
     }, 
     "PJSD007_Fubuki_1944": {
         "AP": {
@@ -307,7 +367,9 @@
             "bulletMass": 23.0, 
             "bulletName": "PJPA011_Shell_127mm_AP_Type_0", 
             "bulletSpeed": 915.0
-        }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 8
     }, 
     "PJSD010_Kagero_1943": {
         "AP": {
@@ -317,7 +379,9 @@
             "bulletMass": 23.0, 
             "bulletName": "PJPA011_Shell_127mm_AP_Type_0", 
             "bulletSpeed": 915.0
-        }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 9
     }, 
     "PJSD012_Shimakaze_1943": {
         "AP": {
@@ -327,7 +391,9 @@
             "bulletMass": 23.0, 
             "bulletName": "PJPA011_Shell_127mm_AP_Type_0", 
             "bulletSpeed": 915.0
-        }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 10
     }, 
     "PJSD014_Tachibana_1912_Asus": {
         "AP": {
@@ -337,7 +403,9 @@
             "bulletMass": 6.5, 
             "bulletName": "PJPA041_76mm_AP_Type_0", 
             "bulletSpeed": 690.0
-        }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 2
     }, 
     "PJSD017_Kamikaze_1930": {
         "AP": {
@@ -347,7 +415,9 @@
             "bulletMass": 20.3, 
             "bulletName": "PJPA023_Shell_120mm_AP_C_Type_0", 
             "bulletSpeed": 825.0
-        }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 5
     }, 
     "PJSD024_Wakatake_1923": {
         "AP": {
@@ -357,7 +427,9 @@
             "bulletMass": 20.3, 
             "bulletName": "PJPA023_Shell_120mm_AP_C_Type_0", 
             "bulletSpeed": 825.0
-        }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 3
     }, 
     "PJSD025_True_Kamikaze": {
         "AP": {
@@ -367,7 +439,9 @@
             "bulletMass": 20.3, 
             "bulletName": "PJPA023_Shell_120mm_AP_C_Type_0", 
             "bulletSpeed": 825.0
-        }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 5
     }, 
     "PJSD026_Camo_Kamikaze": {
         "AP": {
@@ -377,7 +451,9 @@
             "bulletMass": 20.3, 
             "bulletName": "PJPA023_Shell_120mm_AP_C_Type_0", 
             "bulletSpeed": 825.0
-        }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 5
     }, 
     "PJSD105_Mutsuki": {
         "AP": {
@@ -387,7 +463,9 @@
             "bulletMass": 20.3, 
             "bulletName": "PJPA023_Shell_120mm_AP_C_Type_0", 
             "bulletSpeed": 825.0
-        }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 5
     }, 
     "PJSD106_Fubuki": {
         "AP": {
@@ -397,7 +475,9 @@
             "bulletMass": 23.0, 
             "bulletName": "PJPA011_Shell_127mm_AP_Type_0", 
             "bulletSpeed": 915.0
-        }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 6
     }, 
     "PJSD107_Akatsuki": {
         "AP": {
@@ -407,7 +487,9 @@
             "bulletMass": 23.0, 
             "bulletName": "PJPA011_Shell_127mm_AP_Type_0", 
             "bulletSpeed": 915.0
-        }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 7
     }, 
     "PJSD108_Akizuki": {
         "AP": {
@@ -417,7 +499,9 @@
             "bulletMass": 13.0, 
             "bulletName": "PJPA063_100MM_AP_C_TYPE_98_MG", 
             "bulletSpeed": 1000.0
-        }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 8
     }, 
     "PJSD206_Hatsuharu": {
         "AP": {
@@ -427,7 +511,9 @@
             "bulletMass": 23.0, 
             "bulletName": "PJPA011_Shell_127mm_AP_Type_0", 
             "bulletSpeed": 915.0
-        }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 6
     }, 
     "PJSD207_Shiratsuyu": {
         "AP": {
@@ -437,7 +523,9 @@
             "bulletMass": 23.0, 
             "bulletName": "PJPA011_Shell_127mm_AP_Type_0", 
             "bulletSpeed": 915.0
-        }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 7
     }, 
     "PJSD208_Kagero": {
         "AP": {
@@ -447,7 +535,9 @@
             "bulletMass": 23.0, 
             "bulletName": "PJPA011_Shell_127mm_AP_Type_0", 
             "bulletSpeed": 915.0
-        }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 8
     }, 
     "PJSD209_Yugumo": {
         "AP": {
@@ -457,7 +547,9 @@
             "bulletMass": 23.0, 
             "bulletName": "PJPA011_Shell_127mm_AP_Type_0", 
             "bulletSpeed": 915.0
-        }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 9
     }, 
     "PJSD706_Shinonome": {
         "AP": {
@@ -467,7 +559,9 @@
             "bulletMass": 23.0, 
             "bulletName": "PJPA011_Shell_127mm_AP_Type_0", 
             "bulletSpeed": 915.0
-        }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 6
     }, 
     "PJSD708_HSF_Harekaze": {
         "AP": {
@@ -477,7 +571,9 @@
             "bulletMass": 13.0, 
             "bulletName": "PJPA077_100MM_AP_HAREKAZE", 
             "bulletSpeed": 1000.0
-        }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 8
     }, 
     "PRSD001_Gremyashchy_1942": {
         "AP": {
@@ -487,7 +583,9 @@
             "bulletMass": 33.5, 
             "bulletName": "PRPA003_130mm_AP_PB_46", 
             "bulletSpeed": 870.0
-        }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 5
     }, 
     "PRSD102_SM_Storojevoy": {
         "AP": {
@@ -497,7 +595,9 @@
             "bulletMass": 17.5, 
             "bulletName": "PRPA009_102MM_AP_1915", 
             "bulletSpeed": 823.0
-        }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 2
     }, 
     "PRSD103_Derzky": {
         "AP": {
@@ -507,7 +607,9 @@
             "bulletMass": 17.5, 
             "bulletName": "PRPA009_102MM_AP_1915", 
             "bulletSpeed": 823.0
-        }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 3
     }, 
     "PRSD104_Izyaslav": {
         "AP": {
@@ -517,7 +619,9 @@
             "bulletMass": 17.5, 
             "bulletName": "PRPA009_102MM_AP_1915", 
             "bulletSpeed": 823.0
-        }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 4
     }, 
     "PRSD105_Pr_7_Gnevny": {
         "AP": {
@@ -527,7 +631,9 @@
             "bulletMass": 33.5, 
             "bulletName": "PRPA019_130MM_AP_NEPREM", 
             "bulletSpeed": 870.0
-        }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 5
     }, 
     "PRSD106_Pr_30_Ognevoy": {
         "AP": {
@@ -537,7 +643,9 @@
             "bulletMass": 33.5, 
             "bulletName": "PRPA019_130MM_AP_NEPREM", 
             "bulletSpeed": 870.0
-        }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 6
     }, 
     "PRSD107_Pr_35_Udaloy": {
         "AP": {
@@ -547,7 +655,9 @@
             "bulletMass": 33.5, 
             "bulletName": "PRPA011_130MM_AP_PB_46_B2U", 
             "bulletSpeed": 900.0
-        }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 9
     }, 
     "PRSD108_Pr_20i_Tashkent": {
         "AP": {
@@ -557,7 +667,9 @@
             "bulletMass": 33.5, 
             "bulletName": "PRPA019_130MM_AP_NEPREM", 
             "bulletSpeed": 870.0
-        }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 8
     }, 
     "PRSD109_Pr_48_Kiev": {
         "AP": {
@@ -567,7 +679,9 @@
             "bulletMass": 33.5, 
             "bulletName": "PRPA019_130MM_AP_NEPREM", 
             "bulletSpeed": 870.0
-        }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 7
     }, 
     "PRSD110_Pr_24_Khabarovsk": {
         "AP": {
@@ -577,7 +691,9 @@
             "bulletMass": 33.5, 
             "bulletName": "PRPA011_130MM_AP_PB_46_B2U", 
             "bulletSpeed": 900.0
-        }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 10
     }, 
     "PRSD205_Podvoisky_pr_1929": {
         "AP": {
@@ -587,7 +703,9 @@
             "bulletMass": 33.5, 
             "bulletName": "PRPA063_130MM_AP_PB46_OLD_GUNS", 
             "bulletSpeed": 861.0
-        }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 5
     }, 
     "PRSD206_Pr_7": {
         "AP": {
@@ -597,7 +715,9 @@
             "bulletMass": 33.5, 
             "bulletName": "PRPA003_130mm_AP_PB_46", 
             "bulletSpeed": 870.0
-        }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 6
     }, 
     "PRSD207_Minsk": {
         "AP": {
@@ -607,7 +727,9 @@
             "bulletMass": 33.5, 
             "bulletName": "PRPA003_130mm_AP_PB_46", 
             "bulletSpeed": 870.0
-        }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 7
     }, 
     "PRSD208_Pr_30": {
         "AP": {
@@ -617,7 +739,9 @@
             "bulletMass": 33.5, 
             "bulletName": "PRPA011_130MM_AP_PB_46_B2U", 
             "bulletSpeed": 900.0
-        }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 8
     }, 
     "PRSD210_Grozovoy_pr_40N": {
         "AP": {
@@ -627,7 +751,9 @@
             "bulletMass": 33.4, 
             "bulletName": "PRPA057_130MM_AP_PB_42_SM21", 
             "bulletSpeed": 950.0
-        }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 10
     }, 
     "PRSD308_Pr_48": {
         "AP": {
@@ -637,7 +763,9 @@
             "bulletMass": 33.5, 
             "bulletName": "PRPA019_130MM_AP_NEPREM", 
             "bulletSpeed": 870.0
-        }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 8
     }, 
     "PRSD409_Pr_20i_Tashkent": {
         "AP": {
@@ -647,7 +775,9 @@
             "bulletMass": 33.5, 
             "bulletName": "PRPA019_130MM_AP_NEPREM", 
             "bulletSpeed": 870.0
-        }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 9
     }, 
     "PRSD505_Okhotnik_1917": {
         "AP": {
@@ -657,7 +787,9 @@
             "bulletMass": 33.5, 
             "bulletName": "PRPA055_130MM_AP_OHOTNIK", 
             "bulletSpeed": 861.0
-        }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 5
     }, 
     "PRSD507_Leningrad_1944": {
         "AP": {
@@ -667,7 +799,9 @@
             "bulletMass": 33.5, 
             "bulletName": "PRPA050_AP_LGD", 
             "bulletSpeed": 870.0
-        }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 7
     }, 
     "PWSD501_Blyskawica": {
         "AP": {
@@ -677,7 +811,9 @@
             "bulletMass": 24.0, 
             "bulletName": "PWPA002_120_AP_BLYSKAWICA", 
             "bulletSpeed": 900.0
-        }
+        }, 
+        "Nation": "Poland", 
+        "Tier": 7
     }, 
     "PZSD506_Anshan": {
         "AP": {
@@ -687,7 +823,9 @@
             "bulletMass": 33.5, 
             "bulletName": "PZPA002_130_AP_ANSHAN", 
             "bulletSpeed": 870.0
-        }
+        }, 
+        "Nation": "Pan_Asia", 
+        "Tier": 6
     }, 
     "PZSD508_LoYang": {
         "AP": {
@@ -697,6 +835,8 @@
             "bulletMass": 25.0, 
             "bulletName": "PZPA004_127_AP_LO_YANG", 
             "bulletSpeed": 792.0
-        }
+        }, 
+        "Nation": "Pan_Asia", 
+        "Tier": 8
     }
 }

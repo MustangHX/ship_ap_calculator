@@ -1,7 +1,6 @@
 function calculator(m,D,c_D,v_0,K){
 //integration for trajectories
 // SHELL CONSTANTS
-console.log(m,D,c_D,v_0,K);
 C = 0.5561613; // PENETRATION
 g = 9.81;// GRAVITY
 T_0 = 288.; // TEMPERATURE AT SEA LEVEL
@@ -50,7 +49,6 @@ for (i=0;i<n_angle;i++){
   armor_hori.push(0.);
   distance.push(0.);
 }
-//console.log(alpha)
 dt = 0.05; //TIME STEP
 
 for(i=0;i<n_angle;i++){
@@ -76,7 +74,6 @@ for(i=0;i<n_angle;i++){
 
 	v_imp=Math.sqrt(v_x*v_x+v_y*v_y)
 	pen_abs=C_pen*Math.pow(v_imp,1.1)*Math.pow(m,0.55)/Math.pow(D*1000,0.65) // weird penetration formula
-  //console.log(v_0*Math.sin(alpha[i]),v_imp,pen_abs);
 
 	IA=Math.atan(Math.abs(v_y)/Math.abs(v_x))
 
@@ -98,14 +95,11 @@ for(i=0;i<n_angle;i++){
 	armor_hori[i]=pen_abs*Math.sin(IA_hori_armor)
   v_impact.push(v_imp)
 	fly_time.push(t)
-	console.log(t)
 	distance[i]=x
 }
-console.log(fly_time)
 interp_tuple=[];
 interp_num=Math.floor((distance[n_angle-1]-distance[0])/100)+1;
 offset_num=Math.floor((distance[0])/100);
-//console.log(interp_num);
 for (i=0;i<n_angle;i++){
   interp_tuple.push([distance[i],armor_abs[i],armor_vert[i],armor_hori[i],v_impact[i],fly_time[i]]);
 }
@@ -131,7 +125,6 @@ j=0;
 
 //for (i=1;i<n_angle+interp_num;i++){
 for (var i in interp_tuple){
-console.log(interp_tuple[i][5]);
     if(interp_tuple[i][1]>0.){
       for(;j<inter_distance.length;j++){
         x1=interp_tuple[ind_before][0];
@@ -158,7 +151,6 @@ console.log(interp_tuple[i][5]);
 
 }
 
-//console.log(inter_armor_vert);
 //pen_curve_abs=interp1d(distance,armor_abs,kind='cubic')
 //pen_curve_vert=interp1d(distance,armor_vert,kind='cubic')
 //pen_curve_hori=interp1d(distance,armor_hori,kind='cubic')
@@ -167,7 +159,6 @@ dist=[5000,10000,15000,20000]
 for(var i in inter_distance){
 	inter_distance[i]/=1000.;
 }
-console.log(inter_fly_time)
 var data_dict={};
 data_dict.distance=inter_distance;
 data_dict.armor_abs=inter_armor_abs;

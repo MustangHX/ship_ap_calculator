@@ -10,28 +10,30 @@
   <script src="c3.min.js"></script>
   <script src="calculator.js"></script>
   <script src="c3_chart.js"></script>
+  <script src='require.js'></script>
 </head>
 
 <body>
 
-<h1>World of Warships AP penetration calculator alpha 0.34</h1>
+<h1>World of Warships AP penetration calculator alpha 0.40</h1>
 
 <p>This is a test version based on US NAVY penetration formula and game file data mining.</p>
-<!--
-<p>nationlist:
-<select id="nation" onchange="load_nation();">
--->
-<p>shiplist：
-<select id="file_to_read" onchange="load_value();">
-  <option value="cruiser">cruisers</option>
-  <option value="battleship">battleships</option>
-  <option value="destroyer">destroyers</option>
-</select>
+
+<p>nation:
+<select id="nation" onchange="load_types();"></select>
 </p>
+
+<p>shiptype:
+<select id="shiptype" onchange="load_ships();"></select>
+</p>
+
+<p>shiplist:
+<select id="shiplist" onchange="ammo_properties();"></select>
+</p>
+
 
 <p><textarea id="value_loaded"></textarea></p>
 
-<p>shiplist：<select id="shiplist" onchange="ammo_properties();"></select></p>
 
 <p>Ammo name: <div id="ammo_selected_name"></div>
 Air Drag Coeff: <div id="ammo_selected_airdrag"></div>
@@ -45,18 +47,95 @@ Muzzle Velocity: <div id="ammo_selected_speed"></div></p>
 <script>
 
 var ship_info;
-  function load_value() {
+var glob_nation;
+function load_nation(){
+  //$.getJSON(['./nations.json'],function(file){
+  //  console.log(file);
+    natio=["Commonwealth",
+      "Japan",
+      "UK",
+      "France",
+      "Pan_Asia",
+      "USA",
+      "Germany",
+      "Poland",
+      "Italy",
+      "Russia"]
+      //console.log(natio);
+    $("#nation").replaceWith("<select id=\"nation\" onchange=\"load_types();\"></select>");  // replace the old select with a new empty select
+    for(var i in natio) {
+      $("#nation")[0].innerHTML += "<option value=\"" + natio[i] + "\">" + natio[i] + "</options>";  // append option
+  }
+//});
+}
+
+function load_types(){
+  nation_selector = $("#nation")[0];
+  selected_nation = nation_selector.options[nation_selector.selectedIndex].value;
+  console.log(selected_nation);
+  glob_nation=selected_nation;
+  $.ajax({
+    url: selected_nation+"/shiptypes.json",
+    //url: "nations.json",
+    type: "GET",
+    dataType: "json",
+    success: function (data) {
+        //select_from_keys(data)
+        console.log(data);
+        $("#shiptype").replaceWith("<select id=\"shiptype\" onchange=\"load_ships();\"></select>");  // replace the old select with a new empty select
+        for(var i in data) {
+          $("#shiptype")[0].innerHTML += "<option value=\"" + data[i] + "\">" + data[i] + "</options>";  // append option
+        }
+        load_ships(glob_nation);
+        console.log(glob_nation);
+      //  ammo_properties();
+        //console.log(pen_dict.distance);
+      }
+  });
+}
+
+function load_ships(){
+  file_selector = $("#shiptype")[0];
+  selected_shiptype = glob_nation+"_"+file_selector.options[file_selector.selectedIndex].value;
+  console.log(selected_shiptype);
+  $.ajax({
+    url: glob_nation+"/"+selected_shiptype+".json",
+    //url: "nations.json",
+    type: "GET",
+    dataType: "json",
+    success: function (data) {
+        //select_from_keys(data)
+        ship_info=data;
+        console.log(data);
+        select_from_keys(data)
+        $("#value_loaded")[0].innerHTML = Object.keys(data)
+//        $("#shiplist").replaceWith("<select id=\"shiplist\" onchange=\"load_types();\"></select>");  // replace the old select with a new empty select
+  //      for(var i in data) {
+    //      $("#shiplist")[0].innerHTML += "<option value=\"" + data[i] + "\">" + data[i] + "</options>";  // append option
+      //  }
+        console.log(Object.keys(data))
+        ammo_properties();
+        //console.log(pen_dict.distance);
+      }
+  });
+}
+
+load_nation();
+load_types();
+//console.log(glob_nation);
+
+function load_value(nation) {
     file_selector = $("#file_to_read")[0];
     selected_filename = file_selector.options[file_selector.selectedIndex].value;
     $.ajax({
       url: selected_filename+".json",
+      //url: nation+"/"+selected_filename+".json",
+
       type: "GET",
       dataType: "json",
       success: function (data) {
-          ship_info=data
-          select_from_keys(Object.keys(data))
-          //alert(Object.keys(data))
-          console.log(Object.keys(data))
+        ship_info=data;
+          select_from_keys(data)
           $("#value_loaded")[0].innerHTML = Object.keys(data)
           ammo_properties();
           //console.log(pen_dict.distance);
@@ -65,13 +144,13 @@ var ship_info;
     });
   }
 
-  load_value();  // 在页面载入的时候读取默认的文件中的内容
+  //load_value();  // 在页面载入的时候读取默认的文件中的内容
 
     function select_from_keys(data) {
-
+      datakey=Object.keys(data);
       $("#shiplist").replaceWith("<select id=\"shiplist\" onchange=\"ammo_properties();\"></select>");  // replace the old select with a new empty select
-      for(var i in data) {
-        $("#shiplist")[0].innerHTML += "<option value=\"" + data[i] + "\">" + data[i] + "</options>";  // append option
+      for(var i in datakey) {
+        $("#shiplist")[0].innerHTML += "<option value=\"" + datakey[i] + "\">" + "Tier "+data[datakey[i]].Tier+" "+datakey[i] + "</options>";  // append option
       }
     }
 

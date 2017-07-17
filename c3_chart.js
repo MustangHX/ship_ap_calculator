@@ -1,7 +1,6 @@
 function update_chart(pen_dict) {
   xmax0=Math.max(...pen_dict.distance);
   xmax=Math.ceil(xmax0/5.)*5;
-  console.log(pen_dict.fly_time);
   xcount=xmax/5+1;
   xtick=[];
   for (i=0;i<xcount;i++){
