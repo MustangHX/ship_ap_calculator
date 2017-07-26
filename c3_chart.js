@@ -14,7 +14,7 @@ function update_chart(pen_dict) {
         ['distance'].concat(pen_dict.distance),
         ['vertical armor'].concat(pen_dict.armor_vert),
         ['deck armor'].concat(pen_dict.armor_hori),
-        ['fly_time'].concat(pen_dict.fly_time)
+        ['fly time'].concat(pen_dict.fly_time)
       ],
       //type:"spline",
       //style:"dashed"
