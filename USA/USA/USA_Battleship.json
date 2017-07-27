@@ -124,21 +124,6 @@
         "Tier": 8, 
         "ammo_num": 2
     }, 
-    "PASB013_Arkansas_1912": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.337, 
-                "bulletDiametr": 0.305, 
-                "bulletKrupp": 2226.0, 
-                "bulletMass": 394.6, 
-                "bulletName": "PAPA055_305mm_AP_AP_870lbs", 
-                "bulletSpeed": 884.0
-            }
-        }, 
-        "Nation": "USA", 
-        "Tier": 4, 
-        "ammo_num": 1
-    }, 
     "PASB017_Montana_1945": {
         "Artillery0": {
             "AP": {
@@ -152,7 +137,7 @@
         }, 
         "Nation": "USA", 
         "Tier": 10, 
-        "ammo_num": 1
+        "ammo_num": 2
     }, 
     "PASB018_Iowa_1944": {
         "Artillery0": {
@@ -187,7 +172,7 @@
         }, 
         "Nation": "USA", 
         "Tier": 9, 
-        "ammo_num": 3
+        "ammo_num": 2
     }, 
     "PASB034_New_Mexico_1941": {
         "Artillery0": {
@@ -213,80 +198,5 @@
         "Nation": "USA", 
         "Tier": 6, 
         "ammo_num": 2
-    }, 
-    "PASB506_Arizona_1941": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.332, 
-                "bulletDiametr": 0.356, 
-                "bulletKrupp": 2604.0, 
-                "bulletMass": 680.4, 
-                "bulletName": "PAPA062_SHELL_356MM_AP_MK_16_ARIZONA", 
-                "bulletSpeed": 792.0
-            }
-        }, 
-        "Nation": "USA", 
-        "Tier": 6, 
-        "ammo_num": 1
-    }, 
-    "PASB508_Alabama": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.352, 
-                "bulletDiametr": 0.406, 
-                "bulletKrupp": 2598.0, 
-                "bulletMass": 1225.0, 
-                "bulletName": "PAPA076_406MM_AP_ALABAMA", 
-                "bulletSpeed": 701.0
-            }
-        }, 
-        "Nation": "USA", 
-        "Tier": 8, 
-        "ammo_num": 1
-    }, 
-    "PASB509_Missouri": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.352, 
-                "bulletDiametr": 0.406, 
-                "bulletKrupp": 2520.0, 
-                "bulletMass": 1225.0, 
-                "bulletName": "PAPA072_406MM_AP_MISSOURI", 
-                "bulletSpeed": 762.0
-            }
-        }, 
-        "Nation": "USA", 
-        "Tier": 9, 
-        "ammo_num": 1
-    }, 
-    "PASB705_Texas_1944": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.332, 
-                "bulletDiametr": 0.356, 
-                "bulletKrupp": 2604.0, 
-                "bulletMass": 680.4, 
-                "bulletName": "PAPA066_SHELL_356MM_AP_MK_16_TEXAS", 
-                "bulletSpeed": 792.0
-            }
-        }, 
-        "Nation": "USA", 
-        "Tier": 5, 
-        "ammo_num": 1
-    }, 
-    "PASB708_Alabama": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.352, 
-                "bulletDiametr": 0.406, 
-                "bulletKrupp": 2598.0, 
-                "bulletMass": 1225.0, 
-                "bulletName": "PAPA074_406MM_AP_ALABAMA", 
-                "bulletSpeed": 701.0
-            }
-        }, 
-        "Nation": "USA", 
-        "Tier": 8, 
-        "ammo_num": 1
     }
 }

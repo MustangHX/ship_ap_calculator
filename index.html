@@ -15,7 +15,7 @@
 
 <body>
 
-<h1>World of Warships AP penetration calculator alpha 0.43</h1>
+<h1>World of Warships AP penetration calculator Beta 0.50</h1>
 
 <p>This is a test version based on US NAVY penetration formula and game file data mining.</p>
 
@@ -34,22 +34,23 @@
 <p>ammo list:
 <select id="ammolist" onchange="ammo_properties();"></select>
 </p>
-
+<!--
 <p><textarea id="value_loaded"></textarea></p>
+-->
 
-
-<p>Ammo name: <div id="ammo_selected_name"></div>
-Air Drag Coeff: <div id="ammo_selected_airdrag"></div>
-Caliber <div  id="ammo_selected_diametr"></div>
-Mass <div  id="ammo_selected_mass"></div>
-Krupp <div id="ammo_selected_krupp"></div>
-Muzzle Velocity: <div id="ammo_selected_speed"></div></p>
+<p><div id="ammo_selected_name"></div>
+<div id="ammo_selected_airdrag" ></div>
+<div  id="ammo_selected_diametr"></div>
+<div  id="ammo_selected_mass"></div>
+<div id="ammo_selected_krupp"></div>
+<div id="ammo_selected_speed"></div></p>
 
 <div id="chart"></div>
 
 <script>
 
 var ship_info;
+var the_ship;
 var glob_nation;
 function load_nation(){
   //$.getJSON(['./nations.json'],function(file){
@@ -111,16 +112,35 @@ function load_ships(){
         ship_info=data;
         console.log(data);
         select_from_keys(data)
-        $("#value_loaded")[0].innerHTML = Object.keys(data)
+  //      $("#value_loaded")[0].innerHTML = Object.keys(data)
 //        $("#shiplist").replaceWith("<select id=\"shiplist\" onchange=\"load_types();\"></select>");  // replace the old select with a new empty select
   //      for(var i in data) {
     //      $("#shiplist")[0].innerHTML += "<option value=\"" + data[i] + "\">" + data[i] + "</options>";  // append option
       //  }
         console.log(Object.keys(data))
-        ammo_properties();
+        load_ammo();
+        //ammo_properties();
         //console.log(pen_dict.distance);
       }
   });
+}
+
+function load_ammo(){
+  ship_selector = $("#shiplist")[0];
+  ship_name = ship_selector.options[ship_selector.selectedIndex].value;
+  selected_ship = ship_info[ship_name];
+  the_ship=selected_ship;
+  console.log(selected_ship.ammo_num);
+  artylist=[]
+  for(i=0;i<selected_ship.ammo_num;i++){
+    artylist.push("Artillery"+i.toString());
+  }
+  $("#ammolist").replaceWith("<select id=\"ammolist\" onchange=\"ammo_properties();\"></select>");  // replace the old select with a new empty select
+  for(var i in artylist) {
+    $("#ammolist")[0].innerHTML += "<option value=\"" + artylist[i] + "\">" + artylist[i] + "</options>";  // append option
+  }
+  ammo_properties();
+        //console.log(pen_dict.distance);
 }
 
 load_nation();
@@ -162,7 +182,7 @@ function load_value(nation) {
           return a-b;
           //return a < b ? -1 : (a > b ? 1 : 0);
       });
-      $("#shiplist").replaceWith("<select id=\"shiplist\" onchange=\"ammo_properties();\"></select>");  // replace the old select with a new empty select
+      $("#shiplist").replaceWith("<select id=\"shiplist\" onchange=\"load_ammo();\"></select>");  // replace the old select with a new empty select
       for(var i in ship_tuple) {
         $("#shiplist")[0].innerHTML += "<option value=\"" + ship_tuple[i][1] + "\">" + "Tier "+ship_tuple[i][0]+" "+(ship_tuple[i][1].toString()).substring(8) + "</options>";  // append option
       }
@@ -170,22 +190,22 @@ function load_value(nation) {
 
     function ammo_properties(){
       // display ammo information
-      ship_selector = $("#shiplist")[0];
-      ship_name = ship_selector.options[ship_selector.selectedIndex].value;
-      selected_ship=ship_info[ship_name]
-      console.log(selected_ship.AP.bulletAirDrag)
+      ammo_selector = $("#ammolist")[0];
+      ammo_name = ammo_selector.options[ammo_selector.selectedIndex].value;
+      selected_ammo=the_ship[ammo_name]
+      console.log(selected_ammo.AP.bulletName);
       var c_D,Dia,mass,krupp,v_0;
-      c_D=selected_ship.AP.bulletAirDrag;
-      Dia=selected_ship.AP.bulletDiametr;
-      mass=selected_ship.AP.bulletMass;
-      krupp=selected_ship.AP.bulletKrupp;
-      v_0=selected_ship.AP.bulletSpeed;
-      $("#ammo_selected_name")[0].innerHTML = selected_ship.AP.bulletName;
-      $("#ammo_selected_airdrag")[0].innerHTML = selected_ship.AP.bulletAirDrag;
-      $("#ammo_selected_diametr")[0].innerHTML = selected_ship.AP.bulletDiametr;
-      $("#ammo_selected_mass")[0].innerHTML = selected_ship.AP.bulletMass;
-      $("#ammo_selected_krupp")[0].innerHTML = selected_ship.AP.bulletKrupp;
-      $("#ammo_selected_speed")[0].innerHTML = selected_ship.AP.bulletSpeed;
+      c_D=selected_ammo.AP.bulletAirDrag;
+      Dia=selected_ammo.AP.bulletDiametr;
+      mass=selected_ammo.AP.bulletMass;
+      krupp=selected_ammo.AP.bulletKrupp;
+      v_0=selected_ammo.AP.bulletSpeed;
+      $("#ammo_selected_name")[0].innerHTML = "Ammo Name: "+selected_ammo.AP.bulletName;
+      $("#ammo_selected_airdrag")[0].innerHTML = "Air Drag Coeff: "+selected_ammo.AP.bulletAirDrag;
+      $("#ammo_selected_diametr")[0].innerHTML = "Caliber: "+1000*selected_ammo.AP.bulletDiametr+" mm";
+      $("#ammo_selected_mass")[0].innerHTML = "Mass: "+selected_ammo.AP.bulletMass+" kg";
+      $("#ammo_selected_krupp")[0].innerHTML = "Krupp: "+selected_ammo.AP.bulletKrupp;
+      $("#ammo_selected_speed")[0].innerHTML = "Muzzle Velocity: "+selected_ammo.AP.bulletSpeed+" m/s";
 
       // draw ammo penetration curve
       pen_dict= calculator(mass,Dia,c_D,v_0,krupp);

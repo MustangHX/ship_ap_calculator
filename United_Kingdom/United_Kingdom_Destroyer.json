@@ -1,26 +1,32 @@
 {
     "PBSD503_Campbeltown_1941": {
-        "AP": {
-            "bulletAirDrag": 0.33, 
-            "bulletDiametr": 0.102, 
-            "bulletKrupp": 1451.0, 
-            "bulletMass": 14.97, 
-            "bulletName": "PBPA005_102MM_AP_CAMPBELTOWN", 
-            "bulletSpeed": 884.0
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.33, 
+                "bulletDiametr": 0.102, 
+                "bulletKrupp": 1451.0, 
+                "bulletMass": 14.97, 
+                "bulletName": "PBPA005_102MM_AP_CAMPBELTOWN", 
+                "bulletSpeed": 884.0
+            }
         }, 
         "Nation": "United_Kingdom", 
-        "Tier": 3
+        "Tier": 3, 
+        "ammo_num": 1
     }, 
     "PBSD506_Gallant": {
-        "AP": {
-            "bulletAirDrag": 0.3927, 
-            "bulletDiametr": 0.12, 
-            "bulletKrupp": 2396.0, 
-            "bulletMass": 22.68, 
-            "bulletName": "PBPA048_120MM_QFMIX_AP_G", 
-            "bulletSpeed": 808.0
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3927, 
+                "bulletDiametr": 0.12, 
+                "bulletKrupp": 2396.0, 
+                "bulletMass": 22.68, 
+                "bulletName": "PBPA048_120MM_QFMIX_AP_G", 
+                "bulletSpeed": 808.0
+            }
         }, 
         "Nation": "United_Kingdom", 
-        "Tier": 6
+        "Tier": 6, 
+        "ammo_num": 1
     }
 }

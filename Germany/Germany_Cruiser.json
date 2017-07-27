@@ -1,158 +1,268 @@
 {
+    "PGSC001_Hermelin_1940": {}, 
     "PGSC002_Drezden_1908": {
-        "AP": {
-            "bulletAirDrag": 0.4125, 
-            "bulletDiametr": 0.105, 
-            "bulletKrupp": 1930.0, 
-            "bulletMass": 17.4, 
-            "bulletName": "PGPA014_105MM_AP_SAP_PZ_GR", 
-            "bulletSpeed": 710.0
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.4125, 
+                "bulletDiametr": 0.105, 
+                "bulletKrupp": 1930.0, 
+                "bulletMass": 17.4, 
+                "bulletName": "PGPA014_105MM_AP_SAP_PZ_GR", 
+                "bulletSpeed": 710.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.4125, 
+                "bulletDiametr": 0.105, 
+                "bulletKrupp": 1930.0, 
+                "bulletMass": 17.4, 
+                "bulletName": "PGPA014_105MM_AP_SAP_PZ_GR", 
+                "bulletSpeed": 710.0
+            }
         }, 
         "Nation": "Germany", 
-        "Tier": 2
+        "Tier": 2, 
+        "ammo_num": 2
     }, 
     "PGSC103_Kolberg": {
-        "AP": {
-            "bulletAirDrag": 0.4125, 
-            "bulletDiametr": 0.105, 
-            "bulletKrupp": 1870.0, 
-            "bulletMass": 18.2, 
-            "bulletName": "PGPA007_105MM_AP_PSGR", 
-            "bulletSpeed": 715.0
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.4125, 
+                "bulletDiametr": 0.105, 
+                "bulletKrupp": 1870.0, 
+                "bulletMass": 18.2, 
+                "bulletName": "PGPA007_105MM_AP_PSGR", 
+                "bulletSpeed": 715.0
+            }
         }, 
         "Nation": "Germany", 
-        "Tier": 3
+        "Tier": 3, 
+        "ammo_num": 1
     }, 
     "PGSC104_Karlsruhe": {
-        "AP": {
-            "bulletAirDrag": 0.4145, 
-            "bulletDiametr": 0.15, 
-            "bulletKrupp": 1925.0, 
-            "bulletMass": 45.3, 
-            "bulletName": "PGPA019_150MM_AP_PSGR_L3_7", 
-            "bulletSpeed": 835.0
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.4145, 
+                "bulletDiametr": 0.15, 
+                "bulletKrupp": 1925.0, 
+                "bulletMass": 45.3, 
+                "bulletName": "PGPA019_150MM_AP_PSGR_L3_7", 
+                "bulletSpeed": 835.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.4145, 
+                "bulletDiametr": 0.15, 
+                "bulletKrupp": 1925.0, 
+                "bulletMass": 45.3, 
+                "bulletName": "PGPA019_150MM_AP_PSGR_L3_7", 
+                "bulletSpeed": 835.0
+            }
         }, 
         "Nation": "Germany", 
-        "Tier": 4
+        "Tier": 4, 
+        "ammo_num": 2
     }, 
     "PGSC105_Konigsberg": {
-        "AP": {
-            "bulletAirDrag": 0.3307, 
-            "bulletDiametr": 0.15, 
-            "bulletKrupp": 1862.0, 
-            "bulletMass": 45.5, 
-            "bulletName": "PGPA020_150MM_AP_PSGR_L3_7_C25", 
-            "bulletSpeed": 960.0
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3307, 
+                "bulletDiametr": 0.15, 
+                "bulletKrupp": 1862.0, 
+                "bulletMass": 45.5, 
+                "bulletName": "PGPA020_150MM_AP_PSGR_L3_7_C25", 
+                "bulletSpeed": 960.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.3307, 
+                "bulletDiametr": 0.15, 
+                "bulletKrupp": 1862.0, 
+                "bulletMass": 45.5, 
+                "bulletName": "PGPA020_150MM_AP_PSGR_L3_7_C25", 
+                "bulletSpeed": 960.0
+            }
         }, 
         "Nation": "Germany", 
-        "Tier": 5
+        "Tier": 5, 
+        "ammo_num": 2
     }, 
     "PGSC106_Nurnberg": {
-        "AP": {
-            "bulletAirDrag": 0.3307, 
-            "bulletDiametr": 0.15, 
-            "bulletKrupp": 1862.0, 
-            "bulletMass": 45.5, 
-            "bulletName": "PGPA020_150MM_AP_PSGR_L3_7_C25", 
-            "bulletSpeed": 960.0
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3307, 
+                "bulletDiametr": 0.15, 
+                "bulletKrupp": 1862.0, 
+                "bulletMass": 45.5, 
+                "bulletName": "PGPA020_150MM_AP_PSGR_L3_7_C25", 
+                "bulletSpeed": 960.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.3307, 
+                "bulletDiametr": 0.15, 
+                "bulletKrupp": 1862.0, 
+                "bulletMass": 45.5, 
+                "bulletName": "PGPA020_150MM_AP_PSGR_L3_7_C25", 
+                "bulletSpeed": 960.0
+            }
         }, 
         "Nation": "Germany", 
-        "Tier": 6
+        "Tier": 6, 
+        "ammo_num": 2
     }, 
     "PGSC107_Yorck": {
-        "AP": {
-            "bulletAirDrag": 0.4808, 
-            "bulletDiametr": 0.21, 
-            "bulletKrupp": 2545.0, 
-            "bulletMass": 108.0, 
-            "bulletName": "PGPA025_210MM_AP_PSGR_L3_1", 
-            "bulletSpeed": 900.0
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.4808, 
+                "bulletDiametr": 0.21, 
+                "bulletKrupp": 2545.0, 
+                "bulletMass": 108.0, 
+                "bulletName": "PGPA025_210MM_AP_PSGR_L3_1", 
+                "bulletSpeed": 900.0
+            }
         }, 
         "Nation": "Germany", 
-        "Tier": 7
+        "Tier": 7, 
+        "ammo_num": 1
     }, 
     "PGSC108_Hipper": {
-        "AP": {
-            "bulletAirDrag": 0.2974, 
-            "bulletDiametr": 0.203, 
-            "bulletKrupp": 2409.0, 
-            "bulletMass": 122.0, 
-            "bulletName": "PGPA023_203MM_AP_PZ_SPR_GGR_L4_4", 
-            "bulletSpeed": 925.0
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2974, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2409.0, 
+                "bulletMass": 122.0, 
+                "bulletName": "PGPA023_203MM_AP_PZ_SPR_GGR_L4_4", 
+                "bulletSpeed": 925.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.2974, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2409.0, 
+                "bulletMass": 122.0, 
+                "bulletName": "PGPA023_203MM_AP_PZ_SPR_GGR_L4_4", 
+                "bulletSpeed": 925.0
+            }
+        }, 
+        "Artillery2": {
+            "AP": {
+                "bulletAirDrag": 0.2974, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2409.0, 
+                "bulletMass": 122.0, 
+                "bulletName": "PGPA023_203MM_AP_PZ_SPR_GGR_L4_4", 
+                "bulletSpeed": 925.0
+            }
         }, 
         "Nation": "Germany", 
-        "Tier": 8
+        "Tier": 8, 
+        "ammo_num": 3
     }, 
     "PGSC109_Roon": {
-        "AP": {
-            "bulletAirDrag": 0.2974, 
-            "bulletDiametr": 0.203, 
-            "bulletKrupp": 2409.0, 
-            "bulletMass": 122.0, 
-            "bulletName": "PGPA023_203MM_AP_PZ_SPR_GGR_L4_4", 
-            "bulletSpeed": 925.0
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2974, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2409.0, 
+                "bulletMass": 122.0, 
+                "bulletName": "PGPA023_203MM_AP_PZ_SPR_GGR_L4_4", 
+                "bulletSpeed": 925.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.2974, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2409.0, 
+                "bulletMass": 122.0, 
+                "bulletName": "PGPA023_203MM_AP_PZ_SPR_GGR_L4_4", 
+                "bulletSpeed": 925.0
+            }
         }, 
         "Nation": "Germany", 
-        "Tier": 9
+        "Tier": 9, 
+        "ammo_num": 2
     }, 
     "PGSC110_Hindenburg": {
-        "AP": {
-            "bulletAirDrag": 0.2974, 
-            "bulletDiametr": 0.203, 
-            "bulletKrupp": 2409.0, 
-            "bulletMass": 122.0, 
-            "bulletName": "PGPA023_203MM_AP_PZ_SPR_GGR_L4_4", 
-            "bulletSpeed": 925.0
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2974, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2409.0, 
+                "bulletMass": 122.0, 
+                "bulletName": "PGPA023_203MM_AP_PZ_SPR_GGR_L4_4", 
+                "bulletSpeed": 925.0
+            }
         }, 
         "Nation": "Germany", 
-        "Tier": 10
+        "Tier": 10, 
+        "ammo_num": 1
     }, 
     "PGSC502_Emden_1908": {
-        "AP": {
-            "bulletAirDrag": 0.4125, 
-            "bulletDiametr": 0.105, 
-            "bulletKrupp": 1450.0, 
-            "bulletMass": 17.4, 
-            "bulletName": "PGPA028_105MM_AP_EMDEN", 
-            "bulletSpeed": 710.0
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.4125, 
+                "bulletDiametr": 0.105, 
+                "bulletKrupp": 1450.0, 
+                "bulletMass": 17.4, 
+                "bulletName": "PGPA028_105MM_AP_EMDEN", 
+                "bulletSpeed": 710.0
+            }
         }, 
         "Nation": "Germany", 
-        "Tier": 2
+        "Tier": 2, 
+        "ammo_num": 1
     }, 
     "PGSC506_Admiral_Graf_Spee": {
-        "AP": {
-            "bulletAirDrag": 0.3333, 
-            "bulletDiametr": 0.283, 
-            "bulletKrupp": 2282.0, 
-            "bulletMass": 300.0, 
-            "bulletName": "PGPA075_283MM_AP_GRAF", 
-            "bulletSpeed": 910.0
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3333, 
+                "bulletDiametr": 0.283, 
+                "bulletKrupp": 2282.0, 
+                "bulletMass": 300.0, 
+                "bulletName": "PGPA075_283MM_AP_GRAF", 
+                "bulletSpeed": 910.0
+            }
         }, 
         "Nation": "Germany", 
-        "Tier": 6
+        "Tier": 6, 
+        "ammo_num": 1
     }, 
     "PGSC508_Prinz_Eugen": {
-        "AP": {
-            "bulletAirDrag": 0.2974, 
-            "bulletDiametr": 0.203, 
-            "bulletKrupp": 2409.0, 
-            "bulletMass": 122.0, 
-            "bulletName": "PGPA063_203MM_AP_P_O", 
-            "bulletSpeed": 925.0
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2974, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2409.0, 
+                "bulletMass": 122.0, 
+                "bulletName": "PGPA063_203MM_AP_P_O", 
+                "bulletSpeed": 925.0
+            }
         }, 
         "Nation": "Germany", 
-        "Tier": 8
+        "Tier": 8, 
+        "ammo_num": 1
     }, 
     "PGSC706_HSF_Graf_Spee": {
-        "AP": {
-            "bulletAirDrag": 0.3333, 
-            "bulletDiametr": 0.283, 
-            "bulletKrupp": 2282.0, 
-            "bulletMass": 300.0, 
-            "bulletName": "PGPA075_283MM_AP_GRAF", 
-            "bulletSpeed": 910.0
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3333, 
+                "bulletDiametr": 0.283, 
+                "bulletKrupp": 2282.0, 
+                "bulletMass": 300.0, 
+                "bulletName": "PGPA075_283MM_AP_GRAF", 
+                "bulletSpeed": 910.0
+            }
         }, 
         "Nation": "Germany", 
-        "Tier": 6
+        "Tier": 6, 
+        "ammo_num": 1
     }
 }

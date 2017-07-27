@@ -1,14 +1,13 @@
 {
-    "PASC001_Erie_1936": {}, 
     "PASC002_Chester_1908": {
         "Artillery0": {
             "AP": {
-                "bulletAirDrag": 0.4036, 
-                "bulletDiametr": 0.152, 
-                "bulletKrupp": 1830.0, 
-                "bulletMass": 47.7, 
-                "bulletName": "PAPA027_Shell_152mm_AP_AP_105lbs", 
-                "bulletSpeed": 853.0
+                "bulletAirDrag": 0.3, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 1350.0, 
+                "bulletMass": 22.7, 
+                "bulletName": "PAPA021_Shell_127mm_AP_AP", 
+                "bulletSpeed": 914.0
             }
         }, 
         "Artillery1": {
@@ -23,22 +22,7 @@
         }, 
         "Nation": "USA", 
         "Tier": 2, 
-        "ammo_num": 1
-    }, 
-    "PASC003_Albany_1898": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.4036, 
-                "bulletDiametr": 0.152, 
-                "bulletKrupp": 1830.0, 
-                "bulletMass": 47.7, 
-                "bulletName": "PAPA027_Shell_152mm_AP_AP_105lbs", 
-                "bulletSpeed": 853.0
-            }
-        }, 
-        "Nation": "USA", 
-        "Tier": 2, 
-        "ammo_num": 1
+        "ammo_num": 2
     }, 
     "PASC004_St_Louis_1906": {
         "Artillery0": {
@@ -63,7 +47,7 @@
         }, 
         "Nation": "USA", 
         "Tier": 3, 
-        "ammo_num": 1
+        "ammo_num": 2
     }, 
     "PASC005_Omaha_1923": {
         "Artillery0": {
@@ -100,21 +84,6 @@
         "Tier": 5, 
         "ammo_num": 2
     }, 
-    "PASC006_Atlanta_1942": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.347, 
-                "bulletDiametr": 0.127, 
-                "bulletKrupp": 2598.0, 
-                "bulletMass": 25.0, 
-                "bulletName": "PAPA004_Shell_127mm_AP_SC_Mk_38", 
-                "bulletSpeed": 792.0
-            }
-        }, 
-        "Nation": "USA", 
-        "Tier": 7, 
-        "ammo_num": 1
-    }, 
     "PASC007_Cleveland_1945": {
         "Artillery0": {
             "AP": {
@@ -128,7 +97,7 @@
         }, 
         "Nation": "USA", 
         "Tier": 6, 
-        "ammo_num": 1
+        "ammo_num": 2
     }, 
     "PASC012_Pensacola_1944": {
         "Artillery0": {
@@ -178,52 +147,22 @@
         }, 
         "Nation": "USA", 
         "Tier": 8, 
-        "ammo_num": 1
-    }, 
-    "PASC016_Worcester_1948": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.3225, 
-                "bulletDiametr": 0.152, 
-                "bulletKrupp": 2692.0, 
-                "bulletMass": 59.0, 
-                "bulletName": "PAPA050_152mm_AP_130lbs_Mk35", 
-                "bulletSpeed": 762.0
-            }
-        }, 
-        "Nation": "USA", 
-        "Tier": 10, 
-        "ammo_num": 1
+        "ammo_num": 2
     }, 
     "PASC017_Baltimore_1944": {
         "Artillery0": {
             "AP": {
-                "bulletAirDrag": 0.356, 
+                "bulletAirDrag": 0.321, 
                 "bulletDiametr": 0.203, 
-                "bulletKrupp": 2919.0, 
-                "bulletMass": 152.0, 
-                "bulletName": "PAPA012_Shell_203mm_AP_AP_Mk_21", 
-                "bulletSpeed": 762.0
+                "bulletKrupp": 2846.0, 
+                "bulletMass": 118.0, 
+                "bulletName": "PAPA001_Shell_203mm_AP_AP_Mk_19", 
+                "bulletSpeed": 853.0
             }
         }, 
         "Nation": "USA", 
         "Tier": 9, 
-        "ammo_num": 1
-    }, 
-    "PASC019_Burlington_1944": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.356, 
-                "bulletDiametr": 0.203, 
-                "bulletKrupp": 2919.0, 
-                "bulletMass": 152.0, 
-                "bulletName": "PAPA012_Shell_203mm_AP_AP_Mk_21", 
-                "bulletSpeed": 762.0
-            }
-        }, 
-        "Nation": "USA", 
-        "Tier": 10, 
-        "ammo_num": 1
+        "ammo_num": 2
     }, 
     "PASC020_Des_Moines_1948": {
         "Artillery0": {
@@ -238,7 +177,7 @@
         }, 
         "Nation": "USA", 
         "Tier": 10, 
-        "ammo_num": 1
+        "ammo_num": 2
     }, 
     "PASC024_Phoenix_1917": {
         "Artillery0": {
@@ -273,66 +212,6 @@
         }, 
         "Nation": "USA", 
         "Tier": 4, 
-        "ammo_num": 3
-    }, 
-    "PASC044_Marblehead_1924": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.3164, 
-                "bulletDiametr": 0.152, 
-                "bulletKrupp": 1772.0, 
-                "bulletMass": 47.6, 
-                "bulletName": "PAPA061_SHELL_152MM_AP_SC_MK_27_MOD_5", 
-                "bulletSpeed": 914.0
-            }
-        }, 
-        "Nation": "USA", 
-        "Tier": 5, 
-        "ammo_num": 1
-    }, 
-    "PASC045_Marblehead_1924_Asus": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.3164, 
-                "bulletDiametr": 0.152, 
-                "bulletKrupp": 1772.0, 
-                "bulletMass": 47.6, 
-                "bulletName": "PAPA061_SHELL_152MM_AP_SC_MK_27_MOD_5", 
-                "bulletSpeed": 914.0
-            }
-        }, 
-        "Nation": "USA", 
-        "Tier": 5, 
-        "ammo_num": 1
-    }, 
-    "PASC507_Indianapolis_1945": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.321, 
-                "bulletDiametr": 0.203, 
-                "bulletKrupp": 2846.0, 
-                "bulletMass": 118.0, 
-                "bulletName": "PAPA064_SHELL_203MM_AP_INDIANAPOLIS", 
-                "bulletSpeed": 853.0
-            }
-        }, 
-        "Nation": "USA", 
-        "Tier": 7, 
-        "ammo_num": 1
-    }, 
-    "PASC707_Flint": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.347, 
-                "bulletDiametr": 0.127, 
-                "bulletKrupp": 2598.0, 
-                "bulletMass": 25.0, 
-                "bulletName": "PAPA068_127MM_AP_FLINT", 
-                "bulletSpeed": 792.0
-            }
-        }, 
-        "Nation": "USA", 
-        "Tier": 7, 
-        "ammo_num": 1
+        "ammo_num": 2
     }
 }

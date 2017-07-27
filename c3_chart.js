@@ -21,7 +21,7 @@ function update_chart(pen_dict) {
     axes: {
     'vertical armor': 'y',
     'deck armor': 'y',
-    fly_time:'y2'
+    'fly time':'y2'
   }
     },
     axis: {
