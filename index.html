@@ -87,7 +87,7 @@ function load_types(){
   console.log(selected_nation);
   glob_nation=selected_nation;
   $.ajax({
-    url: selected_nation+"/shiptypes.json",
+    url: "data/"+selected_nation+"/shiptypes.json",
     //url: "nations.json",
     type: "GET",
     dataType: "json",
@@ -111,7 +111,7 @@ function load_ships(){
   selected_shiptype = glob_nation+"_"+file_selector.options[file_selector.selectedIndex].value;
   console.log(selected_shiptype);
   $.ajax({
-    url: glob_nation+"/"+selected_shiptype+".json",
+    url: "data/"+glob_nation+"/"+selected_shiptype+".json",
     //url: "nations.json",
     type: "GET",
     dataType: "json",
@@ -159,7 +159,7 @@ function load_value(nation) {
     file_selector = $("#file_to_read")[0];
     selected_filename = file_selector.options[file_selector.selectedIndex].value;
     $.ajax({
-      url: selected_filename+".json",
+      url: "data/"+selected_filename+".json",
       //url: nation+"/"+selected_filename+".json",
 
       type: "GET",
