@@ -5,9 +5,9 @@ function update_chart(pen_dict,pltid) {
   xmax=Math.ceil(xmax0/5.)*5;
   xcount=xmax/5+1;
   xtick=[];
-  label_list=['vertical armor','deck armor','fly time'];
-  key_list=['armor_vert','armor_hori','fly_time']
-  ylabel_list=['Penetration of Vertical Armor Belt (mm)','Penetration of Horizontal Deck Armor(mm)','Shell Fly Time (s)'];
+  //label_list=['vertical armor','deck armor','fly time'];
+  key_list=['armor_vert','armor_hori','fly_time','v_impact']
+  ylabel_list=['Penetration of Vertical Armor Belt (mm)','Penetration of Horizontal Deck Armor(mm)','Shell Fly Time (s)','Impact Velocity (m/s)'];
   console.log(pen_dict[0][key_list[pltid]]);
   console.log(key_list[pltid]);
 

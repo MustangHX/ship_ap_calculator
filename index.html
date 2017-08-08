@@ -28,7 +28,7 @@
 
 <body>
 
-<h1>World of Warships AP penetration calculator Beta 0.61</h1>
+<h1>World of Warships AP penetration calculator Beta 0.62</h1>
 
 <p>This is a test version based on US NAVY penetration formula and game file data mining.</p>
 <table>
@@ -94,6 +94,7 @@
 <div id="chart0"></div>
 <div id="chart1"></div>
 <div id="chart2"></div>
+<div id="chart3"></div>
 <!-- test for chart.js
 <div id="mycanvas">
         <canvas id="canvas" width="1000" height="700" ></canvas>
@@ -254,6 +255,7 @@ function load_value(nation) {
       ammo_name = ammo_selector.options[ammo_selector.selectedIndex].value;
       selected_ammo=the_ship[id][ammo_name]
       console.log(selected_ammo.AP.bulletName);
+      console.log(ammo_name);
       var c_D,Dia,mass,krupp,v_0;
       c_D=selected_ammo.AP.bulletAirDrag;
       Dia=selected_ammo.AP.bulletDiametr;
@@ -269,7 +271,7 @@ function load_value(nation) {
 
       // draw ammo penetration curve
       pen_dict[id-1]= calculator(mass,Dia,c_D,v_0,krupp);
-      pen_dict[id-1].name=the_ship[id].name;
+      pen_dict[id-1].name=the_ship[id].name+"_"+ammo_name;
       console.log(the_ship[id].name);
       console.log(jQuery.isEmptyObject(pen_dict[0]));
       console.log(jQuery.isEmptyObject(pen_dict[1]));
@@ -277,6 +279,7 @@ function load_value(nation) {
       update_chart(pen_dict,0);
       update_chart(pen_dict,1);
       update_chart(pen_dict,2);
+      update_chart(pen_dict,3);
     }
     }
 
