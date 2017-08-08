@@ -3,20 +3,24 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.435, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.305, 
                 "bulletKrupp": 2408.0, 
                 "bulletMass": 394.6, 
                 "bulletName": "PAPA025_Shell_305mm_AP_AP", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 823.0
             }
         }, 
         "Artillery1": {
             "AP": {
                 "bulletAirDrag": 0.435, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.305, 
                 "bulletKrupp": 2408.0, 
                 "bulletMass": 394.6, 
                 "bulletName": "PAPA025_Shell_305mm_AP_AP", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 823.0
             }
         }, 
@@ -28,20 +32,24 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.337, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.305, 
                 "bulletKrupp": 2226.0, 
                 "bulletMass": 394.6, 
                 "bulletName": "PAPA055_305mm_AP_AP_870lbs", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 884.0
             }
         }, 
         "Artillery1": {
             "AP": {
                 "bulletAirDrag": 0.337, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.305, 
                 "bulletKrupp": 2523.0, 
                 "bulletMass": 394.6, 
                 "bulletName": "PAPA054_Shell_305mm_AP_AP_Mk15", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 884.0
             }
         }, 
@@ -53,20 +61,24 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.31, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.356, 
                 "bulletKrupp": 1603.0, 
                 "bulletMass": 635.0, 
                 "bulletName": "PAPA039_Shell_356mm_AP_AP_1400lbs", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 792.0
             }
         }, 
         "Artillery1": {
             "AP": {
                 "bulletAirDrag": 0.332, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.356, 
                 "bulletKrupp": 2604.0, 
                 "bulletMass": 680.4, 
                 "bulletName": "PAPA035_Shell_356mm_AP_AP_Mk_16", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 792.0
             }
         }, 
@@ -78,20 +90,24 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.336, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.406, 
                 "bulletKrupp": 2636.0, 
                 "bulletMass": 1016.0, 
                 "bulletName": "PAPA059_Shell_406mm_AP_AP_Mk_5", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 768.0
             }
         }, 
         "Artillery1": {
             "AP": {
                 "bulletAirDrag": 0.336, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.406, 
                 "bulletKrupp": 2636.0, 
                 "bulletMass": 1016.0, 
                 "bulletName": "PAPA059_Shell_406mm_AP_AP_Mk_5", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 768.0
             }
         }, 
@@ -103,20 +119,24 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.352, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.406, 
                 "bulletKrupp": 2598.0, 
                 "bulletMass": 1225.0, 
                 "bulletName": "PAPA011_Shell_406mm_AP_AP_Mk_8", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 701.0
             }
         }, 
         "Artillery1": {
             "AP": {
                 "bulletAirDrag": 0.352, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.406, 
                 "bulletKrupp": 2598.0, 
                 "bulletMass": 1225.0, 
                 "bulletName": "PAPA011_Shell_406mm_AP_AP_Mk_8", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 701.0
             }
         }, 
@@ -128,10 +148,12 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.337, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.305, 
                 "bulletKrupp": 2226.0, 
                 "bulletMass": 394.6, 
                 "bulletName": "PAPA055_305mm_AP_AP_870lbs", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 884.0
             }
         }, 
@@ -143,10 +165,12 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.352, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.406, 
                 "bulletKrupp": 2520.0, 
                 "bulletMass": 1225.0, 
                 "bulletName": "PAPA014_Shell_406mm_AP_AP_Mk_8", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 762.0
             }
         }, 
@@ -158,30 +182,36 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.352, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.406, 
                 "bulletKrupp": 2520.0, 
                 "bulletMass": 1225.0, 
                 "bulletName": "PAPA014_Shell_406mm_AP_AP_Mk_8", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 762.0
             }
         }, 
         "Artillery1": {
             "AP": {
                 "bulletAirDrag": 0.352, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.406, 
                 "bulletKrupp": 2520.0, 
                 "bulletMass": 1225.0, 
                 "bulletName": "PAPA014_Shell_406mm_AP_AP_Mk_8", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 762.0
             }
         }, 
         "Artillery2": {
             "AP": {
                 "bulletAirDrag": 0.352, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.406, 
                 "bulletKrupp": 2520.0, 
                 "bulletMass": 1225.0, 
                 "bulletName": "PAPA014_Shell_406mm_AP_AP_Mk_8", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 762.0
             }
         }, 
@@ -193,20 +223,24 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.331, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.356, 
                 "bulletKrupp": 2545.0, 
                 "bulletMass": 680.4, 
                 "bulletName": "PAPA006_Shell_356mm_AP_AP_Mk_16", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 823.0
             }
         }, 
         "Artillery1": {
             "AP": {
                 "bulletAirDrag": 0.331, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.356, 
                 "bulletKrupp": 2545.0, 
                 "bulletMass": 680.4, 
                 "bulletName": "PAPA006_Shell_356mm_AP_AP_Mk_16", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 823.0
             }
         }, 
@@ -218,10 +252,12 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.332, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.356, 
                 "bulletKrupp": 2604.0, 
                 "bulletMass": 680.4, 
                 "bulletName": "PAPA062_SHELL_356MM_AP_MK_16_ARIZONA", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 792.0
             }
         }, 
@@ -233,10 +269,12 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.352, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.406, 
                 "bulletKrupp": 2598.0, 
                 "bulletMass": 1225.0, 
                 "bulletName": "PAPA076_406MM_AP_ALABAMA", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 701.0
             }
         }, 
@@ -248,10 +286,12 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.352, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.406, 
                 "bulletKrupp": 2520.0, 
                 "bulletMass": 1225.0, 
                 "bulletName": "PAPA072_406MM_AP_MISSOURI", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 762.0
             }
         }, 
@@ -263,10 +303,12 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.332, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.356, 
                 "bulletKrupp": 2604.0, 
                 "bulletMass": 680.4, 
                 "bulletName": "PAPA066_SHELL_356MM_AP_MK_16_TEXAS", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 792.0
             }
         }, 
@@ -278,10 +320,12 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.352, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.406, 
                 "bulletKrupp": 2598.0, 
                 "bulletMass": 1225.0, 
                 "bulletName": "PAPA074_406MM_AP_ALABAMA", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 701.0
             }
         }, 

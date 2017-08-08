@@ -3,10 +3,12 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.51, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.152, 
                 "bulletKrupp": 1445.0, 
                 "bulletMass": 41.4, 
                 "bulletName": "PRPA001_Shell_152mm_AP_AP_91lbs", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 792.5
             }
         }, 
@@ -18,10 +20,12 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.51, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.152, 
                 "bulletKrupp": 1445.0, 
                 "bulletMass": 41.4, 
                 "bulletName": "PRPA001_Shell_152mm_AP_AP_91lbs", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 792.5
             }
         }, 
@@ -33,10 +37,12 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.315, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.152, 
                 "bulletKrupp": 2692.0, 
                 "bulletMass": 47.7, 
                 "bulletName": "PRPA006_Shell_152mm_AP_SC_Mk_27_Mod_2", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 914.0
             }
         }, 
@@ -48,10 +54,12 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.51, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.152, 
                 "bulletKrupp": 1445.0, 
                 "bulletMass": 41.4, 
                 "bulletName": "PRPA001_Shell_152mm_AP_AP_91lbs", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 792.5
             }
         }, 
@@ -64,20 +72,24 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.496, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.12, 
                 "bulletKrupp": 1410.0, 
                 "bulletMass": 20.47, 
                 "bulletName": "PRPA041_120_AP_P_1905", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 823.0
             }
         }, 
         "Artillery1": {
             "AP": {
                 "bulletAirDrag": 0.496, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.12, 
                 "bulletKrupp": 1410.0, 
                 "bulletMass": 20.47, 
                 "bulletName": "PRPA041_120_AP_P_1905", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 823.0
             }
         }, 
@@ -89,20 +101,24 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.4143, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.13, 
                 "bulletKrupp": 1450.0, 
                 "bulletMass": 36.86, 
                 "bulletName": "PRPA040_130_AP_P_1911", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 823.0
             }
         }, 
         "Artillery1": {
             "AP": {
                 "bulletAirDrag": 0.51, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.152, 
                 "bulletKrupp": 1445.0, 
                 "bulletMass": 41.4, 
                 "bulletName": "PRPA042_152_AP_C", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 792.5
             }
         }, 
@@ -114,10 +130,12 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.4143, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.13, 
                 "bulletKrupp": 1450.0, 
                 "bulletMass": 36.86, 
                 "bulletName": "PRPA040_130_AP_P_1911", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 823.0
             }
         }, 
@@ -129,20 +147,24 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.3096, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.18, 
                 "bulletKrupp": 2300.0, 
                 "bulletMass": 97.5, 
                 "bulletName": "PRPA037_180_AP_B_32_S", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 800.0
             }
         }, 
         "Artillery1": {
             "AP": {
                 "bulletAirDrag": 0.3096, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.18, 
                 "bulletKrupp": 2300.0, 
                 "bulletMass": 97.5, 
                 "bulletName": "PRPA037_180_AP_B_32_S", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 800.0
             }
         }, 
@@ -154,20 +176,24 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.321, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.152, 
                 "bulletKrupp": 2216.0, 
                 "bulletMass": 55.0, 
                 "bulletName": "PRPA035_152MM_B35", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 950.0
             }
         }, 
         "Artillery1": {
             "AP": {
                 "bulletAirDrag": 0.321, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.152, 
                 "bulletKrupp": 2216.0, 
                 "bulletMass": 55.0, 
                 "bulletName": "PRPA035_152MM_B35", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 950.0
             }
         }, 
@@ -179,20 +205,24 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.321, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.152, 
                 "bulletKrupp": 2216.0, 
                 "bulletMass": 55.0, 
                 "bulletName": "PRPA035_152MM_B35", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 950.0
             }
         }, 
         "Artillery1": {
             "AP": {
                 "bulletAirDrag": 0.321, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.152, 
                 "bulletKrupp": 2216.0, 
                 "bulletMass": 55.0, 
                 "bulletName": "PRPA035_152MM_B35", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 950.0
             }
         }, 
@@ -204,20 +234,24 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.321, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.152, 
                 "bulletKrupp": 2216.0, 
                 "bulletMass": 55.0, 
                 "bulletName": "PRPA035_152MM_B35", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 950.0
             }
         }, 
         "Artillery1": {
             "AP": {
                 "bulletAirDrag": 0.321, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.152, 
                 "bulletKrupp": 2216.0, 
                 "bulletMass": 55.0, 
                 "bulletName": "PRPA035_152MM_B35", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 950.0
             }
         }, 
@@ -229,20 +263,24 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.2778, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.18, 
                 "bulletKrupp": 2370.0, 
                 "bulletMass": 97.5, 
                 "bulletName": "PRPA038_180_AP_B_32_F", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 920.0
             }
         }, 
         "Artillery1": {
             "AP": {
                 "bulletAirDrag": 0.2778, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.18, 
                 "bulletKrupp": 2370.0, 
                 "bulletMass": 97.5, 
                 "bulletName": "PRPA038_180_AP_B_32_F", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 920.0
             }
         }, 
@@ -254,10 +292,12 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.2549, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.22, 
                 "bulletKrupp": 2590.0, 
                 "bulletMass": 176.0, 
                 "bulletName": "PRPA036_220_AP_B_23", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 985.0
             }
         }, 
@@ -269,10 +309,12 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.51, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.152, 
                 "bulletKrupp": 1445.0, 
                 "bulletMass": 41.4, 
                 "bulletName": "PRPA052_AP_OLEG", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 792.5
             }
         }, 
@@ -284,10 +326,12 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.291, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.13, 
                 "bulletKrupp": 1652.0, 
                 "bulletMass": 33.5, 
                 "bulletName": "PRPA045_130_AP_KK", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 861.0
             }
         }, 
@@ -299,10 +343,12 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.2778, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.18, 
                 "bulletKrupp": 2370.0, 
                 "bulletMass": 97.5, 
                 "bulletName": "PRPA047_180_AP_MOLOTOV", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 920.0
             }
         }, 
@@ -314,10 +360,12 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.321, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.152, 
                 "bulletKrupp": 2216.0, 
                 "bulletMass": 55.0, 
                 "bulletName": "PRPA021_152MM_B35_KUTUZOV", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 950.0
             }
         }, 
@@ -329,10 +377,12 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.3307, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.15, 
                 "bulletKrupp": 1862.0, 
                 "bulletMass": 45.5, 
                 "bulletName": "PRPA067_150MM_AP_MAKAROV", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 960.0
             }
         }, 
@@ -344,10 +394,12 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.3696, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.14, 
                 "bulletKrupp": 1794.0, 
                 "bulletMass": 38.0, 
                 "bulletName": "PJPA999_Useless_AP_Special", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 1500.0
             }
         }, 

@@ -42,6 +42,8 @@ function calculator(m, D, c_D, v_0, K) {
     var distance = [];
     var v_impact = [];
     var fly_time = [];
+    var impact_angle = [];
+    var impact_angle2 = [];
     for (i = 0; i < n_angle; i++) {
         alpha.push(i * step_angle);
         armor_abs.push(0.);
@@ -94,16 +96,19 @@ function calculator(m, D, c_D, v_0, K) {
         armor_hori[i] = pen_abs * Math.sin(IA_hori_armor)
         v_impact.push(v_imp)
         fly_time.push(t)
+        impact_angle.push(IA*180./Math.PI);
+        impact_angle2.push(90.0-IA*180./Math.PI);
+
         distance[i] = x
     }
     interp_tuple = [];
     interp_num = Math.floor((distance[n_angle - 1] - distance[0]) / 100) + 1;
     offset_num = Math.floor((distance[0]) / 100);
     for (i = 0; i < n_angle; i++) {
-        interp_tuple.push([distance[i], armor_abs[i], armor_vert[i], armor_hori[i], v_impact[i], fly_time[i]]);
+        interp_tuple.push([distance[i], armor_abs[i], armor_vert[i], armor_hori[i], v_impact[i], fly_time[i],impact_angle[i],impact_angle2[i]]);
     }
     for (i = n_angle; i < n_angle + interp_num; i++) {
-        interp_tuple.push([(i - n_angle + offset_num + 1) * 100.0, -1.0, -1.0, -1.0, -1.0, -1.0]);
+        interp_tuple.push([(i - n_angle + offset_num + 1) * 100.0, -1.0, -1.0, -1.0, -1.0, -1.0,-1.0,-1.0]);
     }
 
     interp_tuple.sort(function(a, b) {
@@ -118,6 +123,8 @@ function calculator(m, D, c_D, v_0, K) {
     var inter_armor_vert = [];
     var inter_armor_hori = [];
     var inter_distance = [];
+    var inter_impact_angle = [];
+    var inter_impact_angle2 = [];
 
     ind_before = 0;
     j = 0;
@@ -133,6 +140,8 @@ function calculator(m, D, c_D, v_0, K) {
                 hori_inter = interp_tuple[ind_before][3] + (interp_tuple[i][3] - interp_tuple[ind_before][3]) * (inter_distance[j] - x1) / (x2 - x1);
                 imp_inter = interp_tuple[ind_before][4] + (interp_tuple[i][4] - interp_tuple[ind_before][4]) * (inter_distance[j] - x1) / (x2 - x1);
                 time_inter = interp_tuple[ind_before][5] + (interp_tuple[i][5] - interp_tuple[ind_before][5]) * (inter_distance[j] - x1) / (x2 - x1);
+                IA_inter = interp_tuple[ind_before][6] + (interp_tuple[i][6] - interp_tuple[ind_before][6]) * (inter_distance[j] - x1) / (x2 - x1);
+                IA_inter2 = interp_tuple[ind_before][7] + (interp_tuple[i][7] - interp_tuple[ind_before][7]) * (inter_distance[j] - x1) / (x2 - x1);
 
                 function my_round(x) {
                     return Math.round(x * 100) / 100.0
@@ -142,6 +151,10 @@ function calculator(m, D, c_D, v_0, K) {
                 inter_armor_hori.push(my_round(hori_inter));
                 inter_v_impact.push(my_round(imp_inter));
                 inter_fly_time.push(my_round(time_inter / 3.1)); //https://www.reddit.com/r/WorldOfWarships/comments/5l071u/shell_travel_time_charts/
+                inter_impact_angle.push(my_round(IA_inter));
+                inter_impact_angle2.push(my_round(IA_inter2));
+
+
             }
             ind_before = i;
         } else if (interp_tuple[i][1] < 0.) {
@@ -165,6 +178,9 @@ function calculator(m, D, c_D, v_0, K) {
     data_dict.armor_hori = inter_armor_hori;
     data_dict.v_impact = inter_v_impact;
     data_dict.fly_time = inter_fly_time;
+    data_dict.impact_angle = inter_impact_angle;
+    data_dict.impact_angle2 = inter_impact_angle2;
+console.log(data_dict.impact_angle2)
     return data_dict;
 
 }

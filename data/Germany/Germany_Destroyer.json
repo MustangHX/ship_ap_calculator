@@ -3,10 +3,12 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.4125, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.105, 
                 "bulletKrupp": 1870.0, 
                 "bulletMass": 18.2, 
                 "bulletName": "PGPA007_105MM_AP_PSGR", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 715.0
             }
         }, 
@@ -18,10 +20,12 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.4125, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.105, 
                 "bulletKrupp": 1870.0, 
                 "bulletMass": 18.2, 
                 "bulletName": "PGPA007_105MM_AP_PSGR", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 715.0
             }
         }, 
@@ -33,10 +37,12 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.4125, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.105, 
                 "bulletKrupp": 1870.0, 
                 "bulletMass": 18.2, 
                 "bulletName": "PGPA007_105MM_AP_PSGR", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 715.0
             }
         }, 
@@ -48,10 +54,12 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.3392, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.105, 
                 "bulletKrupp": 2040.0, 
                 "bulletMass": 15.1, 
                 "bulletName": "PGPA069_105MM_AP_SK_C32", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 780.0
             }
         }, 
@@ -63,10 +71,12 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.3447, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.128, 
                 "bulletKrupp": 1640.0, 
                 "bulletMass": 28.0, 
                 "bulletName": "PGPA065_128MM_AP_SK_C34", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 830.0
             }
         }, 
@@ -78,10 +88,12 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.3447, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.128, 
                 "bulletKrupp": 1640.0, 
                 "bulletMass": 28.0, 
                 "bulletName": "PGPA065_128MM_AP_SK_C34", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 830.0
             }
         }, 
@@ -93,20 +105,24 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.3447, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.128, 
                 "bulletKrupp": 1640.0, 
                 "bulletMass": 28.0, 
                 "bulletName": "PGPA065_128MM_AP_SK_C34", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 830.0
             }
         }, 
         "Artillery1": {
             "AP": {
                 "bulletAirDrag": 0.3059, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.15, 
                 "bulletKrupp": 1933.0, 
                 "bulletMass": 45.3, 
                 "bulletName": "PGPA067_150MM_AP_PSGR_L4_5", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 835.0
             }
         }, 
@@ -118,10 +134,12 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.2752, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.128, 
                 "bulletKrupp": 1647.0, 
                 "bulletMass": 28.0, 
                 "bulletName": "PGPA071_128MM_AP_C41", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 830.0
             }
         }, 
@@ -133,10 +151,12 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.2752, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.128, 
                 "bulletKrupp": 1647.0, 
                 "bulletMass": 28.0, 
                 "bulletName": "PGPA071_128MM_AP_C41", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 830.0
             }
         }, 

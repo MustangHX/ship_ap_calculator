@@ -3,10 +3,12 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.3415, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.381, 
                 "bulletKrupp": 2330.0, 
                 "bulletMass": 879.0, 
                 "bulletName": "PBPA002_381mm_AP_APC_MarkXXIIb", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 732.0
             }
         }, 
@@ -18,20 +20,24 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.349, 
+                "bulletAlwaysRicochetAt": 67.5, 
                 "bulletDiametr": 0.406, 
                 "bulletKrupp": 2266.0, 
                 "bulletMass": 929.0, 
                 "bulletName": "PBPA039_406MM_MI_IB_AP", 
+                "bulletRicochetAt": 60.0, 
                 "bulletSpeed": 788.0
             }
         }, 
         "Artillery1": {
             "AP": {
                 "bulletAirDrag": 0.349, 
+                "bulletAlwaysRicochetAt": 67.5, 
                 "bulletDiametr": 0.406, 
                 "bulletKrupp": 2266.0, 
                 "bulletMass": 929.0, 
                 "bulletName": "PBPA039_406MM_MI_IB_AP", 
+                "bulletRicochetAt": 60.0, 
                 "bulletSpeed": 788.0
             }
         }, 
@@ -43,20 +49,24 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.3379, 
+                "bulletAlwaysRicochetAt": 67.5, 
                 "bulletDiametr": 0.381, 
                 "bulletKrupp": 2250.0, 
                 "bulletMass": 879.0, 
                 "bulletName": "PBPA054_381MM_AP_MKII", 
+                "bulletRicochetAt": 60.0, 
                 "bulletSpeed": 836.0
             }
         }, 
         "Artillery1": {
             "AP": {
                 "bulletAirDrag": 0.3379, 
+                "bulletAlwaysRicochetAt": 67.5, 
                 "bulletDiametr": 0.381, 
                 "bulletKrupp": 2250.0, 
                 "bulletMass": 879.0, 
                 "bulletName": "PBPA054_381MM_AP_MKII", 
+                "bulletRicochetAt": 60.0, 
                 "bulletSpeed": 836.0
             }
         }, 
@@ -68,10 +78,12 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.2353, 
+                "bulletAlwaysRicochetAt": 67.5, 
                 "bulletDiametr": 0.406, 
                 "bulletKrupp": 2527.0, 
                 "bulletMass": 1080.0, 
                 "bulletName": "PBPA044_406MM_MIV_AP", 
+                "bulletRicochetAt": 60.0, 
                 "bulletSpeed": 747.0
             }
         }, 
@@ -83,10 +95,12 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.2897, 
+                "bulletAlwaysRicochetAt": 67.5, 
                 "bulletDiametr": 0.457, 
                 "bulletKrupp": 2485.0, 
                 "bulletMass": 1506.0, 
                 "bulletName": "PBPA046_457MM_MII_AP", 
+                "bulletRicochetAt": 60.0, 
                 "bulletSpeed": 762.0
             }
         }, 
@@ -98,10 +112,12 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.3379, 
+                "bulletAlwaysRicochetAt": 67.5, 
                 "bulletDiametr": 0.381, 
                 "bulletKrupp": 2190.0, 
                 "bulletMass": 879.0, 
                 "bulletName": "PBPA024_381MM_AP_HOOD", 
+                "bulletRicochetAt": 60.0, 
                 "bulletSpeed": 731.5
             }
         }, 

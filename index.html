@@ -28,7 +28,7 @@
 
 <body>
 
-<h1>World of Warships AP penetration calculator Beta 0.62</h1>
+<h1>World of Warships AP penetration calculator Beta 0.63</h1>
 
 <p>This is a test version based on US NAVY penetration formula and game file data mining.</p>
 <table>
@@ -59,7 +59,9 @@
 <div  id="ammo_selected_diametr1"></div>
 <div  id="ammo_selected_mass1"></div>
 <div id="ammo_selected_krupp1"></div>
-<div id="ammo_selected_speed1"></div></p>
+<div id="ammo_selected_speed1"></div>
+<div id="ammo_selected_rico_start1"></div>
+<div id="ammo_selected_rico_always1"></div></p>
 </td>
 <td>
 <h2>Ship B:</h2>
@@ -87,7 +89,9 @@
 <div  id="ammo_selected_diametr2"></div>
 <div  id="ammo_selected_mass2"></div>
 <div id="ammo_selected_krupp2"></div>
-<div id="ammo_selected_speed2"></div></p>
+<div id="ammo_selected_speed2"></div>
+<div id="ammo_selected_rico_start2"></div>
+<div id="ammo_selected_rico_always2"></div></p>
 </td>
 </tr>
 </table>
@@ -268,6 +272,8 @@ function load_value(nation) {
       $("#ammo_selected_mass"+id)[0].innerHTML = "Mass: "+selected_ammo.AP.bulletMass+" kg";
       $("#ammo_selected_krupp"+id)[0].innerHTML = "Krupp: "+selected_ammo.AP.bulletKrupp;
       $("#ammo_selected_speed"+id)[0].innerHTML = "Muzzle Velocity: "+selected_ammo.AP.bulletSpeed+" m/s";
+      $("#ammo_selected_rico_start"+id)[0].innerHTML = "Starts Ricochet at: "+selected_ammo.AP.bulletRicochetAt+" degree";
+      $("#ammo_selected_rico_always"+id)[0].innerHTML = "Always Ricochet at: "+selected_ammo.AP.bulletAlwaysRicochetAt+" degree";
 
       // draw ammo penetration curve
       pen_dict[id-1]= calculator(mass,Dia,c_D,v_0,krupp);
