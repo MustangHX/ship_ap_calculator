@@ -28,9 +28,12 @@
 
 <body>
 
-<h1>World of Warships AP penetration calculator Beta 0.60</h1>
+<h1>World of Warships AP penetration calculator Beta 0.61</h1>
 
 <p>This is a test version based on US NAVY penetration formula and game file data mining.</p>
+<table>
+  <tr>
+    <td>
 <h2>Ship A:</h2>
 <p>nation:
 <select id="nation1" onchange="load_types(1);"></select>
@@ -57,7 +60,8 @@
 <div  id="ammo_selected_mass1"></div>
 <div id="ammo_selected_krupp1"></div>
 <div id="ammo_selected_speed1"></div></p>
-
+</td>
+<td>
 <h2>Ship B:</h2>
 <p>nation:
 <select id="nation2" onchange="load_types(2);"></select>
@@ -84,7 +88,9 @@
 <div  id="ammo_selected_mass2"></div>
 <div id="ammo_selected_krupp2"></div>
 <div id="ammo_selected_speed2"></div></p>
-
+</td>
+</tr>
+</table>
 <div id="chart0"></div>
 <div id="chart1"></div>
 <div id="chart2"></div>
