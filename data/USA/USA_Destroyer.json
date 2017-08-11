@@ -162,9 +162,21 @@
                 "bulletSpeed": 884.0
             }
         }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.33, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.102, 
+                "bulletKrupp": 1451.0, 
+                "bulletMass": 14.97, 
+                "bulletName": "PAPA033_Shell_102mm_AP_SC_Mk_16", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 884.0
+            }
+        }, 
         "Nation": "USA", 
         "Tier": 4, 
-        "ammo_num": 1
+        "ammo_num": 2
     }, 
     "PASD021_Fletcher_1943": {
         "Artillery0": {

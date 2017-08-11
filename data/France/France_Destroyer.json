@@ -1,1 +1,19 @@
-{}
+{
+    "PFSD605_Cyclone_event": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3225, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.13, 
+                "bulletKrupp": 1803.0, 
+                "bulletMass": 32.05, 
+                "bulletName": "PFPA028_130MM_40_1919_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 725.0
+            }
+        }, 
+        "Nation": "France", 
+        "Tier": 5, 
+        "ammo_num": 1
+    }
+}

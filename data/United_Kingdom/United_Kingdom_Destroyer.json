@@ -32,5 +32,22 @@
         "Nation": "United_Kingdom", 
         "Tier": 6, 
         "ammo_num": 1
+    }, 
+    "PBSD605_Anthony_Event": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3927, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.12, 
+                "bulletKrupp": 2396.0, 
+                "bulletMass": 22.68, 
+                "bulletName": "PBPA048_120MM_QFMIX_AP_G", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 808.0
+            }
+        }, 
+        "Nation": "United_Kingdom", 
+        "Tier": 5, 
+        "ammo_num": 1
     }
 }

@@ -216,9 +216,33 @@
                 "bulletSpeed": 925.0
             }
         }, 
+        "Artillery2": {
+            "AP": {
+                "bulletAirDrag": 0.2974, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2409.0, 
+                "bulletMass": 122.0, 
+                "bulletName": "PGPA023_203MM_AP_PZ_SPR_GGR_L4_4", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 925.0
+            }
+        }, 
+        "Artillery3": {
+            "AP": {
+                "bulletAirDrag": 0.2974, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2409.0, 
+                "bulletMass": 122.0, 
+                "bulletName": "PGPA023_203MM_AP_PZ_SPR_GGR_L4_4", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 925.0
+            }
+        }, 
         "Nation": "Germany", 
         "Tier": 9, 
-        "ammo_num": 2
+        "ammo_num": 4
     }, 
     "PGSC110_Hindenburg": {
         "Artillery0": {

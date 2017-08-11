@@ -76,6 +76,16 @@ function update_chart(pen_dict,pltid) {
 
             }
       },
+    },
+    grid: {
+        y: {
+            lines: [
+                {value: pen_dict[0].rico0, text: pen_dict[0].name+' Starts Ricochet',axis: 'y2',position:'start'},
+                {value: pen_dict[0].rico1, text: pen_dict[0].name+' Always Ricochet', axis: 'y2',position:'start'},
+                {value: pen_dict[1].rico0, text: pen_dict[1].name+' Starts Ricochet',axis: 'y2'},
+                {value: pen_dict[1].rico1, text: pen_dict[1].name+' Always Ricochet', axis: 'y2'}
+            ]
+        }
     }
   });
 }

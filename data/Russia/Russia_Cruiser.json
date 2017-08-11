@@ -100,14 +100,14 @@
     "PRSC103_Bogatyr": {
         "Artillery0": {
             "AP": {
-                "bulletAirDrag": 0.4143, 
+                "bulletAirDrag": 0.51, 
                 "bulletAlwaysRicochetAt": 60.0, 
-                "bulletDiametr": 0.13, 
-                "bulletKrupp": 1450.0, 
-                "bulletMass": 36.86, 
-                "bulletName": "PRPA040_130_AP_P_1911", 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 1445.0, 
+                "bulletMass": 41.4, 
+                "bulletName": "PRPA042_152_AP_C", 
                 "bulletRicochetAt": 45.0, 
-                "bulletSpeed": 823.0
+                "bulletSpeed": 792.5
             }
         }, 
         "Artillery1": {
@@ -122,12 +122,36 @@
                 "bulletSpeed": 792.5
             }
         }, 
+        "Artillery2": {
+            "AP": {
+                "bulletAirDrag": 0.4143, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.13, 
+                "bulletKrupp": 1450.0, 
+                "bulletMass": 36.86, 
+                "bulletName": "PRPA040_130_AP_P_1911", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 823.0
+            }
+        }, 
         "Nation": "Russia", 
         "Tier": 3, 
-        "ammo_num": 1
+        "ammo_num": 3
     }, 
     "PRSC104_Svetlana": {
         "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.291, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.13, 
+                "bulletKrupp": 1652.0, 
+                "bulletMass": 33.5, 
+                "bulletName": "PRPA048_130_AP_P_1917", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 861.0
+            }
+        }, 
+        "Artillery1": {
             "AP": {
                 "bulletAirDrag": 0.4143, 
                 "bulletAlwaysRicochetAt": 60.0, 
@@ -141,7 +165,7 @@
         }, 
         "Nation": "Russia", 
         "Tier": 4, 
-        "ammo_num": 1
+        "ammo_num": 2
     }, 
     "PRSC105_Kirov": {
         "Artillery0": {

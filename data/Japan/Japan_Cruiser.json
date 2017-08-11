@@ -19,6 +19,30 @@
     "PJSC005_Furutaka_1926": {
         "Artillery0": {
             "AP": {
+                "bulletAirDrag": 0.337, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2468.0, 
+                "bulletMass": 125.85, 
+                "bulletName": "PJPA008_Shell_203mm_AP_AP_Type_91", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 840.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.337, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2468.0, 
+                "bulletMass": 125.85, 
+                "bulletName": "PJPA008_Shell_203mm_AP_AP_Type_91", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 840.0
+            }
+        }, 
+        "Artillery2": {
+            "AP": {
                 "bulletAirDrag": 0.317, 
                 "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.2, 
@@ -29,7 +53,7 @@
                 "bulletSpeed": 870.0
             }
         }, 
-        "Artillery1": {
+        "Artillery3": {
             "AP": {
                 "bulletAirDrag": 0.317, 
                 "bulletAlwaysRicochetAt": 60.0, 
@@ -43,7 +67,7 @@
         }, 
         "Nation": "Japan", 
         "Tier": 5, 
-        "ammo_num": 2
+        "ammo_num": 4
     }, 
     "PJSC007_Aoba_1943": {
         "Artillery0": {
@@ -82,6 +106,18 @@
     "PJSC009_Mogami_1935": {
         "Artillery0": {
             "AP": {
+                "bulletAirDrag": 0.335, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.155, 
+                "bulletKrupp": 2429.0, 
+                "bulletMass": 55.87, 
+                "bulletName": "PJPA025_Shell_155mm_AP_APC_Type_91", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 925.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
                 "bulletAirDrag": 0.337, 
                 "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.203, 
@@ -94,7 +130,7 @@
         }, 
         "Nation": "Japan", 
         "Tier": 8, 
-        "ammo_num": 1
+        "ammo_num": 2
     }, 
     "PJSC012_Ibuki_1944": {
         "Artillery0": {

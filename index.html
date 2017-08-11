@@ -28,7 +28,9 @@
 
 <body>
 
-<h1>World of Warships AP penetration calculator Beta 0.63</h1>
+<h1>World of Warships AP penetration calculator Beta 0.64</h1>
+<h2>Client Version: 0.6.9</h1>
+
 
 <p>This is a test version based on US NAVY penetration formula and game file data mining.</p>
 <table>
@@ -194,7 +196,7 @@ function load_ammo(id){
   ship_name = ship_selector.options[ship_selector.selectedIndex].value;
   selected_ship = ship_info[id][ship_name];
   the_ship[id]=selected_ship;
-  the_ship[id].name=ship_name.toString().substring(8);
+  the_ship[id].name=ship_name.toString().substring(8).replace(/_19[0-9][0-9]/i,'');
   console.log(selected_ship.ammo_num);
   artylist=[]
   for(i=0;i<selected_ship.ammo_num;i++){
@@ -249,7 +251,8 @@ function load_value(nation) {
       });
       $("#shiplist"+id).replaceWith("<select id=\"shiplist"+id+"\" onchange=\"load_ammo("+id+");\"></select>");  // replace the old select with a new empty select
       for(var i in ship_tuple) {
-        $("#shiplist"+id)[0].innerHTML += "<option value=\"" + ship_tuple[i][1] + "\">" + "Tier "+ship_tuple[i][0]+" "+(ship_tuple[i][1].toString()).substring(8) + "</options>";  // append option
+        outp_name=(ship_tuple[i][1].toString()).substring(8).replace(/_19[0-9][0-9]/i,'')
+        $("#shiplist"+id)[0].innerHTML += "<option value=\"" + ship_tuple[i][1] + "\">" + "Tier "+ship_tuple[i][0]+" "+outp_name+ "</options>";  // append option
       }
     }
 
@@ -278,6 +281,9 @@ function load_value(nation) {
       // draw ammo penetration curve
       pen_dict[id-1]= calculator(mass,Dia,c_D,v_0,krupp);
       pen_dict[id-1].name=the_ship[id].name+"_"+ammo_name;
+      pen_dict[id-1].rico0=selected_ammo.AP.bulletRicochetAt;
+      pen_dict[id-1].rico1=selected_ammo.AP.bulletAlwaysRicochetAt;
+
       console.log(the_ship[id].name);
       console.log(jQuery.isEmptyObject(pen_dict[0]));
       console.log(jQuery.isEmptyObject(pen_dict[1]));

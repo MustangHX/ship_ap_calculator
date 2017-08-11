@@ -171,12 +171,12 @@
             "AP": {
                 "bulletAirDrag": 0.2994, 
                 "bulletAlwaysRicochetAt": 60.0, 
-                "bulletDiametr": 0.406, 
-                "bulletKrupp": 2527.0, 
-                "bulletMass": 1030.0, 
-                "bulletName": "PGPA038_406MM_AP_PZ_GR_L4_4", 
+                "bulletDiametr": 0.42, 
+                "bulletKrupp": 2415.0, 
+                "bulletMass": 1220.0, 
+                "bulletName": "PGPA052_420MM_AP_APC_L_4_6", 
                 "bulletRicochetAt": 45.0, 
-                "bulletSpeed": 810.0
+                "bulletSpeed": 800.0
             }
         }, 
         "Artillery1": {
@@ -191,12 +191,36 @@
                 "bulletSpeed": 810.0
             }
         }, 
+        "Artillery2": {
+            "AP": {
+                "bulletAirDrag": 0.2994, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.406, 
+                "bulletKrupp": 2527.0, 
+                "bulletMass": 1030.0, 
+                "bulletName": "PGPA038_406MM_AP_PZ_GR_L4_4", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 810.0
+            }
+        }, 
         "Nation": "Germany", 
         "Tier": 9, 
-        "ammo_num": 2
+        "ammo_num": 3
     }, 
     "PGSB110_Grossdeutschland": {
         "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2994, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.406, 
+                "bulletKrupp": 2527.0, 
+                "bulletMass": 1030.0, 
+                "bulletName": "PGPA038_406MM_AP_PZ_GR_L4_4", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 810.0
+            }
+        }, 
+        "Artillery1": {
             "AP": {
                 "bulletAirDrag": 0.2994, 
                 "bulletAlwaysRicochetAt": 60.0, 
@@ -210,7 +234,7 @@
         }, 
         "Nation": "Germany", 
         "Tier": 10, 
-        "ammo_num": 1
+        "ammo_num": 2
     }, 
     "PGSB503_Koenig_Albert": {
         "Artillery0": {

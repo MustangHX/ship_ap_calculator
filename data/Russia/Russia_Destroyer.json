@@ -259,6 +259,18 @@
     "PRSD208_Pr_30": {
         "Artillery0": {
             "AP": {
+                "bulletAirDrag": 0.2857, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.13, 
+                "bulletKrupp": 1700.0, 
+                "bulletMass": 33.5, 
+                "bulletName": "PRPA019_130MM_AP_NEPREM", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 870.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
                 "bulletAirDrag": 0.2549, 
                 "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.13, 
@@ -271,7 +283,7 @@
         }, 
         "Nation": "Russia", 
         "Tier": 8, 
-        "ammo_num": 1
+        "ammo_num": 2
     }, 
     "PRSD210_Grozovoy_pr_40N": {
         "Artillery0": {
