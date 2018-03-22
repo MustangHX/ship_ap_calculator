@@ -504,5 +504,22 @@
         "Nation": "USA", 
         "Tier": 7, 
         "ammo_num": 1
+    }, 
+    "PASC710_Salem": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.356, 
+                "bulletAlwaysRicochetAt": 67.5, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2919.0, 
+                "bulletMass": 152.0, 
+                "bulletName": "PAPA012_Shell_203mm_AP_AP_Mk_21", 
+                "bulletRicochetAt": 60.0, 
+                "bulletSpeed": 762.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 10, 
+        "ammo_num": 1
     }
 }

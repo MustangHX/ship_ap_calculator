@@ -258,6 +258,57 @@
         "Tier": 6, 
         "ammo_num": 1
     }, 
+    "PJSB507_Ashitaka": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.41, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.41, 
+                "bulletKrupp": 2200.0, 
+                "bulletMass": 1000.0, 
+                "bulletName": "PJPA071_410MM_AP_ASHITAKA", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 790.0
+            }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 7, 
+        "ammo_num": 1
+    }, 
+    "PJSB508_Kii": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.355, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.41, 
+                "bulletKrupp": 2711.0, 
+                "bulletMass": 1020.0, 
+                "bulletName": "PJPA080_Shell_410mm_AP_KII", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 806.0
+            }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 8, 
+        "ammo_num": 1
+    }, 
+    "PJSB509_Musashi": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.292, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.46, 
+                "bulletKrupp": 2574.0, 
+                "bulletMass": 1460.0, 
+                "bulletName": "PJPA017_Shell_460mm_AP_APC_Type_91", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 780.0
+            }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 9, 
+        "ammo_num": 1
+    }, 
     "PJSB705_Kongou": {
         "Artillery0": {
             "AP": {
@@ -324,6 +375,23 @@
         }, 
         "Nation": "Japan", 
         "Tier": 5, 
+        "ammo_num": 1
+    }, 
+    "PJSB918_Yamato_1944": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.292, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.46, 
+                "bulletKrupp": 2574.0, 
+                "bulletMass": 1460.0, 
+                "bulletName": "PJPA017_Shell_460mm_AP_APC_Type_91", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 780.0
+            }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 10, 
         "ammo_num": 1
     }
 }

@@ -95,24 +95,24 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.3379, 
-                "bulletAlwaysRicochetAt": 70.0, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.381, 
                 "bulletKrupp": 2190.0, 
                 "bulletMass": 879.0, 
                 "bulletName": "PBPA053_381MM_AP_MKXXIIB_C", 
-                "bulletRicochetAt": 55.0, 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 731.5
             }
         }, 
         "Artillery1": {
             "AP": {
                 "bulletAirDrag": 0.3379, 
-                "bulletAlwaysRicochetAt": 70.0, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.381, 
                 "bulletKrupp": 2190.0, 
                 "bulletMass": 879.0, 
                 "bulletName": "PBPA053_381MM_AP_MKXXIIB_C", 
-                "bulletRicochetAt": 55.0, 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 731.5
             }
         }, 
@@ -182,12 +182,12 @@
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.2353, 
-                "bulletAlwaysRicochetAt": 67.5, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.419, 
                 "bulletKrupp": 2548.0, 
                 "bulletMass": 1157.0, 
                 "bulletName": "PBPA051_419MM_MII_AP", 
-                "bulletRicochetAt": 60.0, 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 747.0
             }
         }, 
@@ -223,12 +223,12 @@
         "Artillery1": {
             "AP": {
                 "bulletAirDrag": 0.2353, 
-                "bulletAlwaysRicochetAt": 67.5, 
+                "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDiametr": 0.419, 
                 "bulletKrupp": 2548.0, 
                 "bulletMass": 1157.0, 
                 "bulletName": "PBPA051_419MM_MII_AP", 
-                "bulletRicochetAt": 60.0, 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 747.0
             }
         }, 
@@ -269,5 +269,51 @@
         "Nation": "United_Kingdom", 
         "Tier": 7, 
         "ammo_num": 1
+    }, 
+    "PBSB527_Duke_of_York": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3142, 
+                "bulletAlwaysRicochetAt": 67.5, 
+                "bulletDiametr": 0.356, 
+                "bulletKrupp": 2295.0, 
+                "bulletMass": 721.0, 
+                "bulletName": "PBPA059_356MM_AP_DUKE", 
+                "bulletRicochetAt": 60.0, 
+                "bulletSpeed": 757.0
+            }
+        }, 
+        "Nation": "United_Kingdom", 
+        "Tier": 7, 
+        "ammo_num": 1
+    }, 
+    "PBSB910_Conqueror": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2897, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.457, 
+                "bulletKrupp": 2485.0, 
+                "bulletMass": 1506.0, 
+                "bulletName": "PBPA046_457MM_MII_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 762.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.2353, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.419, 
+                "bulletKrupp": 2548.0, 
+                "bulletMass": 1157.0, 
+                "bulletName": "PBPA051_419MM_MII_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 747.0
+            }
+        }, 
+        "Nation": "United_Kingdom", 
+        "Tier": 10, 
+        "ammo_num": 2
     }
 }

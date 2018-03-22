@@ -397,6 +397,40 @@
         "Tier": 8, 
         "ammo_num": 1
     }, 
+    "PRSC509_Kronshtadt": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2298, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.305, 
+                "bulletKrupp": 2400.0, 
+                "bulletMass": 471.0, 
+                "bulletName": "PRPA086_305MM_AP_KRON", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 900.0
+            }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 9, 
+        "ammo_num": 1
+    }, 
+    "PRSC513_Varyag": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.51, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 1445.0, 
+                "bulletMass": 41.4, 
+                "bulletName": "PRPA084_152_AP_VARYAG", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 792.5
+            }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 3, 
+        "ammo_num": 1
+    }, 
     "PRSC606_Admiral_Makarov": {
         "Artillery0": {
             "AP": {
@@ -412,6 +446,23 @@
         }, 
         "Nation": "Russia", 
         "Tier": 6, 
+        "ammo_num": 1
+    }, 
+    "PRSC910_Pr_66_Moskva": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2549, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.22, 
+                "bulletKrupp": 2590.0, 
+                "bulletMass": 176.0, 
+                "bulletName": "PRPA036_220_AP_B_23", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 985.0
+            }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 10, 
         "ammo_num": 1
     }, 
     "PRSC999_Seal": {

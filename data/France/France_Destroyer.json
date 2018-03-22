@@ -1,4 +1,21 @@
 {
+    "PFSD506_Aigle": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2998, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.139, 
+                "bulletKrupp": 2124.0, 
+                "bulletMass": 40.4, 
+                "bulletName": "PFPA030_138MM_AP_AIGLE", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 700.0
+            }
+        }, 
+        "Nation": "France", 
+        "Tier": 6, 
+        "ammo_num": 1
+    }, 
     "PFSD605_Cyclone_event": {
         "Artillery0": {
             "AP": {
