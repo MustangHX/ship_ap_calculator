@@ -1,0 +1,36 @@
+{
+    "PISC506_DucadAosta": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3256, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 2142.0, 
+                "bulletMass": 50.0, 
+                "bulletName": "PIPA004_152MM_53_AP_EARLY_DUCA", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 1000.0
+            }
+        }, 
+        "Nation": "Italy", 
+        "Tier": 6, 
+        "ammo_num": 1
+    }, 
+    "PISC507_Duca_degli_Abruzzi": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3325, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 2140.0, 
+                "bulletMass": 50.0, 
+                "bulletName": "PIPA009_152MM_55_AP_ABRUZZI", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 910.0
+            }
+        }, 
+        "Nation": "Italy", 
+        "Tier": 7, 
+        "ammo_num": 1
+    }
+}

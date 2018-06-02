@@ -1,0 +1,87 @@
+{
+    "PBSD503_Campbeltown_1941": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.33, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.102, 
+                "bulletKrupp": 1451.0, 
+                "bulletMass": 14.97, 
+                "bulletName": "PBPA005_102MM_AP_CAMPBELTOWN", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 884.0
+            }
+        }, 
+        "Nation": "United_Kingdom", 
+        "Tier": 3, 
+        "ammo_num": 1
+    }, 
+    "PBSD506_Gallant": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3927, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.12, 
+                "bulletKrupp": 2396.0, 
+                "bulletMass": 22.68, 
+                "bulletName": "PBPA048_120MM_QFMIX_AP_G", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 808.0
+            }
+        }, 
+        "Nation": "United_Kingdom", 
+        "Tier": 6, 
+        "ammo_num": 1
+    }, 
+    "PBSD507_Cossack": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3927, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.12, 
+                "bulletKrupp": 2438.0, 
+                "bulletMass": 22.68, 
+                "bulletName": "PBPA061_120_AP_COSSACK", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 808.0
+            }
+        }, 
+        "Nation": "United_Kingdom", 
+        "Tier": 7, 
+        "ammo_num": 1
+    }, 
+    "PBSD517_Cossack": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3927, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.12, 
+                "bulletKrupp": 2438.0, 
+                "bulletMass": 22.68, 
+                "bulletName": "PBPA061_120_AP_COSSACK", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 808.0
+            }
+        }, 
+        "Nation": "United_Kingdom", 
+        "Tier": 7, 
+        "ammo_num": 1
+    }, 
+    "PBSD605_Anthony_Event": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3927, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.12, 
+                "bulletKrupp": 2396.0, 
+                "bulletMass": 22.68, 
+                "bulletName": "PBPA048_120MM_QFMIX_AP_G", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 808.0
+            }
+        }, 
+        "Nation": "United_Kingdom", 
+        "Tier": 5, 
+        "ammo_num": 1
+    }
+}
