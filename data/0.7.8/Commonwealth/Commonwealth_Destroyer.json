@@ -1,0 +1,20 @@
+{
+    "PUSD503_Vampire": {}, 
+    "PUSD507_Haida": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3927, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.12, 
+                "bulletKrupp": 2438.0, 
+                "bulletMass": 22.68, 
+                "bulletName": "PUPA008_120_AP_HAIDA", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 808.0
+            }
+        }, 
+        "Nation": "Commonwealth", 
+        "Tier": 7, 
+        "ammo_num": 1
+    }
+}
