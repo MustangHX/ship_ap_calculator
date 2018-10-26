@@ -1,0 +1,254 @@
+{
+    "PFSB103_Turenne": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.52, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.305, 
+                "bulletKrupp": 2300.0, 
+                "bulletMass": 428.35, 
+                "bulletName": "PFPA032_305MM_45_1910_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 798.0
+            }
+        }, 
+        "Nation": "France", 
+        "Tier": 3, 
+        "ammo_num": 1
+    }, 
+    "PFSB104_Courbet": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.52, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.305, 
+                "bulletKrupp": 2300.0, 
+                "bulletMass": 428.35, 
+                "bulletName": "PFPA032_305MM_45_1910_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 798.0
+            }
+        }, 
+        "Nation": "France", 
+        "Tier": 4, 
+        "ammo_num": 1
+    }, 
+    "PFSB105_Bretagne": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.4009, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.34, 
+                "bulletKrupp": 2350.0, 
+                "bulletMass": 585.0, 
+                "bulletName": "PFPA034_340MM_45_1912_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 780.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.4009, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.34, 
+                "bulletKrupp": 2350.0, 
+                "bulletMass": 585.0, 
+                "bulletName": "PFPA034_340MM_45_1912_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 780.0
+            }
+        }, 
+        "Nation": "France", 
+        "Tier": 5, 
+        "ammo_num": 2
+    }, 
+    "PFSB106_Normandie": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.317, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.34, 
+                "bulletKrupp": 2408.0, 
+                "bulletMass": 585.0, 
+                "bulletName": "PFPA042_340MM_45_1930_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 780.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.317, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.34, 
+                "bulletKrupp": 2408.0, 
+                "bulletMass": 585.0, 
+                "bulletName": "PFPA042_340MM_45_1930_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 780.0
+            }
+        }, 
+        "Nation": "France", 
+        "Tier": 6, 
+        "ammo_num": 2
+    }, 
+    "PFSB107_Lyon": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.317, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.34, 
+                "bulletKrupp": 2408.0, 
+                "bulletMass": 585.0, 
+                "bulletName": "PFPA042_340MM_45_1930_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 780.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.317, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.34, 
+                "bulletKrupp": 2408.0, 
+                "bulletMass": 585.0, 
+                "bulletName": "PFPA042_340MM_45_1930_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 780.0
+            }
+        }, 
+        "Nation": "France", 
+        "Tier": 7, 
+        "ammo_num": 2
+    }, 
+    "PFSB108_Richelieu": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2791, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.38, 
+                "bulletKrupp": 2347.0, 
+                "bulletMass": 885.0, 
+                "bulletName": "PFPA036_380MM_45_1935_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 830.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.2791, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.38, 
+                "bulletKrupp": 2347.0, 
+                "bulletMass": 885.0, 
+                "bulletName": "PFPA036_380MM_45_1935_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 830.0
+            }
+        }, 
+        "Nation": "France", 
+        "Tier": 8, 
+        "ammo_num": 2
+    }, 
+    "PFSB109_Alsace": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2791, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.38, 
+                "bulletKrupp": 2347.0, 
+                "bulletMass": 885.0, 
+                "bulletName": "PFPA036_380MM_45_1935_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 830.0
+            }
+        }, 
+        "Nation": "France", 
+        "Tier": 9, 
+        "ammo_num": 1
+    }, 
+    "PFSB110_France": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.35, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.431, 
+                "bulletKrupp": 2550.0, 
+                "bulletMass": 1321.0, 
+                "bulletName": "PFPA038_431MM_50_1939_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 840.0
+            }
+        }, 
+        "Nation": "France", 
+        "Tier": 10, 
+        "ammo_num": 1
+    }, 
+    "PFSB506_Dunkerque_1940": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2801, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.33, 
+                "bulletKrupp": 2428.0, 
+                "bulletMass": 560.0, 
+                "bulletName": "PFPA001_330MM_AP_D", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 870.0
+            }
+        }, 
+        "Nation": "France", 
+        "Tier": 6, 
+        "ammo_num": 1
+    }, 
+    "PFSB508_Gascogne": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2791, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.38, 
+                "bulletKrupp": 2347.0, 
+                "bulletMass": 885.0, 
+                "bulletName": "PFPA046_380MM_AP_GASCOGNE", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 830.0
+            }
+        }, 
+        "Nation": "France", 
+        "Tier": 8, 
+        "ammo_num": 1
+    }, 
+    "PFSB510_Bourgogne": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2791, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.38, 
+                "bulletKrupp": 2347.0, 
+                "bulletMass": 885.0, 
+                "bulletName": "PFPA036_380MM_45_1935_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 830.0
+            }
+        }, 
+        "Nation": "France", 
+        "Tier": 10, 
+        "ammo_num": 1
+    }, 
+    "PFSB518_Jean_Bart": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2791, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDiametr": 0.38, 
+                "bulletKrupp": 2347.0, 
+                "bulletMass": 885.0, 
+                "bulletName": "PFPA049_380MM_AP_JBART", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 830.0
+            }
+        }, 
+        "Nation": "France", 
+        "Tier": 9, 
+        "ammo_num": 1
+    }
+}
