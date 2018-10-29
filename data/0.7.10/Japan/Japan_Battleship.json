@@ -1,23 +1,119 @@
 {
     "PJSB001_Kawachi_1912": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.422,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.305,
+                "bulletKrupp": 1924,
+                "bulletMass": 386,
+                "bulletName": "PJPA033_Shell_305mm_AP_APC_41_year_Type",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 810
+            }
+        },
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.437,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.305,
+                "bulletKrupp": 2028,
+                "bulletMass": 386,
+                "bulletName": "PJPA030_Shell_305mm_AP_APC_41_year_Type",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 869
+            }
+        },
         "Nation": "Japan",
         "Tier": 3,
-        "ammo_num": 0
+        "ammo_num": 2
     },
     "PJSB003_Myogi_1912": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.41,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.356,
+                "bulletKrupp": 2300,
+                "bulletMass": 635.5,
+                "bulletName": "PJPA035_Shell_356mm_AP_AP_Type_5",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 790
+            }
+        },
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.41,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.356,
+                "bulletKrupp": 2300,
+                "bulletMass": 635.5,
+                "bulletName": "PJPA035_Shell_356mm_AP_AP_Type_5",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 790
+            }
+        },
         "Nation": "Japan",
         "Tier": 4,
-        "ammo_num": 0
+        "ammo_num": 2
     },
     "PJSB006_Fuso_1943": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.331,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.356,
+                "bulletKrupp": 2657,
+                "bulletMass": 673.5,
+                "bulletName": "PJPA001_Shell_356mm_AP_APC_Type_91",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 775
+            }
+        },
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.331,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.356,
+                "bulletKrupp": 2657,
+                "bulletMass": 673.5,
+                "bulletName": "PJPA001_Shell_356mm_AP_APC_Type_91",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 775
+            }
+        },
         "Nation": "Japan",
         "Tier": 6,
-        "ammo_num": 0
+        "ammo_num": 2
     },
     "PJSB007_Kongo_1942": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.41,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.356,
+                "bulletKrupp": 2300,
+                "bulletMass": 635.5,
+                "bulletName": "PJPA035_Shell_356mm_AP_AP_Type_5",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 790
+            }
+        },
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.331,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.356,
+                "bulletKrupp": 2657,
+                "bulletMass": 673.5,
+                "bulletName": "PJPA001_Shell_356mm_AP_APC_Type_91",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 775
+            }
+        },
         "Nation": "Japan",
         "Tier": 5,
-        "ammo_num": 0
+        "ammo_num": 2
     },
     "PJSB008_Ishizuchi_1921": {
         "Artillery0": {
@@ -37,9 +133,33 @@
         "ammo_num": 1
     },
     "PJSB010_Nagato_1944": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.355,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.41,
+                "bulletKrupp": 2711,
+                "bulletMass": 1020,
+                "bulletName": "PJPA005_Shell_410mm_AP_APC_Type_91",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 806
+            }
+        },
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.355,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.41,
+                "bulletKrupp": 2711,
+                "bulletMass": 1020,
+                "bulletName": "PJPA005_Shell_410mm_AP_APC_Type_91",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 806
+            }
+        },
         "Nation": "Japan",
         "Tier": 7,
-        "ammo_num": 0
+        "ammo_num": 2
     },
     "PJSB011_Mikasa_1905": {
         "Artillery0": {
@@ -59,9 +179,21 @@
         "ammo_num": 1
     },
     "PJSB013_Amagi_1942": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.355,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.41,
+                "bulletKrupp": 2711,
+                "bulletMass": 1020,
+                "bulletName": "PJPA005_Shell_410mm_AP_APC_Type_91",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 806
+            }
+        },
         "Nation": "Japan",
         "Tier": 8,
-        "ammo_num": 0
+        "ammo_num": 1
     },
     "PJSB018_Yamato_1944": {
         "Artillery0": {
@@ -110,14 +242,38 @@
         "ammo_num": 2
     },
     "PJSB506_Mutsu": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.41,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.41,
+                "bulletKrupp": 2200,
+                "bulletMass": 1000,
+                "bulletName": "PJPA069_410MM_AP_MUTSU",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 790
+            }
+        },
         "Nation": "Japan",
         "Tier": 6,
-        "ammo_num": 0
+        "ammo_num": 1
     },
     "PJSB507_Ashitaka": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.355,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.41,
+                "bulletKrupp": 2711,
+                "bulletMass": 1020,
+                "bulletName": "PJPA071_410MM_AP_ASHITAKA",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 806
+            }
+        },
         "Nation": "Japan",
         "Tier": 7,
-        "ammo_num": 0
+        "ammo_num": 1
     },
     "PJSB508_Kii": {
         "Artillery0": {
@@ -154,24 +310,120 @@
         "ammo_num": 1
     },
     "PJSB705_Kongou": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.41,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.356,
+                "bulletKrupp": 2300,
+                "bulletMass": 635.5,
+                "bulletName": "PJPA035_Shell_356mm_AP_AP_Type_5",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 790
+            }
+        },
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.331,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.356,
+                "bulletKrupp": 2657,
+                "bulletMass": 673.5,
+                "bulletName": "PJPA001_Shell_356mm_AP_APC_Type_91",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 775
+            }
+        },
         "Nation": "Japan",
         "Tier": 5,
-        "ammo_num": 0
+        "ammo_num": 2
     },
     "PJSB706_Kirishima": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.41,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.356,
+                "bulletKrupp": 2300,
+                "bulletMass": 635.5,
+                "bulletName": "PJPA035_Shell_356mm_AP_AP_Type_5",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 790
+            }
+        },
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.331,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.356,
+                "bulletKrupp": 2657,
+                "bulletMass": 673.5,
+                "bulletName": "PJPA001_Shell_356mm_AP_APC_Type_91",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 775
+            }
+        },
         "Nation": "Japan",
         "Tier": 5,
-        "ammo_num": 0
+        "ammo_num": 2
     },
     "PJSB707_Haruna": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.41,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.356,
+                "bulletKrupp": 2300,
+                "bulletMass": 635.5,
+                "bulletName": "PJPA035_Shell_356mm_AP_AP_Type_5",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 790
+            }
+        },
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.331,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.356,
+                "bulletKrupp": 2657,
+                "bulletMass": 673.5,
+                "bulletName": "PJPA001_Shell_356mm_AP_APC_Type_91",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 775
+            }
+        },
         "Nation": "Japan",
         "Tier": 5,
-        "ammo_num": 0
+        "ammo_num": 2
     },
     "PJSB708_Hiei_Arpeggio": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.41,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.356,
+                "bulletKrupp": 2300,
+                "bulletMass": 635.5,
+                "bulletName": "PJPA035_Shell_356mm_AP_AP_Type_5",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 790
+            }
+        },
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.331,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.356,
+                "bulletKrupp": 2657,
+                "bulletMass": 673.5,
+                "bulletName": "PJPA001_Shell_356mm_AP_APC_Type_91",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 775
+            }
+        },
         "Nation": "Japan",
         "Tier": 5,
-        "ammo_num": 0
+        "ammo_num": 2
     },
     "PJSB799_Kirishima": {
         "Nation": "Japan",
@@ -179,14 +431,51 @@
         "ammo_num": 0
     },
     "PJSB801_False_Kawachi_1912": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.422,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.305,
+                "bulletKrupp": 1924,
+                "bulletMass": 386,
+                "bulletName": "PJPA033_Shell_305mm_AP_APC_41_year_Type",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 810
+            }
+        },
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.422,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.305,
+                "bulletKrupp": 1924,
+                "bulletMass": 386,
+                "bulletName": "PJPA033_Shell_305mm_AP_APC_41_year_Type",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 810
+            }
+        },
+        "Artillery2": {
+            "AP": {
+                "bulletAirDrag": 0.437,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.305,
+                "bulletKrupp": 2028,
+                "bulletMass": 386,
+                "bulletName": "PJPA030_Shell_305mm_AP_APC_41_year_Type",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 869
+            }
+        },
         "Nation": "Japan",
         "Tier": 3,
-        "ammo_num": 0
+        "ammo_num": 3
     },
     "PJSB802_False_Ally_Kawachi_1912": {
+        "Artillery0": {},
         "Nation": "Japan",
         "Tier": 3,
-        "ammo_num": 0
+        "ammo_num": 1
     },
     "PJSB918_Yamato_1944": {
         "Artillery0": {

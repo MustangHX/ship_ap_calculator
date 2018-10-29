@@ -5,10 +5,10 @@
                 "bulletAirDrag": 0.435,
                 "bulletAlwaysRicochetAt": 60,
                 "bulletDiametr": 0.305,
-                "bulletKrupp": 450,
+                "bulletKrupp": 2408,
                 "bulletMass": 394.6,
-                "bulletName": "PAPA026_Shell_305mm_HE_C",
-                "bulletRicochetAt": 91,
+                "bulletName": "PAPA025_Shell_305mm_AP_AP",
+                "bulletRicochetAt": 45,
                 "bulletSpeed": 823
             }
         },
@@ -17,10 +17,10 @@
                 "bulletAirDrag": 0.435,
                 "bulletAlwaysRicochetAt": 60,
                 "bulletDiametr": 0.305,
-                "bulletKrupp": 450,
+                "bulletKrupp": 2408,
                 "bulletMass": 394.6,
-                "bulletName": "PAPA026_Shell_305mm_HE_C",
-                "bulletRicochetAt": 91,
+                "bulletName": "PAPA025_Shell_305mm_AP_AP",
+                "bulletRicochetAt": 45,
                 "bulletSpeed": 823
             }
         },
@@ -34,23 +34,23 @@
                 "bulletAirDrag": 0.337,
                 "bulletAlwaysRicochetAt": 60,
                 "bulletDiametr": 0.305,
-                "bulletKrupp": 1,
+                "bulletKrupp": 2226,
                 "bulletMass": 394.6,
-                "bulletName": "PAPA057_305mm_HE_Common_870lbs",
-                "bulletRicochetAt": 91,
+                "bulletName": "PAPA055_305mm_AP_AP_870lbs",
+                "bulletRicochetAt": 45,
                 "bulletSpeed": 884
             }
         },
         "Artillery1": {
             "AP": {
-                "bulletAirDrag": 0.328,
+                "bulletAirDrag": 0.337,
                 "bulletAlwaysRicochetAt": 60,
                 "bulletDiametr": 0.305,
-                "bulletKrupp": 38,
-                "bulletMass": 335.7,
-                "bulletName": "PAPA056_305mm_HE_HC_Mk8",
-                "bulletRicochetAt": 91,
-                "bulletSpeed": 914
+                "bulletKrupp": 2523,
+                "bulletMass": 394.6,
+                "bulletName": "PAPA054_Shell_305mm_AP_AP_Mk15",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 884
             }
         },
         "Nation": "USA",
@@ -63,23 +63,23 @@
                 "bulletAirDrag": 0.31,
                 "bulletAlwaysRicochetAt": 60,
                 "bulletDiametr": 0.356,
-                "bulletKrupp": 385,
+                "bulletKrupp": 1603,
                 "bulletMass": 635,
-                "bulletName": "PAPA040_Shell_356mm_HE_C_1400lbs",
-                "bulletRicochetAt": 91,
+                "bulletName": "PAPA039_Shell_356mm_AP_AP_1400lbs",
+                "bulletRicochetAt": 45,
                 "bulletSpeed": 792
             }
         },
         "Artillery1": {
             "AP": {
-                "bulletAirDrag": 0.325,
+                "bulletAirDrag": 0.332,
                 "bulletAlwaysRicochetAt": 60,
                 "bulletDiametr": 0.356,
-                "bulletKrupp": 395,
-                "bulletMass": 578.34,
-                "bulletName": "PAPA036_Shell_356mm_HE_HC_Mk_22",
-                "bulletRicochetAt": 91,
-                "bulletSpeed": 834
+                "bulletKrupp": 2604,
+                "bulletMass": 680.4,
+                "bulletName": "PAPA035_Shell_356mm_AP_AP_Mk_16",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 792
             }
         },
         "Nation": "USA",
@@ -89,26 +89,26 @@
     "PASB008_Colorado_1945": {
         "Artillery0": {
             "AP": {
-                "bulletAirDrag": 0.346,
+                "bulletAirDrag": 0.336,
                 "bulletAlwaysRicochetAt": 60,
                 "bulletDiametr": 0.406,
-                "bulletKrupp": 250,
-                "bulletMass": 861.8,
-                "bulletName": "PAPA010_Shell_406mm_HE_HC_Mk_13",
-                "bulletRicochetAt": 91,
-                "bulletSpeed": 803
+                "bulletKrupp": 2636,
+                "bulletMass": 1016,
+                "bulletName": "PAPA059_Shell_406mm_AP_AP_Mk_5",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 768
             }
         },
         "Artillery1": {
             "AP": {
-                "bulletAirDrag": 0.346,
+                "bulletAirDrag": 0.336,
                 "bulletAlwaysRicochetAt": 60,
                 "bulletDiametr": 0.406,
-                "bulletKrupp": 250,
-                "bulletMass": 861.8,
-                "bulletName": "PAPA010_Shell_406mm_HE_HC_Mk_13",
-                "bulletRicochetAt": 91,
-                "bulletSpeed": 803
+                "bulletKrupp": 2636,
+                "bulletMass": 1016,
+                "bulletName": "PAPA059_Shell_406mm_AP_AP_Mk_5",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 768
             }
         },
         "Nation": "USA",
@@ -118,26 +118,26 @@
     "PASB012_North_Carolina_1945": {
         "Artillery0": {
             "AP": {
-                "bulletAirDrag": 0.346,
+                "bulletAirDrag": 0.352,
                 "bulletAlwaysRicochetAt": 60,
                 "bulletDiametr": 0.406,
-                "bulletKrupp": 250,
-                "bulletMass": 862,
-                "bulletName": "PAPA084_Shell_406mm_HE_HC_Mk_13E",
-                "bulletRicochetAt": 91,
-                "bulletSpeed": 820
+                "bulletKrupp": 2598,
+                "bulletMass": 1225,
+                "bulletName": "PAPA011_Shell_406mm_AP_AP_Mk_8",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 701
             }
         },
         "Artillery1": {
             "AP": {
-                "bulletAirDrag": 0.346,
+                "bulletAirDrag": 0.352,
                 "bulletAlwaysRicochetAt": 60,
                 "bulletDiametr": 0.406,
-                "bulletKrupp": 250,
-                "bulletMass": 862,
-                "bulletName": "PAPA084_Shell_406mm_HE_HC_Mk_13E",
-                "bulletRicochetAt": 91,
-                "bulletSpeed": 820
+                "bulletKrupp": 2598,
+                "bulletMass": 1225,
+                "bulletName": "PAPA011_Shell_406mm_AP_AP_Mk_8",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 701
             }
         },
         "Nation": "USA",
@@ -150,10 +150,10 @@
                 "bulletAirDrag": 0.337,
                 "bulletAlwaysRicochetAt": 60,
                 "bulletDiametr": 0.305,
-                "bulletKrupp": 1,
+                "bulletKrupp": 2226,
                 "bulletMass": 394.6,
-                "bulletName": "PAPA057_305mm_HE_Common_870lbs",
-                "bulletRicochetAt": 91,
+                "bulletName": "PAPA055_305mm_AP_AP_870lbs",
+                "bulletRicochetAt": 45,
                 "bulletSpeed": 884
             }
         },
@@ -164,14 +164,14 @@
     "PASB017_Montana_1945": {
         "Artillery0": {
             "AP": {
-                "bulletAirDrag": 0.346,
+                "bulletAirDrag": 0.352,
                 "bulletAlwaysRicochetAt": 60,
                 "bulletDiametr": 0.406,
-                "bulletKrupp": 250,
-                "bulletMass": 862,
-                "bulletName": "PAPA015_Shell_406mm_HE_HC_Mk_13",
-                "bulletRicochetAt": 91,
-                "bulletSpeed": 820
+                "bulletKrupp": 2520,
+                "bulletMass": 1225,
+                "bulletName": "PAPA014_Shell_406mm_AP_AP_Mk_8",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 762
             }
         },
         "Nation": "USA",
@@ -181,38 +181,38 @@
     "PASB018_Iowa_1944": {
         "Artillery0": {
             "AP": {
-                "bulletAirDrag": 0.346,
+                "bulletAirDrag": 0.352,
                 "bulletAlwaysRicochetAt": 60,
                 "bulletDiametr": 0.406,
-                "bulletKrupp": 250,
-                "bulletMass": 862,
-                "bulletName": "PAPA015_Shell_406mm_HE_HC_Mk_13",
-                "bulletRicochetAt": 91,
-                "bulletSpeed": 820
+                "bulletKrupp": 2520,
+                "bulletMass": 1225,
+                "bulletName": "PAPA014_Shell_406mm_AP_AP_Mk_8",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 762
             }
         },
         "Artillery1": {
             "AP": {
-                "bulletAirDrag": 0.346,
+                "bulletAirDrag": 0.352,
                 "bulletAlwaysRicochetAt": 60,
                 "bulletDiametr": 0.406,
-                "bulletKrupp": 250,
-                "bulletMass": 862,
-                "bulletName": "PAPA015_Shell_406mm_HE_HC_Mk_13",
-                "bulletRicochetAt": 91,
-                "bulletSpeed": 820
+                "bulletKrupp": 2520,
+                "bulletMass": 1225,
+                "bulletName": "PAPA014_Shell_406mm_AP_AP_Mk_8",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 762
             }
         },
         "Artillery2": {
             "AP": {
-                "bulletAirDrag": 0.346,
+                "bulletAirDrag": 0.352,
                 "bulletAlwaysRicochetAt": 60,
                 "bulletDiametr": 0.406,
-                "bulletKrupp": 250,
-                "bulletMass": 862,
-                "bulletName": "PAPA015_Shell_406mm_HE_HC_Mk_13",
-                "bulletRicochetAt": 91,
-                "bulletSpeed": 820
+                "bulletKrupp": 2520,
+                "bulletMass": 1225,
+                "bulletName": "PAPA014_Shell_406mm_AP_AP_Mk_8",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 762
             }
         },
         "Nation": "USA",
@@ -222,26 +222,26 @@
     "PASB034_New_Mexico_1941": {
         "Artillery0": {
             "AP": {
-                "bulletAirDrag": 0.325,
+                "bulletAirDrag": 0.331,
                 "bulletAlwaysRicochetAt": 60,
                 "bulletDiametr": 0.356,
-                "bulletKrupp": 395,
-                "bulletMass": 578.34,
-                "bulletName": "PAPA007_Shell_356mm_HE_HC_Mk_22",
-                "bulletRicochetAt": 91,
-                "bulletSpeed": 861
+                "bulletKrupp": 2545,
+                "bulletMass": 680.4,
+                "bulletName": "PAPA006_Shell_356mm_AP_AP_Mk_16",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 823
             }
         },
         "Artillery1": {
             "AP": {
-                "bulletAirDrag": 0.325,
+                "bulletAirDrag": 0.331,
                 "bulletAlwaysRicochetAt": 60,
                 "bulletDiametr": 0.356,
-                "bulletKrupp": 395,
-                "bulletMass": 578.34,
-                "bulletName": "PAPA007_Shell_356mm_HE_HC_Mk_22",
-                "bulletRicochetAt": 91,
-                "bulletSpeed": 861
+                "bulletKrupp": 2545,
+                "bulletMass": 680.4,
+                "bulletName": "PAPA006_Shell_356mm_AP_AP_Mk_16",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 823
             }
         },
         "Nation": "USA",
@@ -251,14 +251,14 @@
     "PASB506_Arizona_1941": {
         "Artillery0": {
             "AP": {
-                "bulletAirDrag": 0.325,
+                "bulletAirDrag": 0.332,
                 "bulletAlwaysRicochetAt": 60,
                 "bulletDiametr": 0.356,
-                "bulletKrupp": 1,
-                "bulletMass": 578.34,
-                "bulletName": "PAPA063_SHELL_356MM_HE_MK_22_ARIZONA",
-                "bulletRicochetAt": 91,
-                "bulletSpeed": 834
+                "bulletKrupp": 2604,
+                "bulletMass": 680.4,
+                "bulletName": "PAPA062_SHELL_356MM_AP_MK_16_ARIZONA",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 792
             }
         },
         "Nation": "USA",
@@ -268,14 +268,14 @@
     "PASB507_West_Virginia": {
         "Artillery0": {
             "AP": {
-                "bulletAirDrag": 0.346,
+                "bulletAirDrag": 0.336,
                 "bulletAlwaysRicochetAt": 60,
                 "bulletDiametr": 0.406,
-                "bulletKrupp": 250,
-                "bulletMass": 861.8,
-                "bulletName": "PAPA096_406MM_HE_WVIRGINIA",
-                "bulletRicochetAt": 91,
-                "bulletSpeed": 803
+                "bulletKrupp": 2636,
+                "bulletMass": 1016,
+                "bulletName": "PAPA097_406MM_AP_WVIRGINIA",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 768
             }
         },
         "Nation": "USA",
@@ -285,14 +285,14 @@
     "PASB508_Alabama": {
         "Artillery0": {
             "AP": {
-                "bulletAirDrag": 0.3452,
+                "bulletAirDrag": 0.352,
                 "bulletAlwaysRicochetAt": 60,
                 "bulletDiametr": 0.406,
-                "bulletKrupp": 1,
-                "bulletMass": 862,
-                "bulletName": "PAPA077_406MM_HE_ALABAMA",
-                "bulletRicochetAt": 91,
-                "bulletSpeed": 803
+                "bulletKrupp": 2598,
+                "bulletMass": 1225,
+                "bulletName": "PAPA076_406MM_AP_ALABAMA",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 701
             }
         },
         "Nation": "USA",
@@ -302,14 +302,14 @@
     "PASB509_Missouri": {
         "Artillery0": {
             "AP": {
-                "bulletAirDrag": 0.346,
+                "bulletAirDrag": 0.352,
                 "bulletAlwaysRicochetAt": 60,
                 "bulletDiametr": 0.406,
-                "bulletKrupp": 250,
-                "bulletMass": 862,
-                "bulletName": "PAPA073_406MM_HE_MISSOURI",
-                "bulletRicochetAt": 91,
-                "bulletSpeed": 820
+                "bulletKrupp": 2520,
+                "bulletMass": 1225,
+                "bulletName": "PAPA072_406MM_AP_MISSOURI",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 762
             }
         },
         "Nation": "USA",
@@ -319,14 +319,14 @@
     "PASB518_Massachusetts": {
         "Artillery0": {
             "AP": {
-                "bulletAirDrag": 0.3452,
+                "bulletAirDrag": 0.352,
                 "bulletAlwaysRicochetAt": 60,
                 "bulletDiametr": 0.406,
-                "bulletKrupp": 1,
-                "bulletMass": 862,
-                "bulletName": "PAPA081_406MM_HE_MASS",
-                "bulletRicochetAt": 91,
-                "bulletSpeed": 803
+                "bulletKrupp": 2598,
+                "bulletMass": 1225,
+                "bulletName": "PAPA080_406MM_AP_MASS",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 701
             }
         },
         "Nation": "USA",
@@ -336,14 +336,14 @@
     "PASB705_Texas_1944": {
         "Artillery0": {
             "AP": {
-                "bulletAirDrag": 0.325,
+                "bulletAirDrag": 0.332,
                 "bulletAlwaysRicochetAt": 60,
                 "bulletDiametr": 0.356,
-                "bulletKrupp": 395,
-                "bulletMass": 578.34,
-                "bulletName": "PAPA067_SHELL_356MM_HE_MK_22_TEXAS",
-                "bulletRicochetAt": 91,
-                "bulletSpeed": 834
+                "bulletKrupp": 2604,
+                "bulletMass": 680.4,
+                "bulletName": "PAPA066_SHELL_356MM_AP_MK_16_TEXAS",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 792
             }
         },
         "Nation": "USA",
@@ -353,14 +353,14 @@
     "PASB708_Alabama": {
         "Artillery0": {
             "AP": {
-                "bulletAirDrag": 0.3452,
+                "bulletAirDrag": 0.352,
                 "bulletAlwaysRicochetAt": 60,
                 "bulletDiametr": 0.406,
-                "bulletKrupp": 1,
-                "bulletMass": 862,
-                "bulletName": "PAPA075_406MM_HE_ALABAMA",
-                "bulletRicochetAt": 91,
-                "bulletSpeed": 803
+                "bulletKrupp": 2598,
+                "bulletMass": 1225,
+                "bulletName": "PAPA074_406MM_AP_ALABAMA",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 701
             }
         },
         "Nation": "USA",
@@ -379,10 +379,10 @@
                 "bulletAirDrag": 0.435,
                 "bulletAlwaysRicochetAt": 60,
                 "bulletDiametr": 0.305,
-                "bulletKrupp": 450,
+                "bulletKrupp": 2408,
                 "bulletMass": 394.6,
-                "bulletName": "PAPA026_Shell_305mm_HE_C",
-                "bulletRicochetAt": 91,
+                "bulletName": "PAPA025_Shell_305mm_AP_AP",
+                "bulletRicochetAt": 45,
                 "bulletSpeed": 823
             }
         },
@@ -393,14 +393,14 @@
     "PASB917_Montana_1945": {
         "Artillery0": {
             "AP": {
-                "bulletAirDrag": 0.346,
+                "bulletAirDrag": 0.352,
                 "bulletAlwaysRicochetAt": 60,
                 "bulletDiametr": 0.406,
-                "bulletKrupp": 250,
-                "bulletMass": 862,
-                "bulletName": "PAPA015_Shell_406mm_HE_HC_Mk_13",
-                "bulletRicochetAt": 91,
-                "bulletSpeed": 820
+                "bulletKrupp": 2520,
+                "bulletMass": 1225,
+                "bulletName": "PAPA014_Shell_406mm_AP_AP_Mk_8",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 762
             }
         },
         "Nation": "USA",

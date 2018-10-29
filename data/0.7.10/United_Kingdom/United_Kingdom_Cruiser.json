@@ -6,178 +6,57 @@
         "ammo_num": 1
     },
     "PBSC102_Weymouth": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.4461,
-                "bulletAlwaysRicochetAt": 80,
-                "bulletDiametr": 0.152,
-                "bulletKrupp": 2152,
-                "bulletMass": 45.36,
-                "bulletName": "PBPA009_152MM_AP_100LBS",
-                "bulletRicochetAt": 65,
-                "bulletSpeed": 773
-            }
-        },
+        "Artillery0": {},
         "Nation": "United_Kingdom",
         "Tier": 2,
         "ammo_num": 1
     },
     "PBSC103_Caledon": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.4194,
-                "bulletAlwaysRicochetAt": 80,
-                "bulletDiametr": 0.152,
-                "bulletKrupp": 2045,
-                "bulletMass": 45.36,
-                "bulletName": "PBPA011_152MM_AP_4CRH",
-                "bulletRicochetAt": 65,
-                "bulletSpeed": 853
-            }
-        },
+        "Artillery0": {},
         "Nation": "United_Kingdom",
         "Tier": 3,
         "ammo_num": 1
     },
     "PBSC104_Danae": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.4194,
-                "bulletAlwaysRicochetAt": 80,
-                "bulletDiametr": 0.152,
-                "bulletKrupp": 2045,
-                "bulletMass": 45.36,
-                "bulletName": "PBPA011_152MM_AP_4CRH",
-                "bulletRicochetAt": 65,
-                "bulletSpeed": 853
-            }
-        },
+        "Artillery0": {},
         "Nation": "United_Kingdom",
         "Tier": 4,
         "ammo_num": 1
     },
     "PBSC105_Emerald": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.3786,
-                "bulletAlwaysRicochetAt": 80,
-                "bulletDiametr": 0.152,
-                "bulletKrupp": 2045,
-                "bulletMass": 45.36,
-                "bulletName": "PBPA013_152MM_AP_4CRH_SC",
-                "bulletRicochetAt": 65,
-                "bulletSpeed": 936
-            }
-        },
+        "Artillery0": {},
         "Nation": "United_Kingdom",
         "Tier": 5,
         "ammo_num": 1
     },
     "PBSC106_Leander": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.3297,
-                "bulletAlwaysRicochetAt": 75,
-                "bulletDiametr": 0.152,
-                "bulletKrupp": 2609,
-                "bulletMass": 50.8,
-                "bulletName": "PBPA016_152MM_AP_6CRH_MK4",
-                "bulletRicochetAt": 60,
-                "bulletSpeed": 841
-            }
-        },
-        "Artillery1": {
-            "AP": {
-                "bulletAirDrag": 0.3297,
-                "bulletAlwaysRicochetAt": 75,
-                "bulletDiametr": 0.152,
-                "bulletKrupp": 2609,
-                "bulletMass": 50.8,
-                "bulletName": "PBPA016_152MM_AP_6CRH_MK4",
-                "bulletRicochetAt": 60,
-                "bulletSpeed": 841
-            }
-        },
+        "Artillery0": {},
+        "Artillery1": {},
         "Nation": "United_Kingdom",
         "Tier": 6,
         "ammo_num": 2
     },
     "PBSC107_Fiji": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.3297,
-                "bulletAlwaysRicochetAt": 75,
-                "bulletDiametr": 0.152,
-                "bulletKrupp": 2609,
-                "bulletMass": 50.8,
-                "bulletName": "PBPA016_152MM_AP_6CRH_MK4",
-                "bulletRicochetAt": 60,
-                "bulletSpeed": 841
-            }
-        },
+        "Artillery0": {},
         "Nation": "United_Kingdom",
         "Tier": 7,
         "ammo_num": 1
     },
     "PBSC108_Edinburgh": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.3297,
-                "bulletAlwaysRicochetAt": 75,
-                "bulletDiametr": 0.152,
-                "bulletKrupp": 2609,
-                "bulletMass": 50.8,
-                "bulletName": "PBPA016_152MM_AP_6CRH_MK4",
-                "bulletRicochetAt": 60,
-                "bulletSpeed": 841
-            }
-        },
-        "Artillery1": {
-            "AP": {
-                "bulletAirDrag": 0.3297,
-                "bulletAlwaysRicochetAt": 75,
-                "bulletDiametr": 0.152,
-                "bulletKrupp": 2609,
-                "bulletMass": 50.8,
-                "bulletName": "PBPA016_152MM_AP_6CRH_MK4",
-                "bulletRicochetAt": 60,
-                "bulletSpeed": 841
-            }
-        },
+        "Artillery0": {},
+        "Artillery1": {},
         "Nation": "United_Kingdom",
         "Tier": 8,
         "ammo_num": 2
     },
     "PBSC109_Neptune": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.3475,
-                "bulletAlwaysRicochetAt": 75,
-                "bulletDiametr": 0.152,
-                "bulletKrupp": 2672,
-                "bulletMass": 58.85,
-                "bulletName": "PBPA017_152MM_AP_MK5",
-                "bulletRicochetAt": 60,
-                "bulletSpeed": 768
-            }
-        },
+        "Artillery0": {},
         "Nation": "United_Kingdom",
         "Tier": 9,
         "ammo_num": 1
     },
     "PBSC110_Minotaur": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.3475,
-                "bulletAlwaysRicochetAt": 75,
-                "bulletDiametr": 0.152,
-                "bulletKrupp": 2672,
-                "bulletMass": 58.85,
-                "bulletName": "PBPA017_152MM_AP_MK5",
-                "bulletRicochetAt": 60,
-                "bulletSpeed": 768
-            }
-        },
+        "Artillery0": {},
         "Nation": "United_Kingdom",
         "Tier": 10,
         "ammo_num": 1

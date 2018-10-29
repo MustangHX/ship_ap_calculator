@@ -39,10 +39,10 @@
                 "bulletAirDrag": 0.315,
                 "bulletAlwaysRicochetAt": 60,
                 "bulletDiametr": 0.152,
-                "bulletKrupp": 350,
+                "bulletKrupp": 2692,
                 "bulletMass": 47.7,
-                "bulletName": "PAPA030_Shell_152mm_HE_HC_Mark_34_Mod_1",
-                "bulletRicochetAt": 91,
+                "bulletName": "PRPA006_Shell_152mm_AP_SC_Mk_27_Mod_2",
+                "bulletRicochetAt": 45,
                 "bulletSpeed": 914
             }
         },
@@ -202,22 +202,88 @@
         "ammo_num": 2
     },
     "PRSC106_Pr_94_Budeny": {
-        "Artillery0": {},
-        "Artillery1": {},
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.321,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.152,
+                "bulletKrupp": 2216,
+                "bulletMass": 55,
+                "bulletName": "PRPA035_152MM_B35",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 950
+            }
+        },
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.321,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.152,
+                "bulletKrupp": 2216,
+                "bulletMass": 55,
+                "bulletName": "PRPA035_152MM_B35",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 950
+            }
+        },
         "Nation": "Russia",
         "Tier": 6,
         "ammo_num": 2
     },
     "PRSC107_Schors": {
-        "Artillery0": {},
-        "Artillery1": {},
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.321,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.152,
+                "bulletKrupp": 2216,
+                "bulletMass": 55,
+                "bulletName": "PRPA035_152MM_B35",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 950
+            }
+        },
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.321,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.152,
+                "bulletKrupp": 2216,
+                "bulletMass": 55,
+                "bulletName": "PRPA035_152MM_B35",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 950
+            }
+        },
         "Nation": "Russia",
         "Tier": 7,
         "ammo_num": 2
     },
     "PRSC108_Pr_68_Chapaev": {
-        "Artillery0": {},
-        "Artillery1": {},
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.321,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.152,
+                "bulletKrupp": 2216,
+                "bulletMass": 55,
+                "bulletName": "PRPA035_152MM_B35",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 950
+            }
+        },
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.321,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.152,
+                "bulletKrupp": 2216,
+                "bulletMass": 55,
+                "bulletName": "PRPA035_152MM_B35",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 950
+            }
+        },
         "Nation": "Russia",
         "Tier": 8,
         "ammo_num": 2
@@ -320,7 +386,18 @@
         "ammo_num": 1
     },
     "PRSC508_Kutuzov_1952": {
-        "Artillery0": {},
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.321,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.152,
+                "bulletKrupp": 2216,
+                "bulletMass": 55,
+                "bulletName": "PRPA021_152MM_B35_KUTUZOV",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 950
+            }
+        },
         "Nation": "Russia",
         "Tier": 8,
         "ammo_num": 1
@@ -377,18 +454,7 @@
         "ammo_num": 1
     },
     "PRSC520_Stalingrad": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.2831,
-                "bulletAlwaysRicochetAt": 67.5,
-                "bulletDiametr": 0.305,
-                "bulletKrupp": 2700,
-                "bulletMass": 467,
-                "bulletName": "PRPA188_305MM_AP_STALINGRAD_2",
-                "bulletRicochetAt": 60,
-                "bulletSpeed": 950
-            }
-        },
+        "Artillery0": {},
         "Nation": "Russia",
         "Tier": 10,
         "ammo_num": 1

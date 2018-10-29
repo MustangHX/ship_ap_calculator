@@ -252,9 +252,33 @@
         "ammo_num": 1
     },
     "PJSC035_Chikuma_1912": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3693,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.152,
+                "bulletKrupp": 1450,
+                "bulletMass": 45.4,
+                "bulletName": "PJPA043_Shell_152mm_AP_C_Type_4",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 825
+            }
+        },
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.3693,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.152,
+                "bulletKrupp": 1450,
+                "bulletMass": 45.4,
+                "bulletName": "PJPA043_Shell_152mm_AP_C_Type_4",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 825
+            }
+        },
         "Nation": "Japan",
         "Tier": 2,
-        "ammo_num": 0
+        "ammo_num": 2
     },
     "PJSC037_Hashidate_1940": {
         "Artillery0": {},
