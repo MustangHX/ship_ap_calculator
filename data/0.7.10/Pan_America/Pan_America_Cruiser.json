@@ -1,0 +1,19 @@
+{
+    "PVSC507_Nueve_de_Julio_1951": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.322,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.152,
+                "bulletKrupp": 2445,
+                "bulletMass": 59,
+                "bulletName": "PVPA002_152MM_AP_NUEVE",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 762
+            }
+        },
+        "Nation": "Pan_America",
+        "Tier": 7,
+        "ammo_num": 1
+    }
+}

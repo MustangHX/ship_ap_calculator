@@ -2,35 +2,35 @@
     "PRSB001_Nikolay_I": {
         "Artillery0": {
             "AP": {
-                "bulletAirDrag": 0.4595, 
-                "bulletAlwaysRicochetAt": 60.0, 
-                "bulletDiametr": 0.305, 
-                "bulletKrupp": 2627.0, 
-                "bulletMass": 470.9, 
-                "bulletName": "PRPA015_305_AP_1911", 
-                "bulletRicochetAt": 45.0, 
-                "bulletSpeed": 762.0
+                "bulletAirDrag": 0.4595,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.305,
+                "bulletKrupp": 2627,
+                "bulletMass": 470.9,
+                "bulletName": "PRPA015_305_AP_1911",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 762
             }
-        }, 
-        "Nation": "Russia", 
-        "Tier": 4, 
+        },
+        "Nation": "Russia",
+        "Tier": 4,
         "ammo_num": 1
-    }, 
+    },
     "PRSB505_Oktyabrskaya_Revolutsiya": {
         "Artillery0": {
             "AP": {
-                "bulletAirDrag": 0.4595, 
-                "bulletAlwaysRicochetAt": 60.0, 
-                "bulletDiametr": 0.305, 
-                "bulletKrupp": 2627.0, 
-                "bulletMass": 470.9, 
-                "bulletName": "PRPA070_305_AP_REV", 
-                "bulletRicochetAt": 45.0, 
-                "bulletSpeed": 762.0
+                "bulletAirDrag": 0.4595,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.305,
+                "bulletKrupp": 2627,
+                "bulletMass": 470.9,
+                "bulletName": "PRPA070_305_AP_REV",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 762
             }
-        }, 
-        "Nation": "Russia", 
-        "Tier": 5, 
+        },
+        "Nation": "Russia",
+        "Tier": 5,
         "ammo_num": 1
     }
 }
