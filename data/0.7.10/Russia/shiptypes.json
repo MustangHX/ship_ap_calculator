@@ -1,5 +1,1 @@
-[
-    "Battleship", 
-    "Cruiser", 
-    "Destroyer"
-]
+["Destroyer","Cruiser","Battleship"]

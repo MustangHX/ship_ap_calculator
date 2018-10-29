@@ -454,7 +454,18 @@
         "ammo_num": 1
     },
     "PRSC520_Stalingrad": {
-        "Artillery0": {},
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2831,
+                "bulletAlwaysRicochetAt": 67.5,
+                "bulletDiametr": 0.305,
+                "bulletKrupp": 2700,
+                "bulletMass": 467,
+                "bulletName": "PRPA188_305MM_AP_STALINGRAD_2",
+                "bulletRicochetAt": 60,
+                "bulletSpeed": 950
+            }
+        },
         "Nation": "Russia",
         "Tier": 10,
         "ammo_num": 1
