@@ -1,0 +1,19 @@
+{
+    "PWSD501_Blyskawica": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3177,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.12,
+                "bulletKrupp": 1721,
+                "bulletMass": 24,
+                "bulletName": "PWPA002_120_AP_BLYSKAWICA",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 900
+            }
+        },
+        "Nation": "Poland",
+        "Tier": 7,
+        "ammo_num": 1
+    }
+}

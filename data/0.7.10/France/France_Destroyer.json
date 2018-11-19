@@ -1,0 +1,53 @@
+{
+    "PFSD506_Aigle": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2998,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.139,
+                "bulletKrupp": 2124,
+                "bulletMass": 40.4,
+                "bulletName": "PFPA030_138MM_AP_AIGLE",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 700
+            }
+        },
+        "Nation": "France",
+        "Tier": 6,
+        "ammo_num": 1
+    },
+    "PFSD508_Le_Terrible": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3179,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.139,
+                "bulletKrupp": 2100,
+                "bulletMass": 39.9,
+                "bulletName": "PFPA051_139MM_AP_TERRIBLE_1924",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 800
+            }
+        },
+        "Nation": "France",
+        "Tier": 8,
+        "ammo_num": 1
+    },
+    "PFSD605_Cyclone_event": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3225,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.13,
+                "bulletKrupp": 1803,
+                "bulletMass": 32.05,
+                "bulletName": "PFPA028_130MM_40_1919_AP",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 725
+            }
+        },
+        "Nation": "France",
+        "Tier": 5,
+        "ammo_num": 1
+    }
+}

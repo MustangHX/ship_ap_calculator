@@ -30,7 +30,7 @@
 
 <h1>World of Warships AP penetration calculator Beta 0.70</h1>
 <h2>Now can compare ships between different versions.</h2>
-<h2>Client Versions Included: 0.7.2, 0.7.5 and 0.7.8</h2>
+<h2>Client Versions Included: 0.7.2, 0.7.5, 0.7.8 and 0.7.10</h2>
 
 
 <p>This is a test version based on US NAVY penetration formula and game file data mining.</p>
@@ -124,7 +124,7 @@ var pen_dict=[{},{}];
 //var glob_nation2;
 function load_version(id){
   versio=["0.7.2",
-    "0.7.5", "0.7.8"]
+    "0.7.5", "0.7.8", "0.7.10"]
   $("#version"+id).replaceWith("<select id=\"version"+id+"\" onchange=\"load_nation("+id+");\"></select>");  // replace the old select with a new empty select
   for(var i in versio) {
     $("#version"+id)[0].innerHTML += "<option value=\"" + versio[i] + "\">" + versio[i] + "</options>";  // append option
@@ -138,6 +138,7 @@ function load_nation(id){
       "Japan",
       "United_Kingdom",
       "France",
+      "Pan_America",
       "Pan_Asia",
       "USA",
       "Germany",

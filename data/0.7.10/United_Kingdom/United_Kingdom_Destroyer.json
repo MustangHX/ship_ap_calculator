@@ -1,0 +1,259 @@
+{
+    "PBSD102_Medea": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3438,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.102,
+                "bulletKrupp": 1900,
+                "bulletMass": 14.1,
+                "bulletName": "PBPA064_102MM_AP_QF_MKIV",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 664
+            }
+        },
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.3142,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.102,
+                "bulletKrupp": 1374,
+                "bulletMass": 17.35,
+                "bulletName": "PBPA066_102MM_AP_38LBS",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 811
+            }
+        },
+        "Nation": "United_Kingdom",
+        "Tier": 2,
+        "ammo_num": 2
+    },
+    "PBSD103_Valkyrie": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3142,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.102,
+                "bulletKrupp": 1374,
+                "bulletMass": 17.35,
+                "bulletName": "PBPA066_102MM_AP_38LBS",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 811
+            }
+        },
+        "Nation": "United_Kingdom",
+        "Tier": 3,
+        "ammo_num": 1
+    },
+    "PBSD104_Wakeful": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3142,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.102,
+                "bulletKrupp": 1374,
+                "bulletMass": 17.35,
+                "bulletName": "PBPA066_102MM_AP_38LBS",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 811
+            }
+        },
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.343,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.12,
+                "bulletKrupp": 2300,
+                "bulletMass": 28.12,
+                "bulletName": "PBPA068_120MM_SAP_62LBS",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 774
+            }
+        },
+        "Nation": "United_Kingdom",
+        "Tier": 4,
+        "ammo_num": 2
+    },
+    "PBSD105_Acasta": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3927,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.12,
+                "bulletKrupp": 2396,
+                "bulletMass": 22.68,
+                "bulletName": "PBPA048_120MM_QFMIX_AP_G",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 808
+            }
+        },
+        "Nation": "United_Kingdom",
+        "Tier": 5,
+        "ammo_num": 1
+    },
+    "PBSD106_Icarus": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3927,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.12,
+                "bulletKrupp": 2396,
+                "bulletMass": 22.68,
+                "bulletName": "PBPA048_120MM_QFMIX_AP_G",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 808
+            }
+        },
+        "Nation": "United_Kingdom",
+        "Tier": 6,
+        "ammo_num": 1
+    },
+    "PBSD107_Jervis": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3927,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.12,
+                "bulletKrupp": 2396,
+                "bulletMass": 22.68,
+                "bulletName": "PBPA048_120MM_QFMIX_AP_G",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 808
+            }
+        },
+        "Nation": "United_Kingdom",
+        "Tier": 7,
+        "ammo_num": 1
+    },
+    "PBSD108_Lightning": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.343,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.12,
+                "bulletKrupp": 2300,
+                "bulletMass": 28.12,
+                "bulletName": "PBPA068_120MM_SAP_62LBS",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 774
+            }
+        },
+        "Nation": "United_Kingdom",
+        "Tier": 8,
+        "ammo_num": 1
+    },
+    "PBSD109_Jutland": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3296,
+                "bulletAlwaysRicochetAt": 67.5,
+                "bulletDiametr": 0.113,
+                "bulletKrupp": 1600,
+                "bulletMass": 25,
+                "bulletName": "PBPA062_114MM_SAP_55LB",
+                "bulletRicochetAt": 60,
+                "bulletSpeed": 746
+            }
+        },
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.3296,
+                "bulletAlwaysRicochetAt": 67.5,
+                "bulletDiametr": 0.113,
+                "bulletKrupp": 1600,
+                "bulletMass": 25,
+                "bulletName": "PBPA062_114MM_SAP_55LB",
+                "bulletRicochetAt": 60,
+                "bulletSpeed": 746
+            }
+        },
+        "Nation": "United_Kingdom",
+        "Tier": 9,
+        "ammo_num": 2
+    },
+    "PBSD110_Daring": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3296,
+                "bulletAlwaysRicochetAt": 67.5,
+                "bulletDiametr": 0.113,
+                "bulletKrupp": 1600,
+                "bulletMass": 25,
+                "bulletName": "PBPA062_114MM_SAP_55LB",
+                "bulletRicochetAt": 60,
+                "bulletSpeed": 746
+            }
+        },
+        "Nation": "United_Kingdom",
+        "Tier": 10,
+        "ammo_num": 1
+    },
+    "PBSD503_Campbeltown_1941": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.33,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.102,
+                "bulletKrupp": 1451,
+                "bulletMass": 14.97,
+                "bulletName": "PBPA005_102MM_AP_CAMPBELTOWN",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 884
+            }
+        },
+        "Nation": "United_Kingdom",
+        "Tier": 3,
+        "ammo_num": 1
+    },
+    "PBSD506_Gallant": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3927,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.12,
+                "bulletKrupp": 2396,
+                "bulletMass": 22.68,
+                "bulletName": "PBPA048_120MM_QFMIX_AP_G",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 808
+            }
+        },
+        "Nation": "United_Kingdom",
+        "Tier": 6,
+        "ammo_num": 1
+    },
+    "PBSD517_Cossack": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3927,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.12,
+                "bulletKrupp": 2438,
+                "bulletMass": 22.68,
+                "bulletName": "PBPA061_120_AP_COSSACK",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 808
+            }
+        },
+        "Nation": "United_Kingdom",
+        "Tier": 8,
+        "ammo_num": 1
+    },
+    "PBSD605_Anthony_Event": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3927,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.12,
+                "bulletKrupp": 2396,
+                "bulletMass": 22.68,
+                "bulletName": "PBPA048_120MM_QFMIX_AP_G",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 808
+            }
+        },
+        "Nation": "United_Kingdom",
+        "Tier": 5,
+        "ammo_num": 1
+    }
+}

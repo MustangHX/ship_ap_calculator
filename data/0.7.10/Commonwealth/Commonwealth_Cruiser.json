@@ -1,0 +1,19 @@
+{
+    "PUSC506_Perth_1942": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3297,
+                "bulletAlwaysRicochetAt": 60,
+                "bulletDiametr": 0.152,
+                "bulletKrupp": 2609,
+                "bulletMass": 50.8,
+                "bulletName": "PUPA002_152MM_AP_PERTH",
+                "bulletRicochetAt": 45,
+                "bulletSpeed": 841
+            }
+        },
+        "Nation": "Commonwealth",
+        "Tier": 6,
+        "ammo_num": 1
+    }
+}
