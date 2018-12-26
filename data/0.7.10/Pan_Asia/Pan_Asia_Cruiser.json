@@ -1,25 +1,22 @@
 {
-    "PZSC101_Cheng_An": {
-        "Artillery0": {},
-        "Nation": "Pan_Asia",
-        "Tier": 1,
-        "ammo_num": 1
-    },
+    "PZSC101_Cheng_An": {}, 
     "PZSC506_Huang_he": {
         "Artillery0": {
             "AP": {
-                "bulletAirDrag": 0.321,
-                "bulletAlwaysRicochetAt": 60,
-                "bulletDiametr": 0.152,
-                "bulletKrupp": 2216,
-                "bulletMass": 55,
-                "bulletName": "PZPA022_152MM_HUANGHE_AP",
-                "bulletRicochetAt": 45,
-                "bulletSpeed": 950
+                "bulletAirDrag": 0.321, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 2216.0, 
+                "bulletMass": 55.0, 
+                "bulletName": "PZPA022_152MM_HUANGHE_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 950.0
             }
-        },
-        "Nation": "Pan_Asia",
-        "Tier": 6,
+        }, 
+        "Nation": "Pan_Asia", 
+        "Tier": 6, 
         "ammo_num": 1
     }
 }

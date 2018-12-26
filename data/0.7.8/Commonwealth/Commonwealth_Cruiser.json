@@ -4,6 +4,8 @@
             "AP": {
                 "bulletAirDrag": 0.3297, 
                 "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
                 "bulletDiametr": 0.152, 
                 "bulletKrupp": 2609.0, 
                 "bulletMass": 50.8, 

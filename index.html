@@ -28,9 +28,9 @@
 
 <body>
 
-<h1>World of Warships AP penetration calculator Beta 0.70</h1>
+<h1>World of Warships AP penetration calculator Beta 0.71</h1>
 <h2>Now can compare ships between different versions.</h2>
-<h2>Client Versions Included: 0.7.2, 0.7.5, 0.7.8 and 0.7.10</h2>
+<h2>Client Versions Included: 0.7.2, 0.7.5, 0.7.8, 0.7.10 and 0.7.12</h2>
 
 
 <p>This is a test version based on US NAVY penetration formula and game file data mining.</p>
@@ -68,8 +68,10 @@
 <div id="ammo_selected_krupp1"></div>
 <div id="ammo_selected_speed1"></div>
 <div id="ammo_selected_rico_start1"></div>
-<div id="ammo_selected_rico_always1"></div></p>
-</td>
+<div id="ammo_selected_rico_always1"></div>
+<div id="ammo_selected_detotime1"></div>
+<div id="ammo_selected_detothresh1"></div></p>
+</td>/
 <td>
 <h2>Ship B:</h2>
 <p>version:
@@ -101,7 +103,9 @@
 <div id="ammo_selected_krupp2"></div>
 <div id="ammo_selected_speed2"></div>
 <div id="ammo_selected_rico_start2"></div>
-<div id="ammo_selected_rico_always2"></div></p>
+<div id="ammo_selected_rico_always2"></div>
+<div id="ammo_selected_detotime2"></div>
+<div id="ammo_selected_detothresh2"></div></p>
 </td>
 </tr>
 </table>
@@ -124,7 +128,7 @@ var pen_dict=[{},{}];
 //var glob_nation2;
 function load_version(id){
   versio=["0.7.2",
-    "0.7.5", "0.7.8", "0.7.10"]
+    "0.7.5", "0.7.8", "0.7.10", "0.7.12"]
   $("#version"+id).replaceWith("<select id=\"version"+id+"\" onchange=\"load_nation("+id+");\"></select>");  // replace the old select with a new empty select
   for(var i in versio) {
     $("#version"+id)[0].innerHTML += "<option value=\"" + versio[i] + "\">" + versio[i] + "</options>";  // append option
@@ -304,6 +308,8 @@ function load_value(nation) {
       $("#ammo_selected_speed"+id)[0].innerHTML = "Muzzle Velocity: "+selected_ammo.AP.bulletSpeed+" m/s";
       $("#ammo_selected_rico_start"+id)[0].innerHTML = "Starts Ricochet at: "+selected_ammo.AP.bulletRicochetAt+" degree";
       $("#ammo_selected_rico_always"+id)[0].innerHTML = "Always Ricochet at: "+selected_ammo.AP.bulletAlwaysRicochetAt+" degree";
+      $("#ammo_selected_detotime"+id)[0].innerHTML = "Fuse detonation delay: "+selected_ammo.AP.bulletDetonator+" s";
+      $("#ammo_selected_detothresh"+id)[0].innerHTML = "Fuse armed threshold: "+selected_ammo.AP.bulletDetonatorThreshold+" mm";
 
       // draw ammo penetration curve
       pen_dict[id-1]= calculator(mass,Dia,c_D,v_0,krupp);

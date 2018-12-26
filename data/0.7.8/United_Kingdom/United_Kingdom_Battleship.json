@@ -4,6 +4,8 @@
             "AP": {
                 "bulletAirDrag": 0.3415, 
                 "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 64.0, 
                 "bulletDiametr": 0.381, 
                 "bulletKrupp": 2330.0, 
                 "bulletMass": 879.0, 
@@ -21,6 +23,8 @@
             "AP": {
                 "bulletAirDrag": 0.4391, 
                 "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.015, 
+                "bulletDetonatorThreshold": 51.0, 
                 "bulletDiametr": 0.305, 
                 "bulletKrupp": 2187.0, 
                 "bulletMass": 389.8, 
@@ -33,6 +37,8 @@
             "AP": {
                 "bulletAirDrag": 0.4391, 
                 "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.015, 
+                "bulletDetonatorThreshold": 51.0, 
                 "bulletDiametr": 0.305, 
                 "bulletKrupp": 2187.0, 
                 "bulletMass": 389.8, 
@@ -50,6 +56,8 @@
             "AP": {
                 "bulletAirDrag": 0.4232, 
                 "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.015, 
+                "bulletDetonatorThreshold": 57.0, 
                 "bulletDiametr": 0.343, 
                 "bulletKrupp": 2145.0, 
                 "bulletMass": 567.0, 
@@ -67,6 +75,8 @@
             "AP": {
                 "bulletAirDrag": 0.4273, 
                 "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.015, 
+                "bulletDetonatorThreshold": 57.0, 
                 "bulletDiametr": 0.343, 
                 "bulletKrupp": 2031.0, 
                 "bulletMass": 635.0, 
@@ -79,6 +89,8 @@
             "AP": {
                 "bulletAirDrag": 0.4273, 
                 "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.015, 
+                "bulletDetonatorThreshold": 57.0, 
                 "bulletDiametr": 0.343, 
                 "bulletKrupp": 2031.0, 
                 "bulletMass": 635.0, 
@@ -96,6 +108,8 @@
             "AP": {
                 "bulletAirDrag": 0.3379, 
                 "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.015, 
+                "bulletDetonatorThreshold": 64.0, 
                 "bulletDiametr": 0.381, 
                 "bulletKrupp": 2190.0, 
                 "bulletMass": 879.0, 
@@ -108,6 +122,8 @@
             "AP": {
                 "bulletAirDrag": 0.3379, 
                 "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.015, 
+                "bulletDetonatorThreshold": 64.0, 
                 "bulletDiametr": 0.381, 
                 "bulletKrupp": 2190.0, 
                 "bulletMass": 879.0, 
@@ -125,6 +141,8 @@
             "AP": {
                 "bulletAirDrag": 0.3142, 
                 "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.015, 
+                "bulletDetonatorThreshold": 59.0, 
                 "bulletDiametr": 0.356, 
                 "bulletKrupp": 2295.0, 
                 "bulletMass": 721.0, 
@@ -137,6 +155,8 @@
             "AP": {
                 "bulletAirDrag": 0.3142, 
                 "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.015, 
+                "bulletDetonatorThreshold": 59.0, 
                 "bulletDiametr": 0.356, 
                 "bulletKrupp": 2295.0, 
                 "bulletMass": 721.0, 
@@ -154,6 +174,8 @@
             "AP": {
                 "bulletAirDrag": 0.3379, 
                 "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.015, 
+                "bulletDetonatorThreshold": 64.0, 
                 "bulletDiametr": 0.381, 
                 "bulletKrupp": 2250.0, 
                 "bulletMass": 879.0, 
@@ -166,6 +188,8 @@
             "AP": {
                 "bulletAirDrag": 0.3379, 
                 "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.015, 
+                "bulletDetonatorThreshold": 64.0, 
                 "bulletDiametr": 0.381, 
                 "bulletKrupp": 2250.0, 
                 "bulletMass": 879.0, 
@@ -183,18 +207,8 @@
             "AP": {
                 "bulletAirDrag": 0.2353, 
                 "bulletAlwaysRicochetAt": 60.0, 
-                "bulletDiametr": 0.419, 
-                "bulletKrupp": 2548.0, 
-                "bulletMass": 1157.0, 
-                "bulletName": "PBPA051_419MM_MII_AP", 
-                "bulletRicochetAt": 45.0, 
-                "bulletSpeed": 747.0
-            }
-        }, 
-        "Artillery1": {
-            "AP": {
-                "bulletAirDrag": 0.2353, 
-                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.015, 
+                "bulletDetonatorThreshold": 68.0, 
                 "bulletDiametr": 0.406, 
                 "bulletKrupp": 2527.0, 
                 "bulletMass": 1080.0, 
@@ -205,25 +219,15 @@
         }, 
         "Nation": "United_Kingdom", 
         "Tier": 9, 
-        "ammo_num": 2
+        "ammo_num": 1
     }, 
     "PBSB110_Conqueror": {
         "Artillery0": {
             "AP": {
-                "bulletAirDrag": 0.2897, 
-                "bulletAlwaysRicochetAt": 60.0, 
-                "bulletDiametr": 0.457, 
-                "bulletKrupp": 2485.0, 
-                "bulletMass": 1506.0, 
-                "bulletName": "PBPA046_457MM_MII_AP", 
-                "bulletRicochetAt": 45.0, 
-                "bulletSpeed": 762.0
-            }
-        }, 
-        "Artillery1": {
-            "AP": {
                 "bulletAirDrag": 0.2353, 
                 "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.015, 
+                "bulletDetonatorThreshold": 70.0, 
                 "bulletDiametr": 0.419, 
                 "bulletKrupp": 2548.0, 
                 "bulletMass": 1157.0, 
@@ -234,13 +238,15 @@
         }, 
         "Nation": "United_Kingdom", 
         "Tier": 10, 
-        "ammo_num": 2
+        "ammo_num": 1
     }, 
     "PBSB507_Hood": {
         "Artillery0": {
             "AP": {
                 "bulletAirDrag": 0.3379, 
                 "bulletAlwaysRicochetAt": 67.5, 
+                "bulletDetonator": 0.015, 
+                "bulletDetonatorThreshold": 64.0, 
                 "bulletDiametr": 0.381, 
                 "bulletKrupp": 2190.0, 
                 "bulletMass": 879.0, 
@@ -258,6 +264,8 @@
             "AP": {
                 "bulletAirDrag": 0.349, 
                 "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.015, 
+                "bulletDetonatorThreshold": 68.0, 
                 "bulletDiametr": 0.406, 
                 "bulletKrupp": 2266.0, 
                 "bulletMass": 929.0, 
@@ -275,6 +283,8 @@
             "AP": {
                 "bulletAirDrag": 0.3142, 
                 "bulletAlwaysRicochetAt": 67.5, 
+                "bulletDetonator": 0.015, 
+                "bulletDetonatorThreshold": 59.0, 
                 "bulletDiametr": 0.356, 
                 "bulletKrupp": 2295.0, 
                 "bulletMass": 721.0, 
@@ -290,20 +300,10 @@
     "PBSB910_Conqueror": {
         "Artillery0": {
             "AP": {
-                "bulletAirDrag": 0.2897, 
-                "bulletAlwaysRicochetAt": 60.0, 
-                "bulletDiametr": 0.457, 
-                "bulletKrupp": 2485.0, 
-                "bulletMass": 1506.0, 
-                "bulletName": "PBPA046_457MM_MII_AP", 
-                "bulletRicochetAt": 45.0, 
-                "bulletSpeed": 762.0
-            }
-        }, 
-        "Artillery1": {
-            "AP": {
                 "bulletAirDrag": 0.2353, 
                 "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.015, 
+                "bulletDetonatorThreshold": 70.0, 
                 "bulletDiametr": 0.419, 
                 "bulletKrupp": 2548.0, 
                 "bulletMass": 1157.0, 
@@ -314,6 +314,6 @@
         }, 
         "Nation": "United_Kingdom", 
         "Tier": 10, 
-        "ammo_num": 2
+        "ammo_num": 1
     }
 }

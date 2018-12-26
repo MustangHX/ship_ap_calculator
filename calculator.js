@@ -59,7 +59,7 @@ function calculator(m, D, c_D, v_0, K) {
         y = 0.0
         x = 0.0
         t = 0.
-        while (y >= -10.0) {
+        while (y >= -0.0) {
             x = x + dt * v_x
             y = y + dt * v_y
 
