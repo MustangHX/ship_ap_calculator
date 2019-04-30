@@ -1,0 +1,21 @@
+{
+    "PISD506_Leone": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.4046, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 20.0, 
+                "bulletDiametr": 0.12, 
+                "bulletKrupp": 2000.0, 
+                "bulletMass": 23.15, 
+                "bulletName": "PIPA016_120MM_AP_LEONE", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 850.0
+            }
+        }, 
+        "Nation": "Italy", 
+        "Tier": 6, 
+        "ammo_num": 1
+    }
+}
