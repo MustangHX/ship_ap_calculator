@@ -414,24 +414,5 @@
         "Nation": "USA", 
         "Tier": 8, 
         "ammo_num": 1
-    }, 
-    "PASB917_Montana_1945": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.352, 
-                "bulletAlwaysRicochetAt": 60.0, 
-                "bulletDetonator": 0.033, 
-                "bulletDetonatorThreshold": 68.0, 
-                "bulletDiametr": 0.406, 
-                "bulletKrupp": 2520.0, 
-                "bulletMass": 1225.0, 
-                "bulletName": "PAPA014_Shell_406mm_AP_AP_Mk_8", 
-                "bulletRicochetAt": 45.0, 
-                "bulletSpeed": 762.0
-            }
-        }, 
-        "Nation": "USA", 
-        "Tier": 10, 
-        "ammo_num": 1
     }
 }

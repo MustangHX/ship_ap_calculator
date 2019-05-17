@@ -334,24 +334,5 @@
         "Nation": "USA", 
         "Tier": 9, 
         "ammo_num": 1
-    }, 
-    "PASD913_Gearing_1945": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.347, 
-                "bulletAlwaysRicochetAt": 60.0, 
-                "bulletDetonator": 0.03, 
-                "bulletDetonatorThreshold": 21.0, 
-                "bulletDiametr": 0.127, 
-                "bulletKrupp": 2598.0, 
-                "bulletMass": 25.0, 
-                "bulletName": "PAPA004_Shell_127mm_AP_SC_Mk_38", 
-                "bulletRicochetAt": 45.0, 
-                "bulletSpeed": 792.0
-            }
-        }, 
-        "Nation": "USA", 
-        "Tier": 10, 
-        "ammo_num": 1
     }
 }

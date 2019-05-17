@@ -401,24 +401,5 @@
         "Nation": "Russia", 
         "Tier": 7, 
         "ammo_num": 1
-    }, 
-    "PRSD910_Grozovoy_pr_40N": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.2941, 
-                "bulletAlwaysRicochetAt": 60.0, 
-                "bulletDetonator": 0.01, 
-                "bulletDetonatorThreshold": 22.0, 
-                "bulletDiametr": 0.13, 
-                "bulletKrupp": 1900.0, 
-                "bulletMass": 33.4, 
-                "bulletName": "PRPA057_130MM_AP_PB_42_SM21", 
-                "bulletRicochetAt": 45.0, 
-                "bulletSpeed": 950.0
-            }
-        }, 
-        "Nation": "Russia", 
-        "Tier": 10, 
-        "ammo_num": 1
     }
 }

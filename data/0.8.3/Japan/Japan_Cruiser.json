@@ -582,24 +582,5 @@
         "Nation": "Japan", 
         "Tier": 10, 
         "ammo_num": 1
-    }, 
-    "PJSC934_Zao_1944": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.337, 
-                "bulletAlwaysRicochetAt": 60.0, 
-                "bulletDetonator": 0.033, 
-                "bulletDetonatorThreshold": 34.0, 
-                "bulletDiametr": 0.203, 
-                "bulletKrupp": 2468.0, 
-                "bulletMass": 155.0, 
-                "bulletName": "PJPA038_Shell_203mm_AP_AP_Type_92", 
-                "bulletRicochetAt": 45.0, 
-                "bulletSpeed": 920.0
-            }
-        }, 
-        "Nation": "Japan", 
-        "Tier": 10, 
-        "ammo_num": 1
     }
 }

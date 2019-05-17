@@ -277,24 +277,5 @@
         "Nation": "Germany", 
         "Tier": 7, 
         "ammo_num": 1
-    }, 
-    "PGSB910_Grossdeutschland": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.2994, 
-                "bulletAlwaysRicochetAt": 60.0, 
-                "bulletDetonator": 0.033, 
-                "bulletDetonatorThreshold": 68.0, 
-                "bulletDiametr": 0.406, 
-                "bulletKrupp": 2527.0, 
-                "bulletMass": 1030.0, 
-                "bulletName": "PGPA038_406MM_AP_PZ_GR_L4_4", 
-                "bulletRicochetAt": 45.0, 
-                "bulletSpeed": 810.0
-            }
-        }, 
-        "Nation": "Germany", 
-        "Tier": 10, 
-        "ammo_num": 1
     }
 }
