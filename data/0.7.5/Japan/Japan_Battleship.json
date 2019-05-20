@@ -424,24 +424,5 @@
         "Nation": "Japan", 
         "Tier": 5, 
         "ammo_num": 1
-    }, 
-    "PJSB918_Yamato_1944": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.292, 
-                "bulletAlwaysRicochetAt": 60.0, 
-                "bulletDetonator": 0.033, 
-                "bulletDetonatorThreshold": 77.0, 
-                "bulletDiametr": 0.46, 
-                "bulletKrupp": 2574.0, 
-                "bulletMass": 1460.0, 
-                "bulletName": "PJPA017_Shell_460mm_AP_APC_Type_91", 
-                "bulletRicochetAt": 45.0, 
-                "bulletSpeed": 780.0
-            }
-        }, 
-        "Nation": "Japan", 
-        "Tier": 10, 
-        "ammo_num": 1
     }
 }

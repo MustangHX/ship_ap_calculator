@@ -372,24 +372,5 @@
         "Nation": "Germany", 
         "Tier": 6, 
         "ammo_num": 1
-    }, 
-    "PGSC910_Hindenburg": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.2974, 
-                "bulletAlwaysRicochetAt": 60.0, 
-                "bulletDetonator": 0.033, 
-                "bulletDetonatorThreshold": 34.0, 
-                "bulletDiametr": 0.203, 
-                "bulletKrupp": 2409.0, 
-                "bulletMass": 122.0, 
-                "bulletName": "PGPA023_203MM_AP_PZ_SPR_GGR_L4_4", 
-                "bulletRicochetAt": 45.0, 
-                "bulletSpeed": 925.0
-            }
-        }, 
-        "Nation": "Germany", 
-        "Tier": 10, 
-        "ammo_num": 1
     }
 }

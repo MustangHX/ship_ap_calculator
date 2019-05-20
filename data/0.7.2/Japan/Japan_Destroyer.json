@@ -585,24 +585,5 @@
         "Nation": "Japan", 
         "Tier": 8, 
         "ammo_num": 3
-    }, 
-    "PJSD912_Shimakaze_1943": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.334, 
-                "bulletAlwaysRicochetAt": 60.0, 
-                "bulletDetonator": 0.01, 
-                "bulletDetonatorThreshold": 21.0, 
-                "bulletDiametr": 0.127, 
-                "bulletKrupp": 2266.0, 
-                "bulletMass": 23.0, 
-                "bulletName": "PJPA011_Shell_127mm_AP_Type_0", 
-                "bulletRicochetAt": 45.0, 
-                "bulletSpeed": 915.0
-            }
-        }, 
-        "Nation": "Japan", 
-        "Tier": 10, 
-        "ammo_num": 1
     }
 }

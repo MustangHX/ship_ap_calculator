@@ -448,23 +448,6 @@
         "Tier": 6, 
         "ammo_num": 1
     }, 
-    "PRSC910_Pr_66_Moskva": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.2549, 
-                "bulletAlwaysRicochetAt": 60.0, 
-                "bulletDiametr": 0.22, 
-                "bulletKrupp": 2590.0, 
-                "bulletMass": 176.0, 
-                "bulletName": "PRPA036_220_AP_B_23", 
-                "bulletRicochetAt": 45.0, 
-                "bulletSpeed": 985.0
-            }
-        }, 
-        "Nation": "Russia", 
-        "Tier": 10, 
-        "ammo_num": 1
-    }, 
     "PRSC999_Seal": {
         "Artillery0": {
             "AP": {

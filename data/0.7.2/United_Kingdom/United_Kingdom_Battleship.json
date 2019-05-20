@@ -296,24 +296,5 @@
         "Nation": "United_Kingdom", 
         "Tier": 7, 
         "ammo_num": 1
-    }, 
-    "PBSB910_Conqueror": {
-        "Artillery0": {
-            "AP": {
-                "bulletAirDrag": 0.2353, 
-                "bulletAlwaysRicochetAt": 60.0, 
-                "bulletDetonator": 0.015, 
-                "bulletDetonatorThreshold": 70.0, 
-                "bulletDiametr": 0.419, 
-                "bulletKrupp": 2548.0, 
-                "bulletMass": 1157.0, 
-                "bulletName": "PBPA051_419MM_MII_AP", 
-                "bulletRicochetAt": 45.0, 
-                "bulletSpeed": 747.0
-            }
-        }, 
-        "Nation": "United_Kingdom", 
-        "Tier": 10, 
-        "ammo_num": 1
     }
 }
