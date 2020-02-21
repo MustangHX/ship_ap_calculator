@@ -1,0 +1,302 @@
+{
+    "PISC101_Eritrea": {}, 
+    "PISC102_Nino_Bixio": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.28, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 20.0, 
+                "bulletDiametr": 0.12, 
+                "bulletKrupp": 2100.0, 
+                "bulletMass": 22.75, 
+                "bulletName": "PIPA024_120MM_50_1909_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 850.0
+            }
+        }, 
+        "Nation": "Italy", 
+        "Tier": 2, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PISC103_Taranto": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.4145, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.15, 
+                "bulletKrupp": 1925.0, 
+                "bulletMass": 45.3, 
+                "bulletName": "PIPA027_150MM_AP_PSGR_L3_7", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 835.0
+            }
+        }, 
+        "Nation": "Italy", 
+        "Tier": 3, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PISC104_Alberto_da_Giussano": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3381, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 2142.0, 
+                "bulletMass": 47.5, 
+                "bulletName": "PIPA029_152MM_53_AP_1926", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 850.0
+            }
+        }, 
+        "Nation": "Italy", 
+        "Tier": 4, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PISC105_Raimondo_Montecuccoli": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3381, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 2142.0, 
+                "bulletMass": 47.5, 
+                "bulletName": "PIPA029_152MM_53_AP_1926", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 850.0
+            }
+        }, 
+        "Nation": "Italy", 
+        "Tier": 5, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PISC106_Trento": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3615, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2400.0, 
+                "bulletMass": 125.3, 
+                "bulletName": "PIPA034_203MM_50_1924_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 840.0
+            }
+        }, 
+        "Nation": "Italy", 
+        "Tier": 6, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PISC107_Zara": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.29, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2450.0, 
+                "bulletMass": 125.3, 
+                "bulletName": "PIPA035_203MM_53_1927_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 900.0
+            }
+        }, 
+        "Nation": "Italy", 
+        "Tier": 7, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PISC108_Amalfi": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.237, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2500.0, 
+                "bulletMass": 125.3, 
+                "bulletName": "PIPA030_203MM_55_1924_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 910.0
+            }
+        }, 
+        "Nation": "Italy", 
+        "Tier": 8, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PISC109_Brindisi": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.237, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2500.0, 
+                "bulletMass": 125.3, 
+                "bulletName": "PIPA030_203MM_55_1924_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 910.0
+            }
+        }, 
+        "Nation": "Italy", 
+        "Tier": 9, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PISC110_Venezia": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.237, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2500.0, 
+                "bulletMass": 125.3, 
+                "bulletName": "PIPA030_203MM_55_1924_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 910.0
+            }
+        }, 
+        "Nation": "Italy", 
+        "Tier": 10, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PISC505_Genova": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3615, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2400.0, 
+                "bulletMass": 125.3, 
+                "bulletName": "PIPA037_203MM_50_AP_GENOVA", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 840.0
+            }
+        }, 
+        "Nation": "Italy", 
+        "Tier": 5, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PISC506_DucadAosta": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3256, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 2142.0, 
+                "bulletMass": 50.0, 
+                "bulletName": "PIPA004_152MM_53_AP_EARLY_DUCA", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 1000.0
+            }
+        }, 
+        "Nation": "Italy", 
+        "Tier": 6, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PISC507_Duca_degli_Abruzzi": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3325, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 2140.0, 
+                "bulletMass": 50.0, 
+                "bulletName": "PIPA009_152MM_55_AP_ABRUZZI", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 910.0
+            }
+        }, 
+        "Nation": "Italy", 
+        "Tier": 7, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PISC607_Gorizia": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.29, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2450.0, 
+                "bulletMass": 125.3, 
+                "bulletName": "PIPA039_203MM_53_AP_GORIZIA", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 900.0
+            }
+        }, 
+        "Nation": "Italy", 
+        "Tier": 7, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }
+}

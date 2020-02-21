@@ -1,0 +1,1065 @@
+{
+    "PASC001_Erie_1936": {}, 
+    "PASC002_Chester_1908": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 1350.0, 
+                "bulletMass": 22.7, 
+                "bulletName": "PAPA021_Shell_127mm_AP_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 914.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.3, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 1350.0, 
+                "bulletMass": 22.7, 
+                "bulletName": "PAPA021_Shell_127mm_AP_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 914.0
+            }
+        }, 
+        "Artillery2": {
+            "AP": {
+                "bulletAirDrag": 0.4036, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 1830.0, 
+                "bulletMass": 47.7, 
+                "bulletName": "PAPA027_Shell_152mm_AP_AP_105lbs", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 853.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 2, 
+        "ammo_num": 3, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASC003_Albany_1898": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.4036, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 1830.0, 
+                "bulletMass": 47.7, 
+                "bulletName": "PAPA027_Shell_152mm_AP_AP_105lbs", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 853.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 2, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASC004_St_Louis_1906": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.4036, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 1830.0, 
+                "bulletMass": 47.7, 
+                "bulletName": "PAPA027_Shell_152mm_AP_AP_105lbs", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 853.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.4036, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 1830.0, 
+                "bulletMass": 47.7, 
+                "bulletName": "PAPA027_Shell_152mm_AP_AP_105lbs", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 853.0
+            }
+        }, 
+        "Artillery2": {
+            "AP": {
+                "bulletAirDrag": 0.4036, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 1830.0, 
+                "bulletMass": 47.7, 
+                "bulletName": "PAPA027_Shell_152mm_AP_AP_105lbs", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 853.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 3, 
+        "ammo_num": 3, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASC005_Omaha_1923": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3164, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 1772.0, 
+                "bulletMass": 47.6, 
+                "bulletName": "PAPA061_SHELL_152MM_AP_SC_MK_27_MOD_5", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 914.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.3164, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 1772.0, 
+                "bulletMass": 47.6, 
+                "bulletName": "PAPA061_SHELL_152MM_AP_SC_MK_27_MOD_5", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 914.0
+            }
+        }, 
+        "Artillery2": {
+            "AP": {
+                "bulletAirDrag": 0.3164, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 1772.0, 
+                "bulletMass": 47.6, 
+                "bulletName": "PAPA061_SHELL_152MM_AP_SC_MK_27_MOD_5", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 914.0
+            }
+        }, 
+        "Artillery3": {
+            "AP": {
+                "bulletAirDrag": 0.3164, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 1772.0, 
+                "bulletMass": 47.6, 
+                "bulletName": "PAPA061_SHELL_152MM_AP_SC_MK_27_MOD_5", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 914.0
+            }
+        }, 
+        "Artillery4": {
+            "AP": {
+                "bulletAirDrag": 0.3164, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 1772.0, 
+                "bulletMass": 47.6, 
+                "bulletName": "PAPA061_SHELL_152MM_AP_SC_MK_27_MOD_5", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 914.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 5, 
+        "ammo_num": 5, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASC006_Atlanta_1942": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.347, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 2598.0, 
+                "bulletMass": 25.0, 
+                "bulletName": "PAPA004_Shell_127mm_AP_SC_Mk_38", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 792.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 7, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASC007_Cleveland_1945": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.322, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 2445.0, 
+                "bulletMass": 59.0, 
+                "bulletName": "PAPA019_Shell_152mm_AP_AP_Mk_35", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 762.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.322, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 2445.0, 
+                "bulletMass": 59.0, 
+                "bulletName": "PAPA019_Shell_152mm_AP_AP_Mk_35", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 762.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 6, 
+        "ammo_num": 2, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASC012_Pensacola_1944": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.321, 
+                "bulletAlwaysRicochetAt": 67.5, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2846.0, 
+                "bulletMass": 118.0, 
+                "bulletName": "PAPA001_Shell_203mm_AP_AP_Mk_19", 
+                "bulletRicochetAt": 60.0, 
+                "bulletSpeed": 853.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.321, 
+                "bulletAlwaysRicochetAt": 67.5, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2846.0, 
+                "bulletMass": 118.0, 
+                "bulletName": "PAPA037_Shell_203mm_AP_AP_260lbs", 
+                "bulletRicochetAt": 60.0, 
+                "bulletSpeed": 792.0
+            }
+        }, 
+        "Artillery2": {
+            "AP": {
+                "bulletAirDrag": 0.321, 
+                "bulletAlwaysRicochetAt": 67.5, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2846.0, 
+                "bulletMass": 118.0, 
+                "bulletName": "PAPA037_Shell_203mm_AP_AP_260lbs", 
+                "bulletRicochetAt": 60.0, 
+                "bulletSpeed": 792.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 7, 
+        "ammo_num": 3, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASC014_New_Orlean_1944": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.321, 
+                "bulletAlwaysRicochetAt": 67.5, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2846.0, 
+                "bulletMass": 118.0, 
+                "bulletName": "PAPA001_Shell_203mm_AP_AP_Mk_19", 
+                "bulletRicochetAt": 60.0, 
+                "bulletSpeed": 853.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.321, 
+                "bulletAlwaysRicochetAt": 67.5, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2846.0, 
+                "bulletMass": 118.0, 
+                "bulletName": "PAPA001_Shell_203mm_AP_AP_Mk_19", 
+                "bulletRicochetAt": 60.0, 
+                "bulletSpeed": 853.0
+            }
+        }, 
+        "Artillery2": {
+            "AP": {
+                "bulletAirDrag": 0.321, 
+                "bulletAlwaysRicochetAt": 67.5, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2846.0, 
+                "bulletMass": 118.0, 
+                "bulletName": "PAPA001_Shell_203mm_AP_AP_Mk_19", 
+                "bulletRicochetAt": 60.0, 
+                "bulletSpeed": 853.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 8, 
+        "ammo_num": 3, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASC016_Worcester_1948": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3225, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 2692.0, 
+                "bulletMass": 59.0, 
+                "bulletName": "PAPA050_152mm_AP_130lbs_Mk35", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 762.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 10, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASC017_Baltimore_1944": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.321, 
+                "bulletAlwaysRicochetAt": 67.5, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2846.0, 
+                "bulletMass": 118.0, 
+                "bulletName": "PAPA001_Shell_203mm_AP_AP_Mk_19", 
+                "bulletRicochetAt": 60.0, 
+                "bulletSpeed": 853.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.356, 
+                "bulletAlwaysRicochetAt": 67.5, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2919.0, 
+                "bulletMass": 152.0, 
+                "bulletName": "PAPA012_Shell_203mm_AP_AP_Mk_21", 
+                "bulletRicochetAt": 60.0, 
+                "bulletSpeed": 762.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 9, 
+        "ammo_num": 2, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASC019_Burlington_1944": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.356, 
+                "bulletAlwaysRicochetAt": 67.5, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2919.0, 
+                "bulletMass": 152.0, 
+                "bulletName": "PAPA012_Shell_203mm_AP_AP_Mk_21", 
+                "bulletRicochetAt": 60.0, 
+                "bulletSpeed": 762.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 10, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASC020_Des_Moines_1948": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.356, 
+                "bulletAlwaysRicochetAt": 67.5, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2919.0, 
+                "bulletMass": 152.0, 
+                "bulletName": "PAPA012_Shell_203mm_AP_AP_Mk_21", 
+                "bulletRicochetAt": 60.0, 
+                "bulletSpeed": 762.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 10, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASC024_Phoenix_1917": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3164, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 1772.0, 
+                "bulletMass": 47.6, 
+                "bulletName": "PAPA061_SHELL_152MM_AP_SC_MK_27_MOD_5", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 914.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.3164, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 1772.0, 
+                "bulletMass": 47.6, 
+                "bulletName": "PAPA061_SHELL_152MM_AP_SC_MK_27_MOD_5", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 914.0
+            }
+        }, 
+        "Artillery2": {
+            "AP": {
+                "bulletAirDrag": 0.4036, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 1830.0, 
+                "bulletMass": 47.7, 
+                "bulletName": "PAPA027_Shell_152mm_AP_AP_105lbs", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 853.0
+            }
+        }, 
+        "Artillery3": {
+            "AP": {
+                "bulletAirDrag": 0.4036, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 1830.0, 
+                "bulletMass": 47.7, 
+                "bulletName": "PAPA027_Shell_152mm_AP_AP_105lbs", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 853.0
+            }
+        }, 
+        "Artillery4": {
+            "AP": {
+                "bulletAirDrag": 0.4036, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 1830.0, 
+                "bulletMass": 47.7, 
+                "bulletName": "PAPA027_Shell_152mm_AP_AP_105lbs", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 853.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 4, 
+        "ammo_num": 5, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASC044_Marblehead_1924": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3164, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 1772.0, 
+                "bulletMass": 47.6, 
+                "bulletName": "PAPA061_SHELL_152MM_AP_SC_MK_27_MOD_5", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 914.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 5, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASC045_Marblehead_1924_Asus": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3164, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 1772.0, 
+                "bulletMass": 47.6, 
+                "bulletName": "PAPA061_SHELL_152MM_AP_SC_MK_27_MOD_5", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 914.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 5, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASC106_Pensacola_1944": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.321, 
+                "bulletAlwaysRicochetAt": 67.5, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2846.0, 
+                "bulletMass": 118.0, 
+                "bulletName": "PAPA001_Shell_203mm_AP_AP_Mk_19", 
+                "bulletRicochetAt": 60.0, 
+                "bulletSpeed": 853.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.321, 
+                "bulletAlwaysRicochetAt": 67.5, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2846.0, 
+                "bulletMass": 118.0, 
+                "bulletName": "PAPA001_Shell_203mm_AP_AP_Mk_19", 
+                "bulletRicochetAt": 60.0, 
+                "bulletSpeed": 853.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 6, 
+        "ammo_num": 2, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASC107_New_Orlean_1944": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.321, 
+                "bulletAlwaysRicochetAt": 67.5, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2846.0, 
+                "bulletMass": 118.0, 
+                "bulletName": "PAPA001_Shell_203mm_AP_AP_Mk_19", 
+                "bulletRicochetAt": 60.0, 
+                "bulletSpeed": 853.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 7, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASC108_Baltimore_1944": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.356, 
+                "bulletAlwaysRicochetAt": 67.5, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2919.0, 
+                "bulletMass": 152.0, 
+                "bulletName": "PAPA012_Shell_203mm_AP_AP_Mk_21", 
+                "bulletRicochetAt": 60.0, 
+                "bulletSpeed": 762.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 8, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASC109_Buffalo": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.356, 
+                "bulletAlwaysRicochetAt": 67.5, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2919.0, 
+                "bulletMass": 152.0, 
+                "bulletName": "PAPA012_Shell_203mm_AP_AP_Mk_21", 
+                "bulletRicochetAt": 60.0, 
+                "bulletSpeed": 762.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 9, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASC206_Dallas": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.322, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 2445.0, 
+                "bulletMass": 59.0, 
+                "bulletName": "PAPA019_Shell_152mm_AP_AP_Mk_35", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 762.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 6, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASC207_Helena": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.322, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 2445.0, 
+                "bulletMass": 59.0, 
+                "bulletName": "PAPA019_Shell_152mm_AP_AP_Mk_35", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 762.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 7, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASC208_Cleveland": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.322, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 2445.0, 
+                "bulletMass": 59.0, 
+                "bulletName": "PAPA019_Shell_152mm_AP_AP_Mk_35", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 762.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 8, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASC209_Seattle": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.322, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 2445.0, 
+                "bulletMass": 59.0, 
+                "bulletName": "PAPA019_Shell_152mm_AP_AP_Mk_35", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 762.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.322, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 2445.0, 
+                "bulletMass": 59.0, 
+                "bulletName": "PAPA019_Shell_152mm_AP_AP_Mk_35", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 762.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 9, 
+        "ammo_num": 2, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASC210_Worcester": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3225, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 2692.0, 
+                "bulletMass": 59.0, 
+                "bulletName": "PAPA050_152mm_AP_130lbs_Mk35", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 762.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 10, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASC503_Charleston": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.4036, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 1830.0, 
+                "bulletMass": 47.7, 
+                "bulletName": "PAPA095_152MM_AP_CHARLSTON", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 853.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 3, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASC507_Indianapolis_1945": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.321, 
+                "bulletAlwaysRicochetAt": 67.5, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2846.0, 
+                "bulletMass": 118.0, 
+                "bulletName": "PAPA064_SHELL_203MM_AP_INDIANAPOLIS", 
+                "bulletRicochetAt": 60.0, 
+                "bulletSpeed": 853.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 7, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASC508_Wichita": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.321, 
+                "bulletAlwaysRicochetAt": 67.5, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2846.0, 
+                "bulletMass": 118.0, 
+                "bulletName": "PAPA093_203MM_AP_WICHITA", 
+                "bulletRicochetAt": 60.0, 
+                "bulletSpeed": 853.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 8, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASC510_Alaska": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3343, 
+                "bulletAlwaysRicochetAt": 67.5, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 51.0, 
+                "bulletDiametr": 0.305, 
+                "bulletKrupp": 2470.0, 
+                "bulletMass": 517.0, 
+                "bulletName": "PAPA088_305MM_AP_ALASKA_MK18M1", 
+                "bulletRicochetAt": 60.0, 
+                "bulletSpeed": 762.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 9, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASC597_Nueve_de_Julio_1951": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.322, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 2445.0, 
+                "bulletMass": 59.0, 
+                "bulletName": "PAPA090_152MM_AP_BOISE", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 762.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 7, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASC599_Black_Alaska": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3343, 
+                "bulletAlwaysRicochetAt": 67.5, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 51.0, 
+                "bulletDiametr": 0.305, 
+                "bulletKrupp": 2470.0, 
+                "bulletMass": 517.0, 
+                "bulletName": "PAPA088_305MM_AP_ALASKA_MK18M1", 
+                "bulletRicochetAt": 60.0, 
+                "bulletSpeed": 762.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 9, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASC610_Puerto_Rico": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3343, 
+                "bulletAlwaysRicochetAt": 67.5, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 51.0, 
+                "bulletDiametr": 0.305, 
+                "bulletKrupp": 2470.0, 
+                "bulletMass": 517.0, 
+                "bulletName": "PAPA117_305MM_AP_P_RICO_MK18M1", 
+                "bulletRicochetAt": 60.0, 
+                "bulletSpeed": 762.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 10, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASC707_Flint": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.347, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 2598.0, 
+                "bulletMass": 25.0, 
+                "bulletName": "PAPA068_127MM_AP_FLINT", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 792.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 7, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASC710_Salem": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.356, 
+                "bulletAlwaysRicochetAt": 67.5, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2919.0, 
+                "bulletMass": 152.0, 
+                "bulletName": "PAPA012_Shell_203mm_AP_AP_Mk_21", 
+                "bulletRicochetAt": 60.0, 
+                "bulletSpeed": 762.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 10, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASC718_AZUR_Montpelier": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.322, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 2445.0, 
+                "bulletMass": 59.0, 
+                "bulletName": "PAPA099_152MM_AP_MONTPELIER", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 762.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 8, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }
+}

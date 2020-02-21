@@ -1,0 +1,347 @@
+{
+    "PFSD102_Enseigne_Gabolde": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3143, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 17.0, 
+                "bulletDiametr": 0.1, 
+                "bulletKrupp": 2100.0, 
+                "bulletMass": 13.5, 
+                "bulletName": "PFPA060_100MM_45_1892_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 780.0
+            }
+        }, 
+        "Nation": "France", 
+        "Tier": 2, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PFSD103_Fusilier": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3143, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 17.0, 
+                "bulletDiametr": 0.1, 
+                "bulletKrupp": 2100.0, 
+                "bulletMass": 13.5, 
+                "bulletName": "PFPA060_100MM_45_1892_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 780.0
+            }
+        }, 
+        "Nation": "France", 
+        "Tier": 3, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PFSD104_Bourrasque": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3225, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 22.0, 
+                "bulletDiametr": 0.13, 
+                "bulletKrupp": 1803.0, 
+                "bulletMass": 32.05, 
+                "bulletName": "PFPA028_130MM_40_1919_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 725.0
+            }
+        }, 
+        "Nation": "France", 
+        "Tier": 4, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PFSD105_Jaguar": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3225, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 22.0, 
+                "bulletDiametr": 0.13, 
+                "bulletKrupp": 1803.0, 
+                "bulletMass": 32.05, 
+                "bulletName": "PFPA028_130MM_40_1919_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 725.0
+            }
+        }, 
+        "Nation": "France", 
+        "Tier": 5, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PFSD106_Guepard": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2998, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 23.0, 
+                "bulletDiametr": 0.139, 
+                "bulletKrupp": 2124.0, 
+                "bulletMass": 40.4, 
+                "bulletName": "PFPA004_138MM_40_1923_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 700.0
+            }
+        }, 
+        "Nation": "France", 
+        "Tier": 6, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PFSD107_Vauquelin": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2998, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 23.0, 
+                "bulletDiametr": 0.139, 
+                "bulletKrupp": 2124.0, 
+                "bulletMass": 40.4, 
+                "bulletName": "PFPA004_138MM_40_1923_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 700.0
+            }
+        }, 
+        "Nation": "France", 
+        "Tier": 7, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PFSD108_Le_Fantasque": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.234, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 23.0, 
+                "bulletDiametr": 0.139, 
+                "bulletKrupp": 2400.0, 
+                "bulletMass": 39.9, 
+                "bulletName": "PFPA055_AP_TST_TERRIBLE", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 840.0
+            }
+        }, 
+        "Nation": "France", 
+        "Tier": 8, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PFSD109_Mogador": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.234, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 23.0, 
+                "bulletDiametr": 0.139, 
+                "bulletKrupp": 2400.0, 
+                "bulletMass": 39.9, 
+                "bulletName": "PFPA059_139MM_55_1924_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 840.0
+            }
+        }, 
+        "Nation": "France", 
+        "Tier": 9, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PFSD110_Kleber": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.234, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 23.0, 
+                "bulletDiametr": 0.139, 
+                "bulletKrupp": 2400.0, 
+                "bulletMass": 39.9, 
+                "bulletName": "PFPA059_139MM_55_1924_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 840.0
+            }
+        }, 
+        "Nation": "France", 
+        "Tier": 10, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PFSD210_Marceau": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.42, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.03, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 2200.0, 
+                "bulletMass": 32.5, 
+                "bulletName": "PFPA070_127MM_AP_MARCEAU", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 808.0
+            }
+        }, 
+        "Nation": "France", 
+        "Tier": 10, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PFSD504_Siroco": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3225, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 22.0, 
+                "bulletDiametr": 0.13, 
+                "bulletKrupp": 1803.0, 
+                "bulletMass": 32.05, 
+                "bulletName": "PFPA057_130MM_AP_SIROCCO", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 725.0
+            }
+        }, 
+        "Nation": "France", 
+        "Tier": 5, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PFSD506_Aigle": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2998, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 23.0, 
+                "bulletDiametr": 0.139, 
+                "bulletKrupp": 2124.0, 
+                "bulletMass": 40.4, 
+                "bulletName": "PFPA030_138MM_AP_AIGLE", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 700.0
+            }
+        }, 
+        "Nation": "France", 
+        "Tier": 6, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PFSD508_Le_Terrible": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.234, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 23.0, 
+                "bulletDiametr": 0.139, 
+                "bulletKrupp": 2400.0, 
+                "bulletMass": 39.9, 
+                "bulletName": "PFPA051_139MM_AP_TERRIBLE_1924", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 840.0
+            }
+        }, 
+        "Nation": "France", 
+        "Tier": 8, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PFSD605_Cyclone_event": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3225, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 22.0, 
+                "bulletDiametr": 0.13, 
+                "bulletKrupp": 1803.0, 
+                "bulletMass": 32.05, 
+                "bulletName": "PFPA028_130MM_40_1919_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 725.0
+            }
+        }, 
+        "Nation": "France", 
+        "Tier": 5, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PFSD808_TST_TERRIBLE": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.234, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 23.0, 
+                "bulletDiametr": 0.139, 
+                "bulletKrupp": 2400.0, 
+                "bulletMass": 39.9, 
+                "bulletName": "PFPA055_AP_TST_TERRIBLE", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 840.0
+            }
+        }, 
+        "Nation": "France", 
+        "Tier": 8, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }
+}

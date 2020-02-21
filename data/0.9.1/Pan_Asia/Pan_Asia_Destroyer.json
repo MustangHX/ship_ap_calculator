@@ -1,0 +1,292 @@
+{
+    "PZSD102_Long_Jiang": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.4125, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 18.0, 
+                "bulletDiametr": 0.105, 
+                "bulletKrupp": 1870.0, 
+                "bulletMass": 18.2, 
+                "bulletName": "PZPA015_105MM_AP_PSGR", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 715.0
+            }
+        }, 
+        "Nation": "Pan_Asia", 
+        "Tier": 2, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PZSD103_Phra_Ruang": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3438, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 17.0, 
+                "bulletDiametr": 0.102, 
+                "bulletKrupp": 1900.0, 
+                "bulletMass": 14.1, 
+                "bulletName": "PZPA012_102MM_AP_QF_MKIV", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 664.0
+            }
+        }, 
+        "Nation": "Pan_Asia", 
+        "Tier": 3, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PZSD104_Shen_Yang": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.36, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 1400.0, 
+                "bulletMass": 22.7, 
+                "bulletName": "PZPA014_127_AP_MK_7", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 960.0
+            }
+        }, 
+        "Nation": "Pan_Asia", 
+        "Tier": 4, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PZSD105_Jian_Wei": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.4049, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 20.0, 
+                "bulletDiametr": 0.12, 
+                "bulletKrupp": 2438.0, 
+                "bulletMass": 22.68, 
+                "bulletName": "PZPA006_120_AP_BL_I", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 814.0
+            }
+        }, 
+        "Nation": "Pan_Asia", 
+        "Tier": 5, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PZSD106_Fu_Shun": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2857, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 22.0, 
+                "bulletDiametr": 0.13, 
+                "bulletKrupp": 1700.0, 
+                "bulletMass": 33.5, 
+                "bulletName": "PZPA019_130MM_AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 870.0
+            }
+        }, 
+        "Nation": "Pan_Asia", 
+        "Tier": 6, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PZSD107_Gadjah_Mada": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3927, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 20.0, 
+                "bulletDiametr": 0.12, 
+                "bulletKrupp": 2438.0, 
+                "bulletMass": 22.68, 
+                "bulletName": "PZPA010_120_AP_QF_MK_IX", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 808.0
+            }
+        }, 
+        "Nation": "Pan_Asia", 
+        "Tier": 7, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PZSD108_Hsien_Yang": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.347, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 2598.0, 
+                "bulletMass": 25.0, 
+                "bulletName": "PZPA008_127_AP_MK_38", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 792.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.347, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 2598.0, 
+                "bulletMass": 25.0, 
+                "bulletName": "PZPA008_127_AP_MK_38", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 792.0
+            }
+        }, 
+        "Nation": "Pan_Asia", 
+        "Tier": 8, 
+        "ammo_num": 2, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PZSD109_Chung_Mu": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.347, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 2598.0, 
+                "bulletMass": 25.0, 
+                "bulletName": "PZPA008_127_AP_MK_38", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 792.0
+            }
+        }, 
+        "Nation": "Pan_Asia", 
+        "Tier": 9, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PZSD110_Hsiang_Yang": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.347, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 2598.0, 
+                "bulletMass": 25.0, 
+                "bulletName": "PZPA008_127_AP_MK_38", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 792.0
+            }
+        }, 
+        "Nation": "Pan_Asia", 
+        "Tier": 10, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PZSD208_Siliwangi_1959": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2857, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 22.0, 
+                "bulletDiametr": 0.13, 
+                "bulletKrupp": 1700.0, 
+                "bulletMass": 33.5, 
+                "bulletName": "PZPA026_130MM_AP_SILIWANGI", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 870.0
+            }
+        }, 
+        "Nation": "Pan_Asia", 
+        "Tier": 8, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PZSD506_Anshan": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2857, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 22.0, 
+                "bulletDiametr": 0.13, 
+                "bulletKrupp": 1700.0, 
+                "bulletMass": 33.5, 
+                "bulletName": "PZPA002_130_AP_ANSHAN", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 870.0
+            }
+        }, 
+        "Nation": "Pan_Asia", 
+        "Tier": 6, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PZSD508_LoYang": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.347, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 2598.0, 
+                "bulletMass": 25.0, 
+                "bulletName": "PZPA004_127_AP_LO_YANG", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 792.0
+            }
+        }, 
+        "Nation": "Pan_Asia", 
+        "Tier": 8, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }
+}

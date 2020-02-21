@@ -1,0 +1,311 @@
+{
+    "PGSD102_V_25": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.4106, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 15.0, 
+                "bulletDiametr": 0.088, 
+                "bulletKrupp": 2285.0, 
+                "bulletMass": 9.5, 
+                "bulletName": "PGPA073_88MM_AP_SK_L45", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 750.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.4125, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 18.0, 
+                "bulletDiametr": 0.105, 
+                "bulletKrupp": 1870.0, 
+                "bulletMass": 18.2, 
+                "bulletName": "PGPA007_105MM_AP_PSGR", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 715.0
+            }
+        }, 
+        "Nation": "Germany", 
+        "Tier": 2, 
+        "ammo_num": 2, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PGSD103_G_101": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.4125, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 18.0, 
+                "bulletDiametr": 0.105, 
+                "bulletKrupp": 1870.0, 
+                "bulletMass": 18.2, 
+                "bulletName": "PGPA007_105MM_AP_PSGR", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 715.0
+            }
+        }, 
+        "Nation": "Germany", 
+        "Tier": 3, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PGSD104_V_170": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.4125, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 18.0, 
+                "bulletDiametr": 0.105, 
+                "bulletKrupp": 1870.0, 
+                "bulletMass": 18.2, 
+                "bulletName": "PGPA007_105MM_AP_PSGR", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 715.0
+            }
+        }, 
+        "Nation": "Germany", 
+        "Tier": 4, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PGSD105_T_22": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3392, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 18.0, 
+                "bulletDiametr": 0.105, 
+                "bulletKrupp": 2040.0, 
+                "bulletMass": 15.1, 
+                "bulletName": "PGPA069_105MM_AP_SK_C32", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 780.0
+            }
+        }, 
+        "Nation": "Germany", 
+        "Tier": 5, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PGSD106_Ernst_Gaede": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3059, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.15, 
+                "bulletKrupp": 1933.0, 
+                "bulletMass": 45.3, 
+                "bulletName": "PGPA067_150MM_AP_PSGR_L4_5", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 835.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.3447, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.128, 
+                "bulletKrupp": 1640.0, 
+                "bulletMass": 28.0, 
+                "bulletName": "PGPA065_128MM_AP_SK_C34", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 830.0
+            }
+        }, 
+        "Nation": "Germany", 
+        "Tier": 6, 
+        "ammo_num": 2, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PGSD107_Leberecht_Maass": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3447, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.128, 
+                "bulletKrupp": 1640.0, 
+                "bulletMass": 28.0, 
+                "bulletName": "PGPA065_128MM_AP_SK_C34", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 830.0
+            }
+        }, 
+        "Nation": "Germany", 
+        "Tier": 7, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PGSD108_Z_23": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3059, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.15, 
+                "bulletKrupp": 1933.0, 
+                "bulletMass": 45.3, 
+                "bulletName": "PGPA067_150MM_AP_PSGR_L4_5", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 835.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.3059, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.15, 
+                "bulletKrupp": 1933.0, 
+                "bulletMass": 45.3, 
+                "bulletName": "PGPA067_150MM_AP_PSGR_L4_5", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 835.0
+            }
+        }, 
+        "Artillery2": {
+            "AP": {
+                "bulletAirDrag": 0.3447, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.128, 
+                "bulletKrupp": 1640.0, 
+                "bulletMass": 28.0, 
+                "bulletName": "PGPA065_128MM_AP_SK_C34", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 830.0
+            }
+        }, 
+        "Nation": "Germany", 
+        "Tier": 8, 
+        "ammo_num": 3, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PGSD109_Z_46": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2752, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.128, 
+                "bulletKrupp": 1647.0, 
+                "bulletMass": 28.0, 
+                "bulletName": "PGPA071_128MM_AP_C41", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 830.0
+            }
+        }, 
+        "Nation": "Germany", 
+        "Tier": 9, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PGSD110_Z_52": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2752, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.128, 
+                "bulletKrupp": 1647.0, 
+                "bulletMass": 28.0, 
+                "bulletName": "PGPA071_128MM_AP_C41", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 830.0
+            }
+        }, 
+        "Nation": "Germany", 
+        "Tier": 10, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PGSD506_T_61": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3447, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.128, 
+                "bulletKrupp": 1640.0, 
+                "bulletMass": 28.0, 
+                "bulletName": "PGPA077_128MM_AP_T61", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 830.0
+            }
+        }, 
+        "Nation": "Germany", 
+        "Tier": 6, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PGSD508_Z_39": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3059, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.15, 
+                "bulletKrupp": 1933.0, 
+                "bulletMass": 45.3, 
+                "bulletName": "PGPA079_150MM_AP_Z39", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 835.0
+            }
+        }, 
+        "Nation": "Germany", 
+        "Tier": 7, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }
+}

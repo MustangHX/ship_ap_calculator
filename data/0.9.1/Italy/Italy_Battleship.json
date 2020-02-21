@@ -1,0 +1,71 @@
+{
+    "PISB505_Giulio_Cesare": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.4098, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 53.0, 
+                "bulletDiametr": 0.32, 
+                "bulletKrupp": 2600.0, 
+                "bulletMass": 525.0, 
+                "bulletName": "PIPA005_320MM_AP_Model1936", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 830.0
+            }
+        }, 
+        "Nation": "Italy", 
+        "Tier": 5, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PISB508_Roma": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2954, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 64.0, 
+                "bulletDiametr": 0.381, 
+                "bulletKrupp": 2434.0, 
+                "bulletMass": 884.8, 
+                "bulletName": "PIPA012_381MM_50_AP_ROMA", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 850.0
+            }
+        }, 
+        "Nation": "Italy", 
+        "Tier": 8, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PISB805_TST_CESARE": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.4098, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 53.0, 
+                "bulletDiametr": 0.32, 
+                "bulletKrupp": 2600.0, 
+                "bulletMass": 525.0, 
+                "bulletName": "PIPA018_320MM_AP_GCESARE", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 830.0
+            }
+        }, 
+        "Nation": "Italy", 
+        "Tier": 6, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }
+}

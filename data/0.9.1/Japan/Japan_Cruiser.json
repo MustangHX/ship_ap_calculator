@@ -1,0 +1,717 @@
+{
+    "PJSC004_Yubari_1944": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3696, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 23.0, 
+                "bulletDiametr": 0.14, 
+                "bulletKrupp": 1794.0, 
+                "bulletMass": 38.0, 
+                "bulletName": "PJPA013_Shell_140mm_AP_C_capped", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 850.0
+            }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 4, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PJSC005_Furutaka_1926": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.337, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2468.0, 
+                "bulletMass": 125.85, 
+                "bulletName": "PJPA008_Shell_203mm_AP_AP_Type_91", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 840.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.337, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2468.0, 
+                "bulletMass": 125.85, 
+                "bulletName": "PJPA008_Shell_203mm_AP_AP_Type_91", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 840.0
+            }
+        }, 
+        "Artillery2": {
+            "AP": {
+                "bulletAirDrag": 0.317, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 33.0, 
+                "bulletDiametr": 0.2, 
+                "bulletKrupp": 2377.0, 
+                "bulletMass": 110.0, 
+                "bulletName": "PJPA048_200mm_AP_APC_Type_5", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 870.0
+            }
+        }, 
+        "Artillery3": {
+            "AP": {
+                "bulletAirDrag": 0.317, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 33.0, 
+                "bulletDiametr": 0.2, 
+                "bulletKrupp": 2377.0, 
+                "bulletMass": 110.0, 
+                "bulletName": "PJPA048_200mm_AP_APC_Type_5", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 870.0
+            }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 5, 
+        "ammo_num": 4, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PJSC007_Aoba_1943": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.337, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2468.0, 
+                "bulletMass": 125.85, 
+                "bulletName": "PJPA008_Shell_203mm_AP_AP_Type_91", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 840.0
+            }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 6, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PJSC008_Myoko_1945": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.337, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2468.0, 
+                "bulletMass": 125.85, 
+                "bulletName": "PJPA008_Shell_203mm_AP_AP_Type_91", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 840.0
+            }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 7, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PJSC009_Mogami_1935": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.335, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 26.0, 
+                "bulletDiametr": 0.155, 
+                "bulletKrupp": 2429.0, 
+                "bulletMass": 55.87, 
+                "bulletName": "PJPA025_Shell_155mm_AP_APC_Type_91", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 925.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.337, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2468.0, 
+                "bulletMass": 125.85, 
+                "bulletName": "PJPA008_Shell_203mm_AP_AP_Type_91", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 840.0
+            }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 8, 
+        "ammo_num": 2, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PJSC012_Ibuki_1944": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.337, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2468.0, 
+                "bulletMass": 125.85, 
+                "bulletName": "PJPA008_Shell_203mm_AP_AP_Type_91", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 840.0
+            }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 9, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PJSC013_Kuma_1938": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3696, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 23.0, 
+                "bulletDiametr": 0.14, 
+                "bulletKrupp": 1794.0, 
+                "bulletMass": 38.0, 
+                "bulletName": "PJPA013_Shell_140mm_AP_C_capped", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 850.0
+            }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 4, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PJSC014_Kitakami_1945": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3696, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 23.0, 
+                "bulletDiametr": 0.14, 
+                "bulletKrupp": 1794.0, 
+                "bulletMass": 38.0, 
+                "bulletName": "PJPA013_Shell_140mm_AP_C_capped", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 850.0
+            }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 8, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PJSC015_Tatsuta_1919": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3696, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 23.0, 
+                "bulletDiametr": 0.14, 
+                "bulletKrupp": 1794.0, 
+                "bulletMass": 38.0, 
+                "bulletName": "PJPA013_Shell_140mm_AP_C_capped", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 850.0
+            }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 3, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PJSC018_Tone": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.337, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2468.0, 
+                "bulletMass": 125.85, 
+                "bulletName": "PJPA008_Shell_203mm_AP_AP_Type_91", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 840.0
+            }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 7, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PJSC026_Iwaki_1944": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3696, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 23.0, 
+                "bulletDiametr": 0.14, 
+                "bulletKrupp": 1794.0, 
+                "bulletMass": 38.0, 
+                "bulletName": "PJPA013_Shell_140mm_AP_C_capped", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 850.0
+            }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 4, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PJSC034_Zao_1944": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.337, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2468.0, 
+                "bulletMass": 155.0, 
+                "bulletName": "PJPA038_Shell_203mm_AP_AP_Type_92", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 920.0
+            }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 10, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PJSC035_Chikuma_1912": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3693, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 1450.0, 
+                "bulletMass": 45.4, 
+                "bulletName": "PJPA043_Shell_152mm_AP_C_Type_4", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 825.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.3693, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 1450.0, 
+                "bulletMass": 45.4, 
+                "bulletName": "PJPA043_Shell_152mm_AP_C_Type_4", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 825.0
+            }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 2, 
+        "ammo_num": 2, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PJSC037_Hashidate_1940": {}, 
+    "PJSC038_Atago_1944": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.337, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2468.0, 
+                "bulletMass": 125.85, 
+                "bulletName": "PJPA008_Shell_203mm_AP_AP_Type_91", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 840.0
+            }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 8, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PJSC503_Katori": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3696, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 23.0, 
+                "bulletDiametr": 0.14, 
+                "bulletKrupp": 1794.0, 
+                "bulletMass": 38.0, 
+                "bulletName": "PJPA013_Shell_140mm_AP_C_capped", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 850.0
+            }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 3, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PJSC505_Yahagi": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3562, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.025, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.152, 
+                "bulletKrupp": 1900.0, 
+                "bulletMass": 45.4, 
+                "bulletName": "PJPA086_152MM_AP_YAHAGI", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 850.0
+            }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 5, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PJSC510_Azumaya": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.244, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 52.0, 
+                "bulletDiametr": 0.31, 
+                "bulletKrupp": 2365.0, 
+                "bulletMass": 448.8, 
+                "bulletName": "PJPA088_310MM_AP_AZUMAYA", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 836.0
+            }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 9, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PJSC520_Yoshino": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.244, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 52.0, 
+                "bulletDiametr": 0.31, 
+                "bulletKrupp": 2365.0, 
+                "bulletMass": 448.8, 
+                "bulletName": "PJPA092_310MM_AP_AZUMAYA", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 836.0
+            }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 10, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PJSC598_Black_Atago": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.337, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2468.0, 
+                "bulletMass": 125.85, 
+                "bulletName": "PJPA008_Shell_203mm_AP_AP_Type_91", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 840.0
+            }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 8, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PJSC705_Myoko": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.337, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2468.0, 
+                "bulletMass": 125.85, 
+                "bulletName": "PJPA008_Shell_203mm_AP_AP_Type_91", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 840.0
+            }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 7, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PJSC707_Ashigara": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.337, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2468.0, 
+                "bulletMass": 125.85, 
+                "bulletName": "PJPA008_Shell_203mm_AP_AP_Type_91", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 840.0
+            }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 7, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PJSC708_ARP_Takao": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.337, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2468.0, 
+                "bulletMass": 125.85, 
+                "bulletName": "PJPA008_Shell_203mm_AP_AP_Type_91", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 840.0
+            }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 8, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PJSC709_Haguro": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.337, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2468.0, 
+                "bulletMass": 125.85, 
+                "bulletName": "PJPA008_Shell_203mm_AP_AP_Type_91", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 840.0
+            }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 7, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PJSC717_Yellow_Dragon": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.337, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2468.0, 
+                "bulletMass": 125.85, 
+                "bulletName": "PJPA008_Shell_203mm_AP_AP_Type_91", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 840.0
+            }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 7, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PJSC727_Blue_Dragon": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.337, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2468.0, 
+                "bulletMass": 125.85, 
+                "bulletName": "PJPA008_Shell_203mm_AP_AP_Type_91", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 840.0
+            }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 7, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PJSC737_Nachi": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.337, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2468.0, 
+                "bulletMass": 125.85, 
+                "bulletName": "PJPA008_Shell_203mm_AP_AP_Type_91", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 840.0
+            }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 7, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PJSC810_TST_ZAO": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.337, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2468.0, 
+                "bulletMass": 155.0, 
+                "bulletName": "PJPA090_AP_TST_ZAO", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 920.0
+            }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 10, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PJSC934_Zao_1944": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.337, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 34.0, 
+                "bulletDiametr": 0.203, 
+                "bulletKrupp": 2468.0, 
+                "bulletMass": 155.0, 
+                "bulletName": "PJPA038_Shell_203mm_AP_AP_Type_92", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 920.0
+            }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 10, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }
+}

@@ -1,0 +1,380 @@
+{
+    "PWSD102_Tatra": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3915, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 17.0, 
+                "bulletDiametr": 0.102, 
+                "bulletKrupp": 1721.0, 
+                "bulletMass": 13.75, 
+                "bulletName": "PWPA015_100MM_AP_50_K11", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 880.0
+            }
+        }, 
+        "Nation": "Europe", 
+        "Tier": 2, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PWSD103_Romulus": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3177, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 20.0, 
+                "bulletDiametr": 0.12, 
+                "bulletKrupp": 1721.0, 
+                "bulletMass": 21.0, 
+                "bulletName": "PWPA009_120MM_AP_45_M24", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 800.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.3177, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 17.0, 
+                "bulletDiametr": 0.102, 
+                "bulletKrupp": 1721.0, 
+                "bulletMass": 13.8, 
+                "bulletName": "PWPA011_100MM_AP_47_OTO1931", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 840.0
+            }
+        }, 
+        "Nation": "Europe", 
+        "Tier": 3, 
+        "ammo_num": 2, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PWSD104_Klas_Horn": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3177, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 20.0, 
+                "bulletDiametr": 0.12, 
+                "bulletKrupp": 1721.0, 
+                "bulletMass": 21.0, 
+                "bulletName": "PWPA009_120MM_AP_45_M24", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 800.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.3177, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 20.0, 
+                "bulletDiametr": 0.12, 
+                "bulletKrupp": 1721.0, 
+                "bulletMass": 21.0, 
+                "bulletName": "PWPA009_120MM_AP_45_M24", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 800.0
+            }
+        }, 
+        "Nation": "Europe", 
+        "Tier": 4, 
+        "ammo_num": 2, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PWSD105_Visby": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3177, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 20.0, 
+                "bulletDiametr": 0.12, 
+                "bulletKrupp": 1721.0, 
+                "bulletMass": 24.0, 
+                "bulletName": "PWPA021_120_AP_50_M36", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 900.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.3177, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 20.0, 
+                "bulletDiametr": 0.12, 
+                "bulletKrupp": 1721.0, 
+                "bulletMass": 24.0, 
+                "bulletName": "PWPA021_120_AP_50_M36", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 900.0
+            }
+        }, 
+        "Nation": "Europe", 
+        "Tier": 5, 
+        "ammo_num": 2, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PWSD106_Vasteras": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3177, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 20.0, 
+                "bulletDiametr": 0.12, 
+                "bulletKrupp": 1721.0, 
+                "bulletMass": 24.0, 
+                "bulletName": "PWPA021_120_AP_50_M36", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 900.0
+            }
+        }, 
+        "Nation": "Europe", 
+        "Tier": 6, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PWSD107_Skane": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3344, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 20.0, 
+                "bulletDiametr": 0.12, 
+                "bulletKrupp": 2500.0, 
+                "bulletMass": 23.5, 
+                "bulletName": "PWPA013_120_50_AP_M42", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 850.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.3344, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 20.0, 
+                "bulletDiametr": 0.12, 
+                "bulletKrupp": 2500.0, 
+                "bulletMass": 23.5, 
+                "bulletName": "PWPA013_120_50_AP_M42", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 850.0
+            }
+        }, 
+        "Nation": "Europe", 
+        "Tier": 7, 
+        "ammo_num": 2, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PWSD108_Oland": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3344, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 20.0, 
+                "bulletDiametr": 0.12, 
+                "bulletKrupp": 2500.0, 
+                "bulletMass": 23.5, 
+                "bulletName": "PWPA013_120_50_AP_M42", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 850.0
+            }
+        }, 
+        "Nation": "Europe", 
+        "Tier": 8, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PWSD109_Ostergotland": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3344, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 20.0, 
+                "bulletDiametr": 0.12, 
+                "bulletKrupp": 2500.0, 
+                "bulletMass": 23.5, 
+                "bulletName": "PWPA013_120_50_AP_M42", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 850.0
+            }
+        }, 
+        "Nation": "Europe", 
+        "Tier": 9, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PWSD110_Halland": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3215, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 20.0, 
+                "bulletDiametr": 0.12, 
+                "bulletKrupp": 2400.0, 
+                "bulletMass": 23.5, 
+                "bulletName": "PWPA017_120_AP_50_M50", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 825.0
+            }
+        }, 
+        "Nation": "Europe", 
+        "Tier": 10, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PWSD501_Blyskawica": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3177, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 20.0, 
+                "bulletDiametr": 0.12, 
+                "bulletKrupp": 1721.0, 
+                "bulletMass": 24.0, 
+                "bulletName": "PWPA002_120_AP_BLYSKAWICA", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 900.0
+            }
+        }, 
+        "Nation": "Europe", 
+        "Tier": 7, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PWSD508_Orkan": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.343, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 20.0, 
+                "bulletDiametr": 0.12, 
+                "bulletKrupp": 2300.0, 
+                "bulletMass": 28.12, 
+                "bulletName": "PWPA023_120MM_AP_ORKAN", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 774.0
+            }
+        }, 
+        "Nation": "Europe", 
+        "Tier": 8, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PWSD510_Friesland": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3215, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 20.0, 
+                "bulletDiametr": 0.12, 
+                "bulletKrupp": 2400.0, 
+                "bulletMass": 23.5, 
+                "bulletName": "PHPA002_120_AP_FRIESLAND", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 825.0
+            }
+        }, 
+        "Nation": "Europe", 
+        "Tier": 9, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PWSD610_Smaland": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3215, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 20.0, 
+                "bulletDiametr": 0.12, 
+                "bulletKrupp": 2400.0, 
+                "bulletMass": 23.5, 
+                "bulletName": "PWPA019_120MM_AP_SMALAND", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 825.0
+            }
+        }, 
+        "Nation": "Europe", 
+        "Tier": 10, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PWSD910_Lappland": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3215, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 20.0, 
+                "bulletDiametr": 0.12, 
+                "bulletKrupp": 2400.0, 
+                "bulletMass": 23.5, 
+                "bulletName": "PWPA017_120_AP_50_M50", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 825.0
+            }
+        }, 
+        "Nation": "Europe", 
+        "Tier": 10, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }
+}

@@ -1,0 +1,541 @@
+{
+    "PRSD001_Gremyashchy_1942": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2857, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 22.0, 
+                "bulletDiametr": 0.13, 
+                "bulletKrupp": 1700.0, 
+                "bulletMass": 33.5, 
+                "bulletName": "PRPA003_130mm_AP_PB_46", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 870.0
+            }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 5, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PRSD102_SM_Storojevoy": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3756, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 17.0, 
+                "bulletDiametr": 0.102, 
+                "bulletKrupp": 1488.0, 
+                "bulletMass": 17.5, 
+                "bulletName": "PRPA009_102MM_AP_1915", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 823.0
+            }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 2, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PRSD103_Derzky": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3756, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 17.0, 
+                "bulletDiametr": 0.102, 
+                "bulletKrupp": 1488.0, 
+                "bulletMass": 17.5, 
+                "bulletName": "PRPA009_102MM_AP_1915", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 823.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.3756, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 17.0, 
+                "bulletDiametr": 0.102, 
+                "bulletKrupp": 1488.0, 
+                "bulletMass": 17.5, 
+                "bulletName": "PRPA009_102MM_AP_1915", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 823.0
+            }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 3, 
+        "ammo_num": 2, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PRSD104_Izyaslav": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3756, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 17.0, 
+                "bulletDiametr": 0.102, 
+                "bulletKrupp": 1488.0, 
+                "bulletMass": 17.5, 
+                "bulletName": "PRPA009_102MM_AP_1915", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 823.0
+            }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 4, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PRSD105_Pr_7_Gnevny": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2857, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 22.0, 
+                "bulletDiametr": 0.13, 
+                "bulletKrupp": 1700.0, 
+                "bulletMass": 33.5, 
+                "bulletName": "PRPA019_130MM_AP_NEPREM", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 870.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.2857, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 22.0, 
+                "bulletDiametr": 0.13, 
+                "bulletKrupp": 1700.0, 
+                "bulletMass": 33.5, 
+                "bulletName": "PRPA019_130MM_AP_NEPREM", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 870.0
+            }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 5, 
+        "ammo_num": 2, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PRSD106_Pr_30_Ognevoy": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2857, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 22.0, 
+                "bulletDiametr": 0.13, 
+                "bulletKrupp": 1700.0, 
+                "bulletMass": 33.5, 
+                "bulletName": "PRPA019_130MM_AP_NEPREM", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 870.0
+            }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 6, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PRSD107_Pr_35_Udaloy": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2549, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 22.0, 
+                "bulletDiametr": 0.13, 
+                "bulletKrupp": 1720.0, 
+                "bulletMass": 33.5, 
+                "bulletName": "PRPA011_130MM_AP_PB_46_B2U", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 900.0
+            }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 9, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PRSD108_Pr_20i_Tashkent": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2857, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 22.0, 
+                "bulletDiametr": 0.13, 
+                "bulletKrupp": 1700.0, 
+                "bulletMass": 33.5, 
+                "bulletName": "PRPA019_130MM_AP_NEPREM", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 870.0
+            }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 8, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PRSD109_Pr_48_Kiev": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2857, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 22.0, 
+                "bulletDiametr": 0.13, 
+                "bulletKrupp": 1700.0, 
+                "bulletMass": 33.5, 
+                "bulletName": "PRPA019_130MM_AP_NEPREM", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 870.0
+            }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 7, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PRSD110_Pr_24_Khabarovsk": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2549, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 22.0, 
+                "bulletDiametr": 0.13, 
+                "bulletKrupp": 1720.0, 
+                "bulletMass": 33.5, 
+                "bulletName": "PRPA011_130MM_AP_PB_46_B2U", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 900.0
+            }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 10, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PRSD205_Podvoisky_pr_1929": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.291, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.03, 
+                "bulletDetonatorThreshold": 22.0, 
+                "bulletDiametr": 0.13, 
+                "bulletKrupp": 1652.0, 
+                "bulletMass": 33.5, 
+                "bulletName": "PRPA063_130MM_AP_PB46_OLD_GUNS", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 861.0
+            }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 5, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PRSD206_Pr_7": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2857, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 22.0, 
+                "bulletDiametr": 0.13, 
+                "bulletKrupp": 1700.0, 
+                "bulletMass": 33.5, 
+                "bulletName": "PRPA003_130mm_AP_PB_46", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 870.0
+            }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 6, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PRSD207_Minsk": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2857, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 22.0, 
+                "bulletDiametr": 0.13, 
+                "bulletKrupp": 1700.0, 
+                "bulletMass": 33.5, 
+                "bulletName": "PRPA003_130mm_AP_PB_46", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 870.0
+            }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 7, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PRSD208_Pr_30": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2857, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 22.0, 
+                "bulletDiametr": 0.13, 
+                "bulletKrupp": 1700.0, 
+                "bulletMass": 33.5, 
+                "bulletName": "PRPA019_130MM_AP_NEPREM", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 870.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.2549, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 22.0, 
+                "bulletDiametr": 0.13, 
+                "bulletKrupp": 1720.0, 
+                "bulletMass": 33.5, 
+                "bulletName": "PRPA011_130MM_AP_PB_46_B2U", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 900.0
+            }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 8, 
+        "ammo_num": 2, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PRSD210_Grozovoy_pr_40N": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2941, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 22.0, 
+                "bulletDiametr": 0.13, 
+                "bulletKrupp": 1900.0, 
+                "bulletMass": 33.4, 
+                "bulletName": "PRPA057_130MM_AP_PB_42_SM21", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 950.0
+            }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 10, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PRSD308_Pr_48": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2857, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 22.0, 
+                "bulletDiametr": 0.13, 
+                "bulletKrupp": 1700.0, 
+                "bulletMass": 33.5, 
+                "bulletName": "PRPA019_130MM_AP_NEPREM", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 870.0
+            }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 8, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PRSD409_Pr_20i_Tashkent": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2857, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 22.0, 
+                "bulletDiametr": 0.13, 
+                "bulletKrupp": 1700.0, 
+                "bulletMass": 33.5, 
+                "bulletName": "PRPA019_130MM_AP_NEPREM", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 870.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.2549, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 22.0, 
+                "bulletDiametr": 0.13, 
+                "bulletKrupp": 1720.0, 
+                "bulletMass": 33.5, 
+                "bulletName": "PRPA011_130MM_AP_PB_46_B2U", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 900.0
+            }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 9, 
+        "ammo_num": 2, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PRSD505_Okhotnik_1917": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.291, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.03, 
+                "bulletDetonatorThreshold": 22.0, 
+                "bulletDiametr": 0.13, 
+                "bulletKrupp": 1652.0, 
+                "bulletMass": 33.5, 
+                "bulletName": "PRPA055_130MM_AP_OHOTNIK", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 861.0
+            }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 5, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PRSD507_Leningrad_1944": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2857, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 22.0, 
+                "bulletDiametr": 0.13, 
+                "bulletKrupp": 1700.0, 
+                "bulletMass": 33.5, 
+                "bulletName": "PRPA050_AP_LGD", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 870.0
+            }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 7, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PRSD709_Pr_41_Neustrashimy": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2941, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 22.0, 
+                "bulletDiametr": 0.13, 
+                "bulletKrupp": 1900.0, 
+                "bulletMass": 33.4, 
+                "bulletName": "PRPA092_130MM_AP_NEUSTR", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 950.0
+            }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 9, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PRSD910_Grozovoy_pr_40N": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.2941, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 22.0, 
+                "bulletDiametr": 0.13, 
+                "bulletKrupp": 1900.0, 
+                "bulletMass": 33.4, 
+                "bulletName": "PRPA057_130MM_AP_PB_42_SM21", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 950.0
+            }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 10, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }
+}

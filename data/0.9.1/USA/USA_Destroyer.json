@@ -1,0 +1,588 @@
+{
+    "PASD002_Sampson_1917": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.33, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 17.0, 
+                "bulletDiametr": 0.102, 
+                "bulletKrupp": 1451.0, 
+                "bulletMass": 14.97, 
+                "bulletName": "PAPA033_Shell_102mm_AP_SC_Mk_16", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 884.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 2, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASD005_Farragut_1944": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.347, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 2598.0, 
+                "bulletMass": 25.0, 
+                "bulletName": "PAPA004_Shell_127mm_AP_SC_Mk_38", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 792.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.347, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 2598.0, 
+                "bulletMass": 25.0, 
+                "bulletName": "PAPA004_Shell_127mm_AP_SC_Mk_38", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 792.0
+            }
+        }, 
+        "Artillery2": {
+            "AP": {
+                "bulletAirDrag": 0.347, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 2598.0, 
+                "bulletMass": 25.0, 
+                "bulletName": "PAPA004_Shell_127mm_AP_SC_Mk_38", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 792.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 6, 
+        "ammo_num": 3, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASD006_Mahan_1936": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.347, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 2598.0, 
+                "bulletMass": 25.0, 
+                "bulletName": "PAPA004_Shell_127mm_AP_SC_Mk_38", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 792.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.347, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 2598.0, 
+                "bulletMass": 25.0, 
+                "bulletName": "PAPA004_Shell_127mm_AP_SC_Mk_38", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 792.0
+            }
+        }, 
+        "Artillery2": {
+            "AP": {
+                "bulletAirDrag": 0.347, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 2598.0, 
+                "bulletMass": 25.0, 
+                "bulletName": "PAPA004_Shell_127mm_AP_SC_Mk_38", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 792.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 7, 
+        "ammo_num": 3, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASD008_Benson_1945": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.347, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 2598.0, 
+                "bulletMass": 25.0, 
+                "bulletName": "PAPA004_Shell_127mm_AP_SC_Mk_38", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 792.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.347, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 2598.0, 
+                "bulletMass": 25.0, 
+                "bulletName": "PAPA004_Shell_127mm_AP_SC_Mk_38", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 792.0
+            }
+        }, 
+        "Artillery2": {
+            "AP": {
+                "bulletAirDrag": 0.347, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 2598.0, 
+                "bulletMass": 25.0, 
+                "bulletName": "PAPA004_Shell_127mm_AP_SC_Mk_38", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 792.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 8, 
+        "ammo_num": 3, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASD013_Gearing_1945": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.347, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 2598.0, 
+                "bulletMass": 25.0, 
+                "bulletName": "PAPA004_Shell_127mm_AP_SC_Mk_38", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 792.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 10, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASD014_Leader_1919": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.36, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 1400.0, 
+                "bulletMass": 22.7, 
+                "bulletName": "PAPA043_Shell_127_AP_C_Mk_15", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 960.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.347, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 2598.0, 
+                "bulletMass": 25.0, 
+                "bulletName": "PAPA004_Shell_127mm_AP_SC_Mk_38", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 792.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 5, 
+        "ammo_num": 2, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASD019_Clemson_1920": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.33, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 17.0, 
+                "bulletDiametr": 0.102, 
+                "bulletKrupp": 1451.0, 
+                "bulletMass": 14.97, 
+                "bulletName": "PAPA033_Shell_102mm_AP_SC_Mk_16", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 884.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.33, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 17.0, 
+                "bulletDiametr": 0.102, 
+                "bulletKrupp": 1451.0, 
+                "bulletMass": 14.97, 
+                "bulletName": "PAPA033_Shell_102mm_AP_SC_Mk_16", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 884.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 4, 
+        "ammo_num": 2, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASD021_Fletcher_1943": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.347, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 2598.0, 
+                "bulletMass": 25.0, 
+                "bulletName": "PAPA004_Shell_127mm_AP_SC_Mk_38", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 792.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 9, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASD027_Wickes_1918": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.33, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 17.0, 
+                "bulletDiametr": 0.102, 
+                "bulletKrupp": 1451.0, 
+                "bulletMass": 14.97, 
+                "bulletName": "PAPA033_Shell_102mm_AP_SC_Mk_16", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 884.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 3, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASD029_Sims_1941": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.347, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 2598.0, 
+                "bulletMass": 25.0, 
+                "bulletName": "PAPA004_Shell_127mm_AP_SC_Mk_38", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 792.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 7, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASD502_Smith": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.47, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 13.0, 
+                "bulletDiametr": 0.076, 
+                "bulletKrupp": 2480.0, 
+                "bulletMass": 5.9, 
+                "bulletName": "PAPA023_Shell_76mm_AP_AP_Mk_29", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 823.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 2, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASD505_Hill": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.347, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 2598.0, 
+                "bulletMass": 25.0, 
+                "bulletName": "PAPA110_127MM_AP_HILL", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 792.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 5, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASD506_Monaghan": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.347, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 2598.0, 
+                "bulletMass": 25.0, 
+                "bulletName": "PAPA086_127MM_AP_MONAGHAN", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 792.0
+            }
+        }, 
+        "Artillery1": {
+            "AP": {
+                "bulletAirDrag": 0.347, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 2598.0, 
+                "bulletMass": 25.0, 
+                "bulletName": "PAPA086_127MM_AP_MONAGHAN", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 792.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 6, 
+        "ammo_num": 2, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASD508_Kidd": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.347, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 2598.0, 
+                "bulletMass": 25.0, 
+                "bulletName": "PAPA078_127MM_AP_KIDD", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 792.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 8, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASD509_Benham": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.347, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 2598.0, 
+                "bulletMass": 25.0, 
+                "bulletName": "PAPA109_127MM_AP_BENHAM", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 792.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 9, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASD510_Somers": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.347, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 2598.0, 
+                "bulletMass": 25.0, 
+                "bulletName": "PAPA113_127mm_AP_SOMERS", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 792.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 10, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASD597_Black_Sims": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.347, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 2598.0, 
+                "bulletMass": 25.0, 
+                "bulletName": "PAPA004_Shell_127mm_AP_SC_Mk_38", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 792.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 7, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASD709_Black": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.347, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 2598.0, 
+                "bulletMass": 25.0, 
+                "bulletName": "PAPA070_127MM_AP_BLACK", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 792.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 9, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASD810_TST_GEARING": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.347, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 2598.0, 
+                "bulletMass": 25.0, 
+                "bulletName": "PAPA100_127_AP_TST_GEARING", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 792.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 10, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PASD913_Gearing_1945": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.347, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 21.0, 
+                "bulletDiametr": 0.127, 
+                "bulletKrupp": 2598.0, 
+                "bulletMass": 25.0, 
+                "bulletName": "PAPA004_Shell_127mm_AP_SC_Mk_38", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 792.0
+            }
+        }, 
+        "Nation": "USA", 
+        "Tier": 10, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }
+}

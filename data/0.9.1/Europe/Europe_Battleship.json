@@ -1,0 +1,25 @@
+{
+    "PWSB504_Viribus_Unitis": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.435, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 51.0, 
+                "bulletDiametr": 0.305, 
+                "bulletKrupp": 2800.0, 
+                "bulletMass": 450.0, 
+                "bulletName": "PWPA004_305MM_AP_VIRIBUS", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 800.0
+            }
+        }, 
+        "Nation": "Europe", 
+        "Tier": 5, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }
+}

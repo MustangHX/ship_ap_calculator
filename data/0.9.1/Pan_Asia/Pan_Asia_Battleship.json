@@ -1,0 +1,25 @@
+{
+    "PZSB509_Izumo_Bajie": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 68.0, 
+                "bulletDiametr": 0.41, 
+                "bulletKrupp": 2711.0, 
+                "bulletMass": 1020.0, 
+                "bulletName": "PZPA028_410mm_AP_IZUMO_CN", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 870.0
+            }
+        }, 
+        "Nation": "Pan_Asia", 
+        "Tier": 9, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.8, 
+        "vertdisp1": 0.6, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }
+}

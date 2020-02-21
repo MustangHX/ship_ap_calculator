@@ -1,0 +1,48 @@
+{
+    "PISD506_Leone": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.4046, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 20.0, 
+                "bulletDiametr": 0.12, 
+                "bulletKrupp": 2000.0, 
+                "bulletMass": 23.15, 
+                "bulletName": "PIPA016_120MM_AP_LEONE", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 850.0
+            }
+        }, 
+        "Nation": "Italy", 
+        "Tier": 6, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PISD510_Paolo_Emilio": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.416, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.01, 
+                "bulletDetonatorThreshold": 23.0, 
+                "bulletDiametr": 0.135, 
+                "bulletKrupp": 2200.0, 
+                "bulletMass": 32.7, 
+                "bulletName": "PIPA022_135MM_AP_P_EMILIO", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 825.0
+            }
+        }, 
+        "Nation": "Italy", 
+        "Tier": 10, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }
+}
